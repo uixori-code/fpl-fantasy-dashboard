@@ -24,18 +24,19 @@ export default function MyTeam() {
       entry.current_event ??
       bootstrap.events.find((e) => e.isNext)?.id ??
       bootstrap.events.find((e) => e.isCurrent)?.id ??
-      null;
+      bootstrap.events[0]?.id ??
+      1;
 
     let picks = null;
-    if (targetEvent) {
-      try {
-        picks = await fetchManagerPicks(managerId, targetEvent);
-      } catch {
-        // No picks saved for that gameweek yet — show the empty state instead of crashing.
-      }
+    let picksError: string | null = null;
+    try {
+      picks = await fetchManagerPicks(managerId, targetEvent);
+    } catch (err) {
+      picksError = err instanceof Error ? err.message : String(err);
+      console.error('Failed to load squad picks for event', targetEvent, err);
     }
 
-    return { entry, history, bootstrap, fixtures, picks };
+    return { entry, history, bootstrap, fixtures, picks, picksError, targetEvent };
   }, [managerId]);
 
   if (!managerId) {
@@ -57,7 +58,7 @@ export default function MyTeam() {
     );
   }
 
-  const { entry, history, bootstrap, fixtures, picks } = data;
+  const { entry, history, bootstrap, fixtures, picks, picksError, targetEvent } = data;
   const chartData = history.current.map((h) => ({ gw: h.event, points: h.points, rank: h.overall_rank }));
   const fmt = (v: number | null) => (v == null ? '—' : v.toLocaleString());
 
@@ -70,7 +71,15 @@ export default function MyTeam() {
         <StatCard label="Last GW Points" value={fmt(entry.summary_event_points)} />
       </div>
 
-      {chartData.length === 0 && !picks && (
+      {!picks && picksError && (
+        <EmptyState title={`Couldn't load your squad for Gameweek ${targetEvent ?? '?'}`}>
+          <span className="block">{picksError}</span>
+          <span className="block mt-1 text-xs text-slate-500">
+            If this keeps happening, screenshot this message so it can be diagnosed.
+          </span>
+        </EmptyState>
+      )}
+      {!picks && !picksError && chartData.length === 0 && (
         <EmptyState title="Your squad hasn't played a gameweek yet">
           Your points history and squad pitch view will appear here as soon as Gameweek 1 kicks off.
         </EmptyState>
