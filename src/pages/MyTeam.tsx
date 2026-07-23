@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
 import { getManagerId } from '../lib/storage';
 import { fetchManagerEntry, fetchManagerHistory, fetchManagerPicks } from '../lib/fplLiveClient';
-import { loadBootstrap } from '../lib/dataLoader';
+import { loadBootstrap, loadFixtures } from '../lib/dataLoader';
 import { useAsyncData } from '../lib/useAsyncData';
 import EmptyState from '../components/EmptyState';
 import StatCard from '../components/StatCard';
@@ -13,13 +13,14 @@ export default function MyTeam() {
 
   const { data, loading, error } = useAsyncData(async () => {
     if (!managerId) return null;
-    const [entry, history, bootstrap] = await Promise.all([
+    const [entry, history, bootstrap, fixtures] = await Promise.all([
       fetchManagerEntry(managerId),
       fetchManagerHistory(managerId),
       loadBootstrap(),
+      loadFixtures(),
     ]);
     const picks = entry.current_event ? await fetchManagerPicks(managerId, entry.current_event) : null;
-    return { entry, history, bootstrap, picks };
+    return { entry, history, bootstrap, fixtures, picks };
   }, [managerId]);
 
   if (!managerId) {
@@ -41,7 +42,7 @@ export default function MyTeam() {
     );
   }
 
-  const { entry, history, bootstrap, picks } = data;
+  const { entry, history, bootstrap, fixtures, picks } = data;
   const chartData = history.current.map((h) => ({ gw: h.event, points: h.points, rank: h.overall_rank }));
 
   return (
@@ -71,7 +72,7 @@ export default function MyTeam() {
       {picks && (
         <div>
           <div className="font-semibold mb-3">Current Squad</div>
-          <PitchView picks={picks.picks} players={bootstrap.players} teams={bootstrap.teams} />
+          <PitchView picks={picks.picks} players={bootstrap.players} teams={bootstrap.teams} fixtures={fixtures.fixtures} />
         </div>
       )}
     </div>

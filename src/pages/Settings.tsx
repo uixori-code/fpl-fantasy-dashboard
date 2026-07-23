@@ -13,7 +13,7 @@ export default function Settings() {
     const id = input.trim();
     if (!/^\d+$/.test(id)) {
       setStatus('error');
-      setMessage('Manager ID should be numbers only, e.g. 486265.');
+      setMessage('Manager ID should be numbers only, e.g. 1234567.');
       return;
     }
 
@@ -42,13 +42,13 @@ export default function Settings() {
     <div className="max-w-md space-y-4">
       <h2 className="font-semibold text-lg">My FPL Manager ID</h2>
       <p className="text-sm text-slate-400">
-        Find this in the FPL site's "Points" or "Pick Team" URL (e.g. <code>/entry/486265/...</code>), or via
+        Find this in the FPL site's "Points" or "Pick Team" URL (e.g. <code>/entry/1234567/...</code>), or via
         DevTools → Network → the <code>/api/me/</code> request's <code>entry</code> field.
       </p>
       <input
         value={input}
         onChange={(e) => setInput(e.target.value)}
-        placeholder="e.g. 486265"
+        placeholder="e.g. 1234567"
         className="w-full bg-white/5 border border-white/20 rounded-md px-3 py-2 text-sm outline-none focus:border-accent"
       />
       <div className="flex gap-2">

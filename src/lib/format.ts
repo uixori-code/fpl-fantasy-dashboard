@@ -1,4 +1,4 @@
-import type { Player, Team } from './types';
+import type { Fixture, Player, Team } from './types';
 
 export function formatCost(nowCost: number): string {
   return `£${(nowCost / 10).toFixed(1)}m`;
@@ -23,6 +23,16 @@ export function teamShortName(teams: Team[], teamId: number): string {
 
 export function playerName(players: Player[], playerId: number): string {
   return players.find((p) => p.id === playerId)?.webName ?? `#${playerId}`;
+}
+
+export function nextFixtureLabel(fixtures: Fixture[], teamId: number, teams: Team[]): string {
+  const next = fixtures
+    .filter((f) => !f.finished && (f.teamH === teamId || f.teamA === teamId))
+    .sort((a, b) => (a.kickoffTime ?? '').localeCompare(b.kickoffTime ?? ''))[0];
+  if (!next) return '—';
+  const isHome = next.teamH === teamId;
+  const oppId = isHome ? next.teamA : next.teamH;
+  return `${teamShortName(teams, oppId)} (${isHome ? 'H' : 'A'})`;
 }
 
 export function difficultyColor(difficulty: number): string {
