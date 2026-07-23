@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:59:10.802Z",
+  "generatedAt": "2026-07-23T19:29:24.287Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -189,30 +189,32 @@
   ],
   "priceRisers": [],
   "priceFallers": [],
+  "predictedRisers": [],
+  "predictedFallers": [],
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 67.1
+      "value": 67.5
     },
     {
       "playerId": 165,
-      "value": 45
+      "value": 45.1
     },
     {
       "playerId": 426,
-      "value": 43
+      "value": 43.2
     },
     {
       "playerId": 40,
-      "value": 38.2
+      "value": 38.1
     },
     {
       "playerId": 368,
-      "value": 33.6
+      "value": 33.8
     },
     {
       "playerId": 1,
-      "value": 28.1
+      "value": 28.3
     },
     {
       "playerId": 388,
@@ -220,35 +222,35 @@
     },
     {
       "playerId": 387,
-      "value": 25
+      "value": 25.1
     },
     {
       "playerId": 13,
-      "value": 24.7
+      "value": 24.6
     },
     {
       "playerId": 4,
-      "value": 22.7
-    },
-    {
-      "playerId": 106,
-      "value": 22.2
+      "value": 22.8
     },
     {
       "playerId": 499,
-      "value": 22
+      "value": 22.1
     },
     {
       "playerId": 497,
+      "value": 22
+    },
+    {
+      "playerId": 106,
       "value": 21.9
     },
     {
       "playerId": 78,
-      "value": 21.8
+      "value": 21.6
     },
     {
       "playerId": 259,
-      "value": 20.2
+      "value": 20.3
     }
   ],
   "formLeaders": [
@@ -397,6 +399,10 @@
       "value": 151
     },
     {
+      "playerId": 533,
+      "value": 151
+    },
+    {
       "playerId": 5,
       "value": 149
     },
@@ -431,10 +437,52 @@
     {
       "playerId": 69,
       "value": 136
+    }
+  ],
+  "templateTeam": [
+    {
+      "playerId": 1,
+      "value": 28.3
     },
     {
-      "playerId": 95,
-      "value": 136
+      "playerId": 388,
+      "value": 26.2
+    },
+    {
+      "playerId": 387,
+      "value": 25.1
+    },
+    {
+      "playerId": 4,
+      "value": 22.8
+    },
+    {
+      "playerId": 426,
+      "value": 43.2
+    },
+    {
+      "playerId": 40,
+      "value": 38.1
+    },
+    {
+      "playerId": 411,
+      "value": 67.5
+    },
+    {
+      "playerId": 165,
+      "value": 45.1
+    },
+    {
+      "playerId": 368,
+      "value": 33.8
+    },
+    {
+      "playerId": 13,
+      "value": 24.6
+    },
+    {
+      "playerId": 499,
+      "value": 22.1
     }
   ],
   "fixtureRuns": [
@@ -710,5 +758,856 @@
       "score": 0,
       "reason": "Form 0.0, next fixture difficulty 2"
     }
-  ]
+  ],
+  "setPieceTakers": [
+    {
+      "teamId": 1,
+      "penalties": [
+        {
+          "playerId": 12,
+          "order": 1
+        },
+        {
+          "playerId": 25,
+          "order": 2
+        },
+        {
+          "playerId": 15,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 13,
+          "order": 1
+        },
+        {
+          "playerId": 12,
+          "order": 2
+        },
+        {
+          "playerId": 14,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 13,
+          "order": 5
+        },
+        {
+          "playerId": 12,
+          "order": 6
+        },
+        {
+          "playerId": 16,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 2,
+      "penalties": [
+        {
+          "playerId": 41,
+          "order": 1
+        },
+        {
+          "playerId": 55,
+          "order": 2
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 41,
+          "order": 1
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 30,
+          "order": 4
+        },
+        {
+          "playerId": 32,
+          "order": 5
+        },
+        {
+          "playerId": 45,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 3,
+      "penalties": [
+        {
+          "playerId": 78,
+          "order": 1
+        },
+        {
+          "playerId": 70,
+          "order": 2
+        },
+        {
+          "playerId": 68,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 68,
+          "order": 1
+        },
+        {
+          "playerId": 70,
+          "order": 2
+        },
+        {
+          "playerId": 74,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 68,
+          "order": 6
+        },
+        {
+          "playerId": 69,
+          "order": 7
+        },
+        {
+          "playerId": 71,
+          "order": 8
+        }
+      ]
+    },
+    {
+      "teamId": 4,
+      "penalties": [
+        {
+          "playerId": 106,
+          "order": 1
+        },
+        {
+          "playerId": 94,
+          "order": 2
+        },
+        {
+          "playerId": 97,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 86,
+          "order": 1
+        },
+        {
+          "playerId": 97,
+          "order": 2
+        },
+        {
+          "playerId": 96,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 97,
+          "order": 5
+        },
+        {
+          "playerId": 96,
+          "order": 6
+        },
+        {
+          "playerId": 98,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 5,
+      "penalties": [
+        {
+          "playerId": 136,
+          "order": 1
+        },
+        {
+          "playerId": 126,
+          "order": 2
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 136,
+          "order": 1
+        },
+        {
+          "playerId": 129,
+          "order": 2
+        },
+        {
+          "playerId": 116,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 124,
+          "order": 5
+        },
+        {
+          "playerId": 122,
+          "order": 6
+        },
+        {
+          "playerId": 113,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 6,
+      "penalties": [
+        {
+          "playerId": 154,
+          "order": 1
+        },
+        {
+          "playerId": 155,
+          "order": 2
+        },
+        {
+          "playerId": 157,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 142,
+          "order": 1
+        },
+        {
+          "playerId": 155,
+          "order": 2
+        },
+        {
+          "playerId": 154,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 142,
+          "order": 5
+        },
+        {
+          "playerId": 156,
+          "order": 6
+        },
+        {
+          "playerId": 155,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 7,
+      "penalties": [
+        {
+          "playerId": 193,
+          "order": 1
+        },
+        {
+          "playerId": 188,
+          "order": 2
+        },
+        {
+          "playerId": 184,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 183,
+          "order": 1
+        },
+        {
+          "playerId": 188,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 184,
+          "order": 4
+        },
+        {
+          "playerId": 183,
+          "order": 5
+        },
+        {
+          "playerId": 188,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 8,
+      "penalties": [
+        {
+          "playerId": 223,
+          "order": 1
+        },
+        {
+          "playerId": 208,
+          "order": 2
+        },
+        {
+          "playerId": 215,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 211,
+          "order": 1
+        },
+        {
+          "playerId": 209,
+          "order": 2
+        },
+        {
+          "playerId": 215,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 210,
+          "order": 5
+        },
+        {
+          "playerId": 211,
+          "order": 6
+        },
+        {
+          "playerId": 212,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 9,
+      "penalties": [
+        {
+          "playerId": 237,
+          "order": 1
+        },
+        {
+          "playerId": 249,
+          "order": 2
+        },
+        {
+          "playerId": 239,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 239,
+          "order": 1
+        },
+        {
+          "playerId": 241,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 239,
+          "order": 4
+        },
+        {
+          "playerId": 236,
+          "order": 5
+        },
+        {
+          "playerId": 241,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 10,
+      "penalties": [
+        {
+          "playerId": 254,
+          "order": 1
+        },
+        {
+          "playerId": 261,
+          "order": 2
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 261,
+          "order": 1
+        },
+        {
+          "playerId": 267,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 261,
+          "order": 4
+        },
+        {
+          "playerId": 267,
+          "order": 5
+        },
+        {
+          "playerId": 263,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 11,
+      "penalties": [
+        {
+          "playerId": 289,
+          "order": 1
+        },
+        {
+          "playerId": 295,
+          "order": 2
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 282,
+          "order": 1
+        },
+        {
+          "playerId": 286,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 282,
+          "order": 4
+        },
+        {
+          "playerId": 286,
+          "order": 5
+        },
+        {
+          "playerId": 290,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 12,
+      "penalties": [
+        {
+          "playerId": 317,
+          "order": 1
+        },
+        {
+          "playerId": 313,
+          "order": 2
+        },
+        {
+          "playerId": 318,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 309,
+          "order": 1
+        },
+        {
+          "playerId": 305,
+          "order": 2
+        },
+        {
+          "playerId": 313,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 318,
+          "order": 5
+        },
+        {
+          "playerId": 305,
+          "order": 6
+        },
+        {
+          "playerId": 309,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 13,
+      "penalties": [
+        {
+          "playerId": 346,
+          "order": 1
+        },
+        {
+          "playerId": 347,
+          "order": 2
+        },
+        {
+          "playerId": 348,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 335,
+          "order": 1
+        },
+        {
+          "playerId": 339,
+          "order": 2
+        },
+        {
+          "playerId": 337,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 335,
+          "order": 4
+        },
+        {
+          "playerId": 339,
+          "order": 5
+        },
+        {
+          "playerId": 345,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 14,
+      "penalties": [
+        {
+          "playerId": 379,
+          "order": 1
+        },
+        {
+          "playerId": 368,
+          "order": 2
+        },
+        {
+          "playerId": 367,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 368,
+          "order": 1
+        },
+        {
+          "playerId": 366,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 368,
+          "order": 4
+        },
+        {
+          "playerId": 367,
+          "order": 5
+        },
+        {
+          "playerId": 366,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 15,
+      "penalties": [
+        {
+          "playerId": 411,
+          "order": 1
+        },
+        {
+          "playerId": 401,
+          "order": 2
+        },
+        {
+          "playerId": 397,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 399,
+          "order": 1
+        },
+        {
+          "playerId": 401,
+          "order": 2
+        },
+        {
+          "playerId": 398,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 398,
+          "order": 4
+        },
+        {
+          "playerId": 399,
+          "order": 5
+        },
+        {
+          "playerId": 404,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 16,
+      "penalties": [
+        {
+          "playerId": 426,
+          "order": 1
+        },
+        {
+          "playerId": 427,
+          "order": 2
+        },
+        {
+          "playerId": 43,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 426,
+          "order": 1
+        },
+        {
+          "playerId": 427,
+          "order": 2
+        },
+        {
+          "playerId": 430,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 426,
+          "order": 4
+        },
+        {
+          "playerId": 427,
+          "order": 5
+        },
+        {
+          "playerId": 431,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 17,
+      "penalties": [
+        {
+          "playerId": 463,
+          "order": 1
+        },
+        {
+          "playerId": 465,
+          "order": 2
+        },
+        {
+          "playerId": 452,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 449,
+          "order": 1
+        },
+        {
+          "playerId": 452,
+          "order": 2
+        },
+        {
+          "playerId": 446,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 449,
+          "order": 5
+        },
+        {
+          "playerId": 452,
+          "order": 6
+        },
+        {
+          "playerId": 459,
+          "order": 7
+        }
+      ]
+    },
+    {
+      "teamId": 18,
+      "penalties": [
+        {
+          "playerId": 490,
+          "order": 1
+        },
+        {
+          "playerId": 480,
+          "order": 2
+        },
+        {
+          "playerId": 491,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 480,
+          "order": 1
+        },
+        {
+          "playerId": 472,
+          "order": 2
+        },
+        {
+          "playerId": 469,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 484,
+          "order": 4
+        },
+        {
+          "playerId": 469,
+          "order": 5
+        },
+        {
+          "playerId": 485,
+          "order": 6
+        }
+      ]
+    },
+    {
+      "teamId": 19,
+      "penalties": [
+        {
+          "playerId": 526,
+          "order": 1
+        },
+        {
+          "playerId": 512,
+          "order": 2
+        },
+        {
+          "playerId": 513,
+          "order": 3
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 499,
+          "order": 1
+        },
+        {
+          "playerId": 513,
+          "order": 2
+        },
+        {
+          "playerId": 512,
+          "order": 3
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 499,
+          "order": 6
+        },
+        {
+          "playerId": 512,
+          "order": 7
+        },
+        {
+          "playerId": 513,
+          "order": 8
+        }
+      ]
+    },
+    {
+      "teamId": 20,
+      "penalties": [
+        {
+          "playerId": 543,
+          "order": 1
+        },
+        {
+          "playerId": 542,
+          "order": 2
+        }
+      ],
+      "directFreeKicks": [
+        {
+          "playerId": 544,
+          "order": 1
+        },
+        {
+          "playerId": 542,
+          "order": 2
+        }
+      ],
+      "corners": [
+        {
+          "playerId": 544,
+          "order": 4
+        },
+        {
+          "playerId": 534,
+          "order": 5
+        },
+        {
+          "playerId": 542,
+          "order": 6
+        }
+      ]
+    }
+  ],
+  "gameweekAnomalies": []
 }
