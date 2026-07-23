@@ -1,20 +1,714 @@
 {
-  "generatedAt": null,
-  "currentEventId": null,
-  "topScorers": [],
-  "mostTransferredIn": [],
-  "mostTransferredOut": [],
+  "generatedAt": "2026-07-23T18:59:10.802Z",
+  "currentEventId": 1,
+  "topScorers": [
+    {
+      "playerId": 411,
+      "value": 239
+    },
+    {
+      "playerId": 426,
+      "value": 235
+    },
+    {
+      "playerId": 4,
+      "value": 209
+    },
+    {
+      "playerId": 397,
+      "value": 202
+    },
+    {
+      "playerId": 480,
+      "value": 188
+    },
+    {
+      "playerId": 13,
+      "value": 184
+    },
+    {
+      "playerId": 106,
+      "value": 181
+    },
+    {
+      "playerId": 481,
+      "value": 180
+    },
+    {
+      "playerId": 388,
+      "value": 179
+    },
+    {
+      "playerId": 165,
+      "value": 177
+    },
+    {
+      "playerId": 356,
+      "value": 175
+    },
+    {
+      "playerId": 498,
+      "value": 175
+    },
+    {
+      "playerId": 229,
+      "value": 170
+    },
+    {
+      "playerId": 40,
+      "value": 169
+    },
+    {
+      "playerId": 260,
+      "value": 168
+    }
+  ],
+  "mostTransferredIn": [
+    {
+      "playerId": 1,
+      "value": 0
+    },
+    {
+      "playerId": 2,
+      "value": 0
+    },
+    {
+      "playerId": 3,
+      "value": 0
+    },
+    {
+      "playerId": 4,
+      "value": 0
+    },
+    {
+      "playerId": 5,
+      "value": 0
+    },
+    {
+      "playerId": 6,
+      "value": 0
+    },
+    {
+      "playerId": 7,
+      "value": 0
+    },
+    {
+      "playerId": 8,
+      "value": 0
+    },
+    {
+      "playerId": 9,
+      "value": 0
+    },
+    {
+      "playerId": 10,
+      "value": 0
+    },
+    {
+      "playerId": 11,
+      "value": 0
+    },
+    {
+      "playerId": 12,
+      "value": 0
+    },
+    {
+      "playerId": 13,
+      "value": 0
+    },
+    {
+      "playerId": 14,
+      "value": 0
+    },
+    {
+      "playerId": 15,
+      "value": 0
+    }
+  ],
+  "mostTransferredOut": [
+    {
+      "playerId": 1,
+      "value": 0
+    },
+    {
+      "playerId": 2,
+      "value": 0
+    },
+    {
+      "playerId": 3,
+      "value": 0
+    },
+    {
+      "playerId": 4,
+      "value": 0
+    },
+    {
+      "playerId": 5,
+      "value": 0
+    },
+    {
+      "playerId": 6,
+      "value": 0
+    },
+    {
+      "playerId": 7,
+      "value": 0
+    },
+    {
+      "playerId": 8,
+      "value": 0
+    },
+    {
+      "playerId": 9,
+      "value": 0
+    },
+    {
+      "playerId": 10,
+      "value": 0
+    },
+    {
+      "playerId": 11,
+      "value": 0
+    },
+    {
+      "playerId": 12,
+      "value": 0
+    },
+    {
+      "playerId": 13,
+      "value": 0
+    },
+    {
+      "playerId": 14,
+      "value": 0
+    },
+    {
+      "playerId": 15,
+      "value": 0
+    }
+  ],
   "priceRisers": [],
   "priceFallers": [],
-  "predictedRisers": [],
-  "predictedFallers": [],
-  "ownershipLeaders": [],
-  "formLeaders": [],
-  "valuePicks": [],
-  "differentials": [],
-  "templateTeam": [],
-  "fixtureRuns": [],
-  "captaincySuggestions": [],
-  "setPieceTakers": [],
-  "gameweekAnomalies": []
+  "ownershipLeaders": [
+    {
+      "playerId": 411,
+      "value": 67.1
+    },
+    {
+      "playerId": 165,
+      "value": 45
+    },
+    {
+      "playerId": 426,
+      "value": 43
+    },
+    {
+      "playerId": 40,
+      "value": 38.2
+    },
+    {
+      "playerId": 368,
+      "value": 33.6
+    },
+    {
+      "playerId": 1,
+      "value": 28.1
+    },
+    {
+      "playerId": 388,
+      "value": 26.2
+    },
+    {
+      "playerId": 387,
+      "value": 25
+    },
+    {
+      "playerId": 13,
+      "value": 24.7
+    },
+    {
+      "playerId": 4,
+      "value": 22.7
+    },
+    {
+      "playerId": 106,
+      "value": 22.2
+    },
+    {
+      "playerId": 499,
+      "value": 22
+    },
+    {
+      "playerId": 497,
+      "value": 21.9
+    },
+    {
+      "playerId": 78,
+      "value": 21.8
+    },
+    {
+      "playerId": 259,
+      "value": 20.2
+    }
+  ],
+  "formLeaders": [
+    {
+      "playerId": 1,
+      "value": 0
+    },
+    {
+      "playerId": 2,
+      "value": 0
+    },
+    {
+      "playerId": 4,
+      "value": 0
+    },
+    {
+      "playerId": 5,
+      "value": 0
+    },
+    {
+      "playerId": 6,
+      "value": 0
+    },
+    {
+      "playerId": 7,
+      "value": 0
+    },
+    {
+      "playerId": 8,
+      "value": 0
+    },
+    {
+      "playerId": 9,
+      "value": 0
+    },
+    {
+      "playerId": 10,
+      "value": 0
+    },
+    {
+      "playerId": 11,
+      "value": 0
+    },
+    {
+      "playerId": 12,
+      "value": 0
+    },
+    {
+      "playerId": 13,
+      "value": 0
+    },
+    {
+      "playerId": 14,
+      "value": 0
+    },
+    {
+      "playerId": 15,
+      "value": 0
+    },
+    {
+      "playerId": 16,
+      "value": 0
+    }
+  ],
+  "valuePicks": [
+    {
+      "playerId": 61,
+      "value": 30
+    },
+    {
+      "playerId": 204,
+      "value": 30
+    },
+    {
+      "playerId": 388,
+      "value": 29.833333333333332
+    },
+    {
+      "playerId": 112,
+      "value": 29.6
+    },
+    {
+      "playerId": 498,
+      "value": 29.166666666666668
+    },
+    {
+      "playerId": 109,
+      "value": 28.88888888888889
+    },
+    {
+      "playerId": 82,
+      "value": 28.6
+    },
+    {
+      "playerId": 229,
+      "value": 28.333333333333332
+    },
+    {
+      "playerId": 481,
+      "value": 27.692307692307693
+    },
+    {
+      "playerId": 57,
+      "value": 27.555555555555557
+    },
+    {
+      "playerId": 533,
+      "value": 27.454545454545453
+    },
+    {
+      "playerId": 529,
+      "value": 27.2
+    },
+    {
+      "playerId": 250,
+      "value": 27.11111111111111
+    },
+    {
+      "playerId": 1,
+      "value": 27
+    },
+    {
+      "playerId": 356,
+      "value": 26.923076923076923
+    }
+  ],
+  "differentials": [
+    {
+      "playerId": 61,
+      "value": 165
+    },
+    {
+      "playerId": 239,
+      "value": 159
+    },
+    {
+      "playerId": 155,
+      "value": 157
+    },
+    {
+      "playerId": 389,
+      "value": 154
+    },
+    {
+      "playerId": 236,
+      "value": 151
+    },
+    {
+      "playerId": 5,
+      "value": 149
+    },
+    {
+      "playerId": 112,
+      "value": 148
+    },
+    {
+      "playerId": 542,
+      "value": 147
+    },
+    {
+      "playerId": 371,
+      "value": 144
+    },
+    {
+      "playerId": 82,
+      "value": 143
+    },
+    {
+      "playerId": 6,
+      "value": 137
+    },
+    {
+      "playerId": 68,
+      "value": 137
+    },
+    {
+      "playerId": 335,
+      "value": 137
+    },
+    {
+      "playerId": 69,
+      "value": 136
+    },
+    {
+      "playerId": 95,
+      "value": 136
+    }
+  ],
+  "fixtureRuns": [
+    {
+      "teamId": 1,
+      "avgDifficultyNext5": 3.2,
+      "nextDifficulties": [
+        2,
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "teamId": 2,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        4,
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "teamId": 3,
+      "avgDifficultyNext5": 3.6,
+      "nextDifficulties": [
+        5,
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "teamId": 4,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        3,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "teamId": 5,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        4,
+        2,
+        2,
+        4
+      ]
+    },
+    {
+      "teamId": 6,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        2,
+        5,
+        2,
+        3
+      ]
+    },
+    {
+      "teamId": 7,
+      "avgDifficultyNext5": 3.4,
+      "nextDifficulties": [
+        5,
+        2,
+        5,
+        2,
+        3
+      ]
+    },
+    {
+      "teamId": 8,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        4,
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "teamId": 9,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        3,
+        3,
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "teamId": 10,
+      "avgDifficultyNext5": 3.6,
+      "nextDifficulties": [
+        4,
+        3,
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "teamId": 11,
+      "avgDifficultyNext5": 3.2,
+      "nextDifficulties": [
+        4,
+        2,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "teamId": 12,
+      "avgDifficultyNext5": 3.2,
+      "nextDifficulties": [
+        2,
+        4,
+        4,
+        3,
+        3
+      ]
+    },
+    {
+      "teamId": 13,
+      "avgDifficultyNext5": 2.8,
+      "nextDifficulties": [
+        3,
+        3,
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "teamId": 14,
+      "avgDifficultyNext5": 2.6,
+      "nextDifficulties": [
+        3,
+        3,
+        2,
+        2,
+        3
+      ]
+    },
+    {
+      "teamId": 15,
+      "avgDifficultyNext5": 2.8,
+      "nextDifficulties": [
+        3,
+        3,
+        2,
+        4,
+        2
+      ]
+    },
+    {
+      "teamId": 16,
+      "avgDifficultyNext5": 2.8,
+      "nextDifficulties": [
+        2,
+        2,
+        3,
+        4,
+        3
+      ]
+    },
+    {
+      "teamId": 17,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        4,
+        3,
+        3,
+        3,
+        2
+      ]
+    },
+    {
+      "teamId": 18,
+      "avgDifficultyNext5": 3,
+      "nextDifficulties": [
+        2,
+        4,
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "teamId": 19,
+      "avgDifficultyNext5": 2.8,
+      "nextDifficulties": [
+        3,
+        2,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "teamId": 20,
+      "avgDifficultyNext5": 3.2,
+      "nextDifficulties": [
+        2,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "captaincySuggestions": [
+    {
+      "playerId": 7,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 12,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 13,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 14,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 15,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 16,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 17,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 18,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 19,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    },
+    {
+      "playerId": 20,
+      "score": 0,
+      "reason": "Form 0.0, next fixture difficulty 2"
+    }
+  ]
 }
