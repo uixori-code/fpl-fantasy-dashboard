@@ -19,7 +19,22 @@ export default function MyTeam() {
       loadBootstrap(),
       loadFixtures(),
     ]);
-    const picks = entry.current_event ? await fetchManagerPicks(managerId, entry.current_event) : null;
+
+    const targetEvent =
+      entry.current_event ??
+      bootstrap.events.find((e) => e.isNext)?.id ??
+      bootstrap.events.find((e) => e.isCurrent)?.id ??
+      null;
+
+    let picks = null;
+    if (targetEvent) {
+      try {
+        picks = await fetchManagerPicks(managerId, targetEvent);
+      } catch {
+        // No picks saved for that gameweek yet — show the empty state instead of crashing.
+      }
+    }
+
     return { entry, history, bootstrap, fixtures, picks };
   }, [managerId]);
 
@@ -44,15 +59,22 @@ export default function MyTeam() {
 
   const { entry, history, bootstrap, fixtures, picks } = data;
   const chartData = history.current.map((h) => ({ gw: h.event, points: h.points, rank: h.overall_rank }));
+  const fmt = (v: number | null) => (v == null ? '—' : v.toLocaleString());
 
   return (
     <div className="space-y-6">
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         <StatCard label="Team" value={entry.name} />
-        <StatCard label="Overall Rank" value={entry.summary_overall_rank?.toLocaleString() ?? '—'} />
-        <StatCard label="Total Points" value={String(entry.summary_overall_points)} />
-        <StatCard label="Last GW Points" value={String(entry.summary_event_points)} />
+        <StatCard label="Overall Rank" value={fmt(entry.summary_overall_rank)} />
+        <StatCard label="Total Points" value={fmt(entry.summary_overall_points)} />
+        <StatCard label="Last GW Points" value={fmt(entry.summary_event_points)} />
       </div>
+
+      {chartData.length === 0 && !picks && (
+        <EmptyState title="Your squad hasn't played a gameweek yet">
+          Your points history and squad pitch view will appear here as soon as Gameweek 1 kicks off.
+        </EmptyState>
+      )}
 
       {chartData.length > 0 && (
         <div className="bg-white/5 border border-white/10 rounded-lg p-4">

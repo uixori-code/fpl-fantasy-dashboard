@@ -12,10 +12,10 @@ export interface ManagerEntry {
   player_first_name: string;
   player_last_name: string;
   name: string;
-  summary_overall_points: number;
-  summary_overall_rank: number;
-  summary_event_points: number;
-  current_event: number;
+  summary_overall_points: number | null;
+  summary_overall_rank: number | null;
+  summary_event_points: number | null;
+  current_event: number | null;
 }
 
 export interface ManagerHistoryEntry {
