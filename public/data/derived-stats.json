@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T21:52:57.630Z",
+  "generatedAt": "2026-07-23T22:43:32.936Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -194,27 +194,27 @@
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 68.8
+      "value": 69.3
     },
     {
       "playerId": 165,
-      "value": 45.3
+      "value": 45.4
     },
     {
       "playerId": 426,
-      "value": 44
+      "value": 44.3
     },
     {
       "playerId": 40,
-      "value": 37.8
+      "value": 37.7
     },
     {
       "playerId": 368,
-      "value": 34.7
+      "value": 35.1
     },
     {
       "playerId": 1,
-      "value": 28.7
+      "value": 28.8
     },
     {
       "playerId": 388,
@@ -226,7 +226,7 @@
     },
     {
       "playerId": 13,
-      "value": 24.2
+      "value": 24.1
     },
     {
       "playerId": 4,
@@ -234,23 +234,23 @@
     },
     {
       "playerId": 497,
-      "value": 22.5
+      "value": 22.7
     },
     {
       "playerId": 499,
-      "value": 22.5
-    },
-    {
-      "playerId": 106,
-      "value": 21.1
+      "value": 22.6
     },
     {
       "playerId": 259,
-      "value": 20.9
+      "value": 21.1
+    },
+    {
+      "playerId": 106,
+      "value": 20.8
     },
     {
       "playerId": 78,
-      "value": 20.5
+      "value": 20.2
     }
   ],
   "formLeaders": [
@@ -442,7 +442,7 @@
   "templateTeam": [
     {
       "playerId": 1,
-      "value": 28.7
+      "value": 28.8
     },
     {
       "playerId": 388,
@@ -458,31 +458,31 @@
     },
     {
       "playerId": 426,
-      "value": 44
+      "value": 44.3
     },
     {
       "playerId": 40,
-      "value": 37.8
+      "value": 37.7
     },
     {
       "playerId": 411,
-      "value": 68.8
+      "value": 69.3
     },
     {
       "playerId": 165,
-      "value": 45.3
+      "value": 45.4
     },
     {
       "playerId": 368,
-      "value": 34.7
+      "value": 35.1
     },
     {
       "playerId": 13,
-      "value": 24.2
+      "value": 24.1
     },
     {
       "playerId": 499,
-      "value": 22.5
+      "value": 22.6
     }
   ],
   "fixtureRuns": [
