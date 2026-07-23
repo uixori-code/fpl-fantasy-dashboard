@@ -1,5 +1,6 @@
 {
-  "generatedAt": "2026-07-23T18:59:10.779Z",
+  "generatedAt": "2026-07-23T19:29:24.255Z",
+  "totalPlayers": 531937,
   "players": [
     {
       "id": 1,
@@ -14,13 +15,16 @@
       "form": 0,
       "totalPoints": 162,
       "pointsPerGame": 4.4,
-      "selectedByPercent": 28.1,
+      "selectedByPercent": 28.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3330,
-      "ictIndex": 57.5
+      "ictIndex": 57.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 2,
@@ -41,7 +45,10 @@
       "status": "a",
       "news": "",
       "minutes": 90,
-      "ictIndex": 2
+      "ictIndex": 2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 3,
@@ -62,7 +69,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 4,
@@ -77,13 +87,16 @@
       "form": 0,
       "totalPoints": 209,
       "pointsPerGame": 6.5,
-      "selectedByPercent": 22.7,
+      "selectedByPercent": 22.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2750,
-      "ictIndex": 125
+      "ictIndex": 125,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 5,
@@ -104,7 +117,10 @@
       "status": "i",
       "news": "Groin injury - Expected back 21 Aug",
       "minutes": 2452,
-      "ictIndex": 125.7
+      "ictIndex": 125.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 6,
@@ -125,7 +141,10 @@
       "status": "i",
       "news": "Back injury - Unknown return date",
       "minutes": 2614,
-      "ictIndex": 84.3
+      "ictIndex": 84.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 7,
@@ -146,7 +165,10 @@
       "status": "a",
       "news": "",
       "minutes": 697,
-      "ictIndex": 17.6
+      "ictIndex": 17.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 8,
@@ -167,7 +189,10 @@
       "status": "a",
       "news": "",
       "minutes": 1697,
-      "ictIndex": 77.9
+      "ictIndex": 77.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 9,
@@ -188,7 +213,10 @@
       "status": "a",
       "news": "",
       "minutes": 1787,
-      "ictIndex": 70.9
+      "ictIndex": 70.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 10,
@@ -209,7 +237,10 @@
       "status": "i",
       "news": "Knee injury - Expected back 21 Aug",
       "minutes": 699,
-      "ictIndex": 34.3
+      "ictIndex": 34.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 11,
@@ -224,13 +255,16 @@
       "form": 0,
       "totalPoints": 40,
       "pointsPerGame": 2,
-      "selectedByPercent": 12.5,
+      "selectedByPercent": 12.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 986,
-      "ictIndex": 32.9
+      "ictIndex": 32.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 12,
@@ -251,7 +285,10 @@
       "status": "a",
       "news": "",
       "minutes": 2218,
-      "ictIndex": 230.6
+      "ictIndex": 230.6,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 13,
@@ -266,13 +303,16 @@
       "form": 0,
       "totalPoints": 184,
       "pointsPerGame": 5.1,
-      "selectedByPercent": 24.7,
+      "selectedByPercent": 24.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3093,
-      "ictIndex": 215.4
+      "ictIndex": 215.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 5
     },
     {
       "id": 14,
@@ -293,7 +333,10 @@
       "status": "a",
       "news": "",
       "minutes": 1885,
-      "ictIndex": 115.1
+      "ictIndex": 115.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 15,
@@ -314,7 +357,10 @@
       "status": "a",
       "news": "",
       "minutes": 1363,
-      "ictIndex": 104.4
+      "ictIndex": 104.4,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 16,
@@ -335,7 +381,10 @@
       "status": "a",
       "news": "",
       "minutes": 1205,
-      "ictIndex": 101.3
+      "ictIndex": 101.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 7
     },
     {
       "id": 17,
@@ -350,13 +399,16 @@
       "form": 0,
       "totalPoints": 67,
       "pointsPerGame": 3,
-      "selectedByPercent": 0.9,
+      "selectedByPercent": 1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1024,
-      "ictIndex": 73.6
+      "ictIndex": 73.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 18,
@@ -377,7 +429,10 @@
       "status": "a",
       "news": "",
       "minutes": 1065,
-      "ictIndex": 79
+      "ictIndex": 79,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 19,
@@ -398,7 +453,10 @@
       "status": "a",
       "news": "",
       "minutes": 2991,
-      "ictIndex": 126.2
+      "ictIndex": 126.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 20,
@@ -419,7 +477,10 @@
       "status": "a",
       "news": "",
       "minutes": 152,
-      "ictIndex": 16.6
+      "ictIndex": 16.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 21,
@@ -440,7 +501,10 @@
       "status": "a",
       "news": "",
       "minutes": 101,
-      "ictIndex": 4
+      "ictIndex": 4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 22,
@@ -461,7 +525,10 @@
       "status": "a",
       "news": "",
       "minutes": 165,
-      "ictIndex": 5.4
+      "ictIndex": 5.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 23,
@@ -482,7 +549,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 24,
@@ -503,7 +573,10 @@
       "status": "a",
       "news": "",
       "minutes": 118,
-      "ictIndex": 10
+      "ictIndex": 10,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 25,
@@ -518,13 +591,16 @@
       "form": 0,
       "totalPoints": 128,
       "pointsPerGame": 3.6,
-      "selectedByPercent": 17.7,
+      "selectedByPercent": 17.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2217,
-      "ictIndex": 157.5
+      "ictIndex": 157.5,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 26,
@@ -539,13 +615,16 @@
       "form": 0,
       "totalPoints": 36,
       "pointsPerGame": 3,
-      "selectedByPercent": 6.8,
+      "selectedByPercent": 6.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 577,
-      "ictIndex": 49.9
+      "ictIndex": 49.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 27,
@@ -566,7 +645,10 @@
       "status": "a",
       "news": "",
       "minutes": 418,
-      "ictIndex": 47.5
+      "ictIndex": 47.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 28,
@@ -587,7 +669,10 @@
       "status": "a",
       "news": "",
       "minutes": 2835,
-      "ictIndex": 79.2
+      "ictIndex": 79.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 29,
@@ -608,7 +693,10 @@
       "status": "a",
       "news": "",
       "minutes": 585,
-      "ictIndex": 13.9
+      "ictIndex": 13.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 30,
@@ -629,7 +717,10 @@
       "status": "a",
       "news": "",
       "minutes": 1842,
-      "ictIndex": 98.5
+      "ictIndex": 98.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 4
     },
     {
       "id": 31,
@@ -644,13 +735,16 @@
       "form": 0,
       "totalPoints": 100,
       "pointsPerGame": 2.9,
-      "selectedByPercent": 15.7,
+      "selectedByPercent": 15.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3035,
-      "ictIndex": 84
+      "ictIndex": 84,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 32,
@@ -671,7 +765,10 @@
       "status": "a",
       "news": "",
       "minutes": 3016,
-      "ictIndex": 137.5
+      "ictIndex": 137.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 33,
@@ -692,7 +789,10 @@
       "status": "a",
       "news": "",
       "minutes": 1322,
-      "ictIndex": 46.8
+      "ictIndex": 46.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 34,
@@ -713,7 +813,10 @@
       "status": "a",
       "news": "",
       "minutes": 1673,
-      "ictIndex": 45.1
+      "ictIndex": 45.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 35,
@@ -734,7 +837,10 @@
       "status": "a",
       "news": "",
       "minutes": 1042,
-      "ictIndex": 20.6
+      "ictIndex": 20.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 36,
@@ -755,7 +861,10 @@
       "status": "a",
       "news": "",
       "minutes": 1590,
-      "ictIndex": 94.3
+      "ictIndex": 94.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 37,
@@ -776,7 +885,10 @@
       "status": "a",
       "news": "",
       "minutes": 942,
-      "ictIndex": 22.7
+      "ictIndex": 22.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 38,
@@ -797,7 +909,10 @@
       "status": "a",
       "news": "",
       "minutes": 83,
-      "ictIndex": 2.3
+      "ictIndex": 2.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 39,
@@ -812,13 +927,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0.6,
+      "selectedByPercent": 0.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 41,
@@ -839,7 +957,10 @@
       "status": "a",
       "news": "",
       "minutes": 1753,
-      "ictIndex": 121.4
+      "ictIndex": 121.4,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": 1,
+      "cornersOrder": null
     },
     {
       "id": 42,
@@ -860,7 +981,10 @@
       "status": "a",
       "news": "",
       "minutes": 909,
-      "ictIndex": 42
+      "ictIndex": 42,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 44,
@@ -881,7 +1005,10 @@
       "status": "a",
       "news": "",
       "minutes": 450,
-      "ictIndex": 30.1
+      "ictIndex": 30.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 45,
@@ -896,13 +1023,16 @@
       "form": 0,
       "totalPoints": 103,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 2.4,
+      "selectedByPercent": 2.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2136,
-      "ictIndex": 137.3
+      "ictIndex": 137.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 46,
@@ -923,7 +1053,10 @@
       "status": "a",
       "news": "",
       "minutes": 844,
-      "ictIndex": 58.1
+      "ictIndex": 58.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 47,
@@ -944,7 +1077,10 @@
       "status": "d",
       "news": "Knee injury - 75% chance of playing",
       "minutes": 1410,
-      "ictIndex": 64.2
+      "ictIndex": 64.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 48,
@@ -965,7 +1101,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 1755,
-      "ictIndex": 74.4
+      "ictIndex": 74.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 49,
@@ -986,7 +1125,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 50,
@@ -1007,7 +1149,10 @@
       "status": "a",
       "news": "",
       "minutes": 16,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 51,
@@ -1028,7 +1173,10 @@
       "status": "a",
       "news": "",
       "minutes": 25,
-      "ictIndex": 0.3
+      "ictIndex": 0.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 52,
@@ -1049,7 +1197,10 @@
       "status": "a",
       "news": "",
       "minutes": 47,
-      "ictIndex": 1.5
+      "ictIndex": 1.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 53,
@@ -1070,7 +1221,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 54,
@@ -1091,7 +1245,10 @@
       "status": "a",
       "news": "",
       "minutes": 2207,
-      "ictIndex": 102
+      "ictIndex": 102,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 55,
@@ -1106,13 +1263,16 @@
       "form": 0,
       "totalPoints": 167,
       "pointsPerGame": 4.5,
-      "selectedByPercent": 17.5,
+      "selectedByPercent": 17.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2833,
-      "ictIndex": 225.2
+      "ictIndex": 225.2,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 56,
@@ -1133,7 +1293,10 @@
       "status": "i",
       "news": "Shoulder injury - Expected back 23 Aug",
       "minutes": 278,
-      "ictIndex": 27.1
+      "ictIndex": 27.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 57,
@@ -1154,7 +1317,10 @@
       "status": "a",
       "news": "",
       "minutes": 3420,
-      "ictIndex": 82.4
+      "ictIndex": 82.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 58,
@@ -1175,7 +1341,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 59,
@@ -1196,7 +1365,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 60,
@@ -1217,7 +1389,10 @@
       "status": "a",
       "news": "",
       "minutes": 2102,
-      "ictIndex": 86.3
+      "ictIndex": 86.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 61,
@@ -1238,7 +1413,10 @@
       "status": "a",
       "news": "",
       "minutes": 3378,
-      "ictIndex": 162.6
+      "ictIndex": 162.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 62,
@@ -1259,7 +1437,10 @@
       "status": "a",
       "news": "",
       "minutes": 1275,
-      "ictIndex": 34.4
+      "ictIndex": 34.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 63,
@@ -1280,7 +1461,10 @@
       "status": "a",
       "news": "",
       "minutes": 367,
-      "ictIndex": 12.2
+      "ictIndex": 12.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 64,
@@ -1301,7 +1485,10 @@
       "status": "a",
       "news": "",
       "minutes": 1073,
-      "ictIndex": 27.1
+      "ictIndex": 27.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 65,
@@ -1322,7 +1509,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 66,
@@ -1343,7 +1533,10 @@
       "status": "a",
       "news": "",
       "minutes": 34,
-      "ictIndex": 0.6
+      "ictIndex": 0.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 67,
@@ -1364,7 +1557,10 @@
       "status": "a",
       "news": "",
       "minutes": 1110,
-      "ictIndex": 75.3
+      "ictIndex": 75.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 68,
@@ -1385,7 +1581,10 @@
       "status": "a",
       "news": "",
       "minutes": 2732,
-      "ictIndex": 207.9
+      "ictIndex": 207.9,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 6
     },
     {
       "id": 69,
@@ -1406,7 +1605,10 @@
       "status": "a",
       "news": "",
       "minutes": 2848,
-      "ictIndex": 139
+      "ictIndex": 139,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": 7
     },
     {
       "id": 70,
@@ -1427,7 +1629,10 @@
       "status": "a",
       "news": "",
       "minutes": 945,
-      "ictIndex": 58.8
+      "ictIndex": 58.8,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": null
     },
     {
       "id": 71,
@@ -1448,7 +1653,10 @@
       "status": "a",
       "news": "",
       "minutes": 872,
-      "ictIndex": 40.6
+      "ictIndex": 40.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 72,
@@ -1469,7 +1677,10 @@
       "status": "a",
       "news": "",
       "minutes": 105,
-      "ictIndex": 8.9
+      "ictIndex": 8.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 73,
@@ -1490,7 +1701,10 @@
       "status": "a",
       "news": "",
       "minutes": 1769,
-      "ictIndex": 66.3
+      "ictIndex": 66.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 74,
@@ -1511,7 +1725,10 @@
       "status": "a",
       "news": "",
       "minutes": 1188,
-      "ictIndex": 104.1
+      "ictIndex": 104.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 9
     },
     {
       "id": 75,
@@ -1532,7 +1749,10 @@
       "status": "a",
       "news": "",
       "minutes": 978,
-      "ictIndex": 64.7
+      "ictIndex": 64.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 10
     },
     {
       "id": 76,
@@ -1553,7 +1773,10 @@
       "status": "a",
       "news": "",
       "minutes": 135,
-      "ictIndex": 9.6
+      "ictIndex": 9.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 77,
@@ -1574,7 +1797,10 @@
       "status": "a",
       "news": "",
       "minutes": 1074,
-      "ictIndex": 76.1
+      "ictIndex": 76.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 78,
@@ -1589,13 +1815,16 @@
       "form": 0,
       "totalPoints": 113,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 21.8,
+      "selectedByPercent": 21.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1663,
-      "ictIndex": 139.9
+      "ictIndex": 139.9,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 79,
@@ -1616,7 +1845,10 @@
       "status": "a",
       "news": "",
       "minutes": 2741,
-      "ictIndex": 155.5
+      "ictIndex": 155.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 80,
@@ -1637,7 +1869,10 @@
       "status": "a",
       "news": "",
       "minutes": 214,
-      "ictIndex": 19.1
+      "ictIndex": 19.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 5,
+      "cornersOrder": null
     },
     {
       "id": 81,
@@ -1658,7 +1893,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 82,
@@ -1673,13 +1911,16 @@
       "form": 0,
       "totalPoints": 143,
       "pointsPerGame": 3.9,
-      "selectedByPercent": 5.8,
+      "selectedByPercent": 5.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3330,
-      "ictIndex": 93.8
+      "ictIndex": 93.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 83,
@@ -1700,7 +1941,10 @@
       "status": "a",
       "news": "",
       "minutes": 90,
-      "ictIndex": 1.3
+      "ictIndex": 1.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 84,
@@ -1721,7 +1965,10 @@
       "status": "a",
       "news": "",
       "minutes": 2971,
-      "ictIndex": 131.9
+      "ictIndex": 131.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 85,
@@ -1742,7 +1989,10 @@
       "status": "a",
       "news": "",
       "minutes": 2761,
-      "ictIndex": 106.3
+      "ictIndex": 106.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 86,
@@ -1763,7 +2013,10 @@
       "status": "a",
       "news": "",
       "minutes": 1960,
-      "ictIndex": 106.4
+      "ictIndex": 106.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": null
     },
     {
       "id": 87,
@@ -1784,7 +2037,10 @@
       "status": "a",
       "news": "",
       "minutes": 1805,
-      "ictIndex": 62.7
+      "ictIndex": 62.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 88,
@@ -1805,7 +2061,10 @@
       "status": "a",
       "news": "",
       "minutes": 3258,
-      "ictIndex": 121.7
+      "ictIndex": 121.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 89,
@@ -1826,7 +2085,10 @@
       "status": "a",
       "news": "",
       "minutes": 1322,
-      "ictIndex": 26.9
+      "ictIndex": 26.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 90,
@@ -1847,7 +2109,10 @@
       "status": "a",
       "news": "",
       "minutes": 679,
-      "ictIndex": 16
+      "ictIndex": 16,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 91,
@@ -1868,7 +2133,10 @@
       "status": "a",
       "news": "",
       "minutes": 318,
-      "ictIndex": 12.3
+      "ictIndex": 12.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 92,
@@ -1889,7 +2157,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 93,
@@ -1910,7 +2181,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 94,
@@ -1931,7 +2205,10 @@
       "status": "a",
       "news": "",
       "minutes": 2744,
-      "ictIndex": 172.8
+      "ictIndex": 172.8,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 95,
@@ -1952,7 +2229,10 @@
       "status": "a",
       "news": "",
       "minutes": 2271,
-      "ictIndex": 162.8
+      "ictIndex": 162.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 96,
@@ -1973,7 +2253,10 @@
       "status": "a",
       "news": "",
       "minutes": 2046,
-      "ictIndex": 155
+      "ictIndex": 155,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 6
     },
     {
       "id": 97,
@@ -1994,7 +2277,10 @@
       "status": "a",
       "news": "",
       "minutes": 2239,
-      "ictIndex": 126.9
+      "ictIndex": 126.9,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 5
     },
     {
       "id": 98,
@@ -2015,7 +2301,10 @@
       "status": "a",
       "news": "",
       "minutes": 1434,
-      "ictIndex": 79
+      "ictIndex": 79,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 7
     },
     {
       "id": 99,
@@ -2036,7 +2325,10 @@
       "status": "d",
       "news": "Knee injury - 75% chance of playing",
       "minutes": 45,
-      "ictIndex": 0.6
+      "ictIndex": 0.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 100,
@@ -2057,7 +2349,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 100,
-      "ictIndex": 8.1
+      "ictIndex": 8.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 101,
@@ -2078,7 +2373,10 @@
       "status": "d",
       "news": "Wrist injury - 75% chance of playing",
       "minutes": 1911,
-      "ictIndex": 74.4
+      "ictIndex": 74.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 102,
@@ -2099,7 +2397,10 @@
       "status": "a",
       "news": "",
       "minutes": 2652,
-      "ictIndex": 83.4
+      "ictIndex": 83.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 103,
@@ -2120,7 +2421,10 @@
       "status": "a",
       "news": "",
       "minutes": 2,
-      "ictIndex": 1.6
+      "ictIndex": 1.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 105,
@@ -2141,7 +2445,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 106,
@@ -2156,13 +2463,16 @@
       "form": 0,
       "totalPoints": 181,
       "pointsPerGame": 4.8,
-      "selectedByPercent": 22.2,
+      "selectedByPercent": 21.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3282,
-      "ictIndex": 256.9
+      "ictIndex": 256.9,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 107,
@@ -2183,7 +2493,10 @@
       "status": "a",
       "news": "",
       "minutes": 1,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 108,
@@ -2204,7 +2517,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 109,
@@ -2219,13 +2535,16 @@
       "form": 0,
       "totalPoints": 130,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 15.4,
+      "selectedByPercent": 15.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3420,
-      "ictIndex": 94.7
+      "ictIndex": 94.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 110,
@@ -2246,7 +2565,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 111,
@@ -2267,7 +2589,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 113,
@@ -2288,7 +2613,10 @@
       "status": "a",
       "news": "",
       "minutes": 3130,
-      "ictIndex": 123.7
+      "ictIndex": 123.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 7
     },
     {
       "id": 114,
@@ -2309,7 +2637,10 @@
       "status": "a",
       "news": "",
       "minutes": 799,
-      "ictIndex": 31.1
+      "ictIndex": 31.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 115,
@@ -2330,7 +2661,10 @@
       "status": "a",
       "news": "",
       "minutes": 1404,
-      "ictIndex": 99.9
+      "ictIndex": 99.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": null
     },
     {
       "id": 116,
@@ -2351,7 +2685,10 @@
       "status": "a",
       "news": "",
       "minutes": 2837,
-      "ictIndex": 98.7
+      "ictIndex": 98.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 117,
@@ -2372,7 +2709,10 @@
       "status": "a",
       "news": "",
       "minutes": 193,
-      "ictIndex": 4.8
+      "ictIndex": 4.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 118,
@@ -2393,7 +2733,10 @@
       "status": "a",
       "news": "",
       "minutes": 103,
-      "ictIndex": 3.6
+      "ictIndex": 3.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 119,
@@ -2414,7 +2757,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 120,
@@ -2435,7 +2781,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 121,
@@ -2456,7 +2805,10 @@
       "status": "a",
       "news": "",
       "minutes": 1714,
-      "ictIndex": 112.3
+      "ictIndex": 112.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 122,
@@ -2477,7 +2829,10 @@
       "status": "a",
       "news": "",
       "minutes": 2389,
-      "ictIndex": 180.3
+      "ictIndex": 180.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 123,
@@ -2492,13 +2847,16 @@
       "form": 0,
       "totalPoints": 91,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 0.5,
+      "selectedByPercent": 0.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1736,
-      "ictIndex": 94.8
+      "ictIndex": 94.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 124,
@@ -2519,7 +2877,10 @@
       "status": "a",
       "news": "",
       "minutes": 1636,
-      "ictIndex": 128.5
+      "ictIndex": 128.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 125,
@@ -2540,7 +2901,10 @@
       "status": "a",
       "news": "",
       "minutes": 1776,
-      "ictIndex": 113.5
+      "ictIndex": 113.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 126,
@@ -2561,7 +2925,10 @@
       "status": "a",
       "news": "",
       "minutes": 202,
-      "ictIndex": 19.6
+      "ictIndex": 19.6,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 127,
@@ -2582,7 +2949,10 @@
       "status": "a",
       "news": "",
       "minutes": 2117,
-      "ictIndex": 119
+      "ictIndex": 119,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 5,
+      "cornersOrder": null
     },
     {
       "id": 128,
@@ -2603,7 +2973,10 @@
       "status": "a",
       "news": "",
       "minutes": 81,
-      "ictIndex": 7.4
+      "ictIndex": 7.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 129,
@@ -2624,7 +2997,10 @@
       "status": "a",
       "news": "",
       "minutes": 1921,
-      "ictIndex": 84.5
+      "ictIndex": 84.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 8
     },
     {
       "id": 130,
@@ -2645,7 +3021,10 @@
       "status": "a",
       "news": "",
       "minutes": 1901,
-      "ictIndex": 97.7
+      "ictIndex": 97.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 131,
@@ -2666,7 +3045,10 @@
       "status": "a",
       "news": "",
       "minutes": 1646,
-      "ictIndex": 36.8
+      "ictIndex": 36.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 132,
@@ -2687,7 +3069,10 @@
       "status": "a",
       "news": "",
       "minutes": 92,
-      "ictIndex": 1.8
+      "ictIndex": 1.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 133,
@@ -2708,7 +3093,10 @@
       "status": "a",
       "news": "",
       "minutes": 57,
-      "ictIndex": 1.6
+      "ictIndex": 1.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 134,
@@ -2729,7 +3117,10 @@
       "status": "a",
       "news": "",
       "minutes": 1,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 135,
@@ -2750,7 +3141,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 136,
@@ -2771,7 +3165,10 @@
       "status": "a",
       "news": "",
       "minutes": 2249,
-      "ictIndex": 168.2
+      "ictIndex": 168.2,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": 1,
+      "cornersOrder": null
     },
     {
       "id": 137,
@@ -2792,7 +3189,10 @@
       "status": "d",
       "news": "Knee injury - 75% chance of playing",
       "minutes": 132,
-      "ictIndex": 17.7
+      "ictIndex": 17.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 138,
@@ -2813,7 +3213,10 @@
       "status": "a",
       "news": "",
       "minutes": 351,
-      "ictIndex": 52.4
+      "ictIndex": 52.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 139,
@@ -2834,7 +3237,10 @@
       "status": "i",
       "news": "Ankle injury - Expected back 10 Oct",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 328,
@@ -2855,7 +3261,10 @@
       "status": "a",
       "news": "",
       "minutes": 2935,
-      "ictIndex": 113.1
+      "ictIndex": 113.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 504,
@@ -2876,7 +3285,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 40,
@@ -2891,13 +3303,16 @@
       "form": 0,
       "totalPoints": 169,
       "pointsPerGame": 4.6,
-      "selectedByPercent": 38.2,
+      "selectedByPercent": 38.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3280,
-      "ictIndex": 232
+      "ictIndex": 232,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 140,
@@ -2918,7 +3333,10 @@
       "status": "a",
       "news": "",
       "minutes": 3040,
-      "ictIndex": 86.7
+      "ictIndex": 86.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 141,
@@ -2939,7 +3357,10 @@
       "status": "a",
       "news": "",
       "minutes": 378,
-      "ictIndex": 7.9
+      "ictIndex": 7.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 142,
@@ -2960,7 +3381,10 @@
       "status": "a",
       "news": "",
       "minutes": 1957,
-      "ictIndex": 106.1
+      "ictIndex": 106.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 5
     },
     {
       "id": 143,
@@ -2981,7 +3405,10 @@
       "status": "a",
       "news": "",
       "minutes": 2780,
-      "ictIndex": 99.1
+      "ictIndex": 99.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 144,
@@ -3002,7 +3429,10 @@
       "status": "a",
       "news": "",
       "minutes": 2255,
-      "ictIndex": 109.8
+      "ictIndex": 109.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 145,
@@ -3023,7 +3453,10 @@
       "status": "s",
       "news": "Suspended until 6 Sep",
       "minutes": 1718,
-      "ictIndex": 60.4
+      "ictIndex": 60.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 146,
@@ -3044,7 +3477,10 @@
       "status": "a",
       "news": "",
       "minutes": 470,
-      "ictIndex": 11.4
+      "ictIndex": 11.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 147,
@@ -3065,7 +3501,10 @@
       "status": "a",
       "news": "",
       "minutes": 788,
-      "ictIndex": 29.3
+      "ictIndex": 29.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 148,
@@ -3086,7 +3525,10 @@
       "status": "a",
       "news": "",
       "minutes": 1139,
-      "ictIndex": 38.4
+      "ictIndex": 38.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 149,
@@ -3107,7 +3549,10 @@
       "status": "a",
       "news": "",
       "minutes": 225,
-      "ictIndex": 8
+      "ictIndex": 8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 150,
@@ -3128,7 +3573,10 @@
       "status": "a",
       "news": "",
       "minutes": 100,
-      "ictIndex": 1.3
+      "ictIndex": 1.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 151,
@@ -3149,7 +3597,10 @@
       "status": "a",
       "news": "",
       "minutes": 657,
-      "ictIndex": 24.4
+      "ictIndex": 24.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 152,
@@ -3170,7 +3621,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 153,
@@ -3191,7 +3645,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 154,
@@ -3206,13 +3663,16 @@
       "form": 0,
       "totalPoints": 114,
       "pointsPerGame": 4.4,
-      "selectedByPercent": 12.6,
+      "selectedByPercent": 12.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1954,
-      "ictIndex": 147.7
+      "ictIndex": 147.7,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 155,
@@ -3227,13 +3687,16 @@
       "form": 0,
       "totalPoints": 157,
       "pointsPerGame": 4.4,
-      "selectedByPercent": 6,
+      "selectedByPercent": 5.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3114,
-      "ictIndex": 264.6
+      "ictIndex": 264.6,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 7
     },
     {
       "id": 156,
@@ -3254,7 +3717,10 @@
       "status": "a",
       "news": "",
       "minutes": 2629,
-      "ictIndex": 186.7
+      "ictIndex": 186.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": 6
     },
     {
       "id": 157,
@@ -3275,7 +3741,10 @@
       "status": "a",
       "news": "",
       "minutes": 839,
-      "ictIndex": 72.6
+      "ictIndex": 72.6,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 158,
@@ -3296,7 +3765,10 @@
       "status": "a",
       "news": "",
       "minutes": 486,
-      "ictIndex": 31.3
+      "ictIndex": 31.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 159,
@@ -3317,7 +3789,10 @@
       "status": "a",
       "news": "",
       "minutes": 2796,
-      "ictIndex": 109.2
+      "ictIndex": 109.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 160,
@@ -3338,7 +3813,10 @@
       "status": "a",
       "news": "",
       "minutes": 1261,
-      "ictIndex": 100.5
+      "ictIndex": 100.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 161,
@@ -3359,7 +3837,10 @@
       "status": "a",
       "news": "",
       "minutes": 374,
-      "ictIndex": 9.5
+      "ictIndex": 9.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 163,
@@ -3380,7 +3861,10 @@
       "status": "a",
       "news": "",
       "minutes": 26,
-      "ictIndex": 1.6
+      "ictIndex": 1.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 164,
@@ -3401,7 +3885,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 165,
@@ -3416,13 +3903,16 @@
       "form": 0,
       "totalPoints": 177,
       "pointsPerGame": 5.1,
-      "selectedByPercent": 45,
+      "selectedByPercent": 45.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2658,
-      "ictIndex": 212.1
+      "ictIndex": 212.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 166,
@@ -3443,7 +3933,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 167,
@@ -3464,7 +3957,10 @@
       "status": "a",
       "news": "",
       "minutes": 1092,
-      "ictIndex": 47.3
+      "ictIndex": 47.3,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 168,
@@ -3485,7 +3981,10 @@
       "status": "a",
       "news": "",
       "minutes": 265,
-      "ictIndex": 13.1
+      "ictIndex": 13.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 169,
@@ -3506,7 +4005,10 @@
       "status": "a",
       "news": "",
       "minutes": 1,
-      "ictIndex": 0.2
+      "ictIndex": 0.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 170,
@@ -3527,7 +4029,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 104,
@@ -3548,7 +4053,10 @@
       "status": "a",
       "news": "",
       "minutes": 88,
-      "ictIndex": 4.6
+      "ictIndex": 4.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 171,
@@ -3569,7 +4077,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 172,
@@ -3590,7 +4101,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 173,
@@ -3611,7 +4125,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 174,
@@ -3632,7 +4149,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 175,
@@ -3647,13 +4167,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 11.5,
+      "selectedByPercent": 11.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 176,
@@ -3674,7 +4197,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 177,
@@ -3695,7 +4221,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 178,
@@ -3716,7 +4245,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 179,
@@ -3737,7 +4269,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 180,
@@ -3758,7 +4293,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 181,
@@ -3779,7 +4317,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 182,
@@ -3794,13 +4335,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0.7,
+      "selectedByPercent": 0.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 183,
@@ -3821,7 +4365,10 @@
       "status": "d",
       "news": "Shoulder injury - 75% chance of playing",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 5
     },
     {
       "id": 184,
@@ -3842,7 +4389,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": 4
     },
     {
       "id": 185,
@@ -3863,7 +4413,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 186,
@@ -3884,7 +4437,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 187,
@@ -3905,7 +4461,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 188,
@@ -3926,7 +4485,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 189,
@@ -3947,7 +4509,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 190,
@@ -3968,7 +4533,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 191,
@@ -3989,7 +4557,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 192,
@@ -4010,7 +4581,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 193,
@@ -4031,7 +4605,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 194,
@@ -4052,7 +4629,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 195,
@@ -4073,7 +4653,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 196,
@@ -4094,7 +4677,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 197,
@@ -4115,7 +4701,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 198,
@@ -4130,13 +4719,16 @@
       "form": 0,
       "totalPoints": 131,
       "pointsPerGame": 3.5,
-      "selectedByPercent": 3.1,
+      "selectedByPercent": 3.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3330,
-      "ictIndex": 84.7
+      "ictIndex": 84.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 199,
@@ -4157,7 +4749,10 @@
       "status": "a",
       "news": "",
       "minutes": 90,
-      "ictIndex": 2.3
+      "ictIndex": 2.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 200,
@@ -4172,13 +4767,16 @@
       "form": 0,
       "totalPoints": 154,
       "pointsPerGame": 4.4,
-      "selectedByPercent": 15.6,
+      "selectedByPercent": 15.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3085,
-      "ictIndex": 124.3
+      "ictIndex": 124.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 201,
@@ -4199,7 +4797,10 @@
       "status": "a",
       "news": "",
       "minutes": 2400,
-      "ictIndex": 139.5
+      "ictIndex": 139.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 202,
@@ -4220,7 +4821,10 @@
       "status": "a",
       "news": "",
       "minutes": 2825,
-      "ictIndex": 107.6
+      "ictIndex": 107.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 203,
@@ -4241,7 +4845,10 @@
       "status": "a",
       "news": "",
       "minutes": 1331,
-      "ictIndex": 48.1
+      "ictIndex": 48.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 204,
@@ -4256,13 +4863,16 @@
       "form": 0,
       "totalPoints": 135,
       "pointsPerGame": 3.6,
-      "selectedByPercent": 6.8,
+      "selectedByPercent": 6.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3253,
-      "ictIndex": 136
+      "ictIndex": 136,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 205,
@@ -4283,7 +4893,10 @@
       "status": "a",
       "news": "",
       "minutes": 99,
-      "ictIndex": 4.5
+      "ictIndex": 4.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 206,
@@ -4304,7 +4917,10 @@
       "status": "a",
       "news": "",
       "minutes": 550,
-      "ictIndex": 18.3
+      "ictIndex": 18.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 207,
@@ -4325,7 +4941,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 208,
@@ -4346,7 +4965,10 @@
       "status": "a",
       "news": "",
       "minutes": 2173,
-      "ictIndex": 135.1
+      "ictIndex": 135.1,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 209,
@@ -4367,7 +4989,10 @@
       "status": "a",
       "news": "",
       "minutes": 1710,
-      "ictIndex": 75.8
+      "ictIndex": 75.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": null
     },
     {
       "id": 210,
@@ -4388,7 +5013,10 @@
       "status": "d",
       "news": "Ankle injury - 75% chance of playing",
       "minutes": 2552,
-      "ictIndex": 139.6
+      "ictIndex": 139.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 211,
@@ -4409,7 +5037,10 @@
       "status": "a",
       "news": "",
       "minutes": 2074,
-      "ictIndex": 141.4
+      "ictIndex": 141.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 6
     },
     {
       "id": 212,
@@ -4430,7 +5061,10 @@
       "status": "a",
       "news": "",
       "minutes": 1560,
-      "ictIndex": 60.9
+      "ictIndex": 60.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 7
     },
     {
       "id": 213,
@@ -4451,7 +5085,10 @@
       "status": "a",
       "news": "",
       "minutes": 1722,
-      "ictIndex": 72.5
+      "ictIndex": 72.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 214,
@@ -4472,7 +5109,10 @@
       "status": "a",
       "news": "",
       "minutes": 1899,
-      "ictIndex": 74.5
+      "ictIndex": 74.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 215,
@@ -4493,7 +5133,10 @@
       "status": "a",
       "news": "",
       "minutes": 785,
-      "ictIndex": 38.4
+      "ictIndex": 38.4,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 216,
@@ -4514,7 +5157,10 @@
       "status": "a",
       "news": "",
       "minutes": 40,
-      "ictIndex": 1.5
+      "ictIndex": 1.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 217,
@@ -4535,7 +5181,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 218,
@@ -4556,7 +5205,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 219,
@@ -4577,7 +5229,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 220,
@@ -4598,7 +5253,10 @@
       "status": "a",
       "news": "",
       "minutes": 90,
-      "ictIndex": 4.9
+      "ictIndex": 4.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 221,
@@ -4619,7 +5277,10 @@
       "status": "a",
       "news": "",
       "minutes": 7,
-      "ictIndex": 0.3
+      "ictIndex": 0.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 222,
@@ -4640,7 +5301,10 @@
       "status": "a",
       "news": "",
       "minutes": 2301,
-      "ictIndex": 91.5
+      "ictIndex": 91.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 223,
@@ -4655,13 +5319,16 @@
       "form": 0,
       "totalPoints": 114,
       "pointsPerGame": 3.6,
-      "selectedByPercent": 8.8,
+      "selectedByPercent": 8.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2210,
-      "ictIndex": 150.8
+      "ictIndex": 150.8,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 224,
@@ -4682,7 +5349,10 @@
       "status": "a",
       "news": "",
       "minutes": 414,
-      "ictIndex": 37.8
+      "ictIndex": 37.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 225,
@@ -4703,7 +5373,10 @@
       "status": "u",
       "news": "has returned to Getafe CF",
       "minutes": 159,
-      "ictIndex": 8.8
+      "ictIndex": 8.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 555,
@@ -4724,7 +5397,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 226,
@@ -4739,13 +5415,16 @@
       "form": 0,
       "totalPoints": 135,
       "pointsPerGame": 3.6,
-      "selectedByPercent": 10.9,
+      "selectedByPercent": 10.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3420,
-      "ictIndex": 90.8
+      "ictIndex": 90.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 227,
@@ -4766,7 +5445,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 228,
@@ -4787,7 +5469,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 229,
@@ -4802,13 +5487,16 @@
       "form": 0,
       "totalPoints": 170,
       "pointsPerGame": 4.6,
-      "selectedByPercent": 15.1,
+      "selectedByPercent": 14.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3330,
-      "ictIndex": 165.7
+      "ictIndex": 165.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 230,
@@ -4829,7 +5517,10 @@
       "status": "a",
       "news": "",
       "minutes": 678,
-      "ictIndex": 29.3
+      "ictIndex": 29.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 231,
@@ -4850,7 +5541,10 @@
       "status": "a",
       "news": "",
       "minutes": 2588,
-      "ictIndex": 111.7
+      "ictIndex": 111.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 232,
@@ -4871,7 +5565,10 @@
       "status": "a",
       "news": "",
       "minutes": 3118,
-      "ictIndex": 107.5
+      "ictIndex": 107.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 233,
@@ -4892,7 +5589,10 @@
       "status": "a",
       "news": "",
       "minutes": 2959,
-      "ictIndex": 102.3
+      "ictIndex": 102.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 234,
@@ -4913,7 +5613,10 @@
       "status": "a",
       "news": "",
       "minutes": 238,
-      "ictIndex": 8.8
+      "ictIndex": 8.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 235,
@@ -4934,7 +5637,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 236,
@@ -4955,7 +5661,10 @@
       "status": "a",
       "news": "",
       "minutes": 2629,
-      "ictIndex": 166
+      "ictIndex": 166,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 237,
@@ -4970,13 +5679,16 @@
       "form": 0,
       "totalPoints": 128,
       "pointsPerGame": 4,
-      "selectedByPercent": 14.7,
+      "selectedByPercent": 15,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2781,
-      "ictIndex": 166.5
+      "ictIndex": 166.5,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 239,
@@ -4991,13 +5703,16 @@
       "form": 0,
       "totalPoints": 159,
       "pointsPerGame": 4.2,
-      "selectedByPercent": 3.7,
+      "selectedByPercent": 3.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3413,
-      "ictIndex": 208.4
+      "ictIndex": 208.4,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 240,
@@ -5018,7 +5733,10 @@
       "status": "a",
       "news": "",
       "minutes": 1477,
-      "ictIndex": 45.9
+      "ictIndex": 45.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 241,
@@ -5039,7 +5757,10 @@
       "status": "a",
       "news": "",
       "minutes": 1161,
-      "ictIndex": 52.2
+      "ictIndex": 52.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 242,
@@ -5054,13 +5775,16 @@
       "form": 0,
       "totalPoints": 16,
       "pointsPerGame": 1.1,
-      "selectedByPercent": 0.1,
+      "selectedByPercent": 0.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 351,
-      "ictIndex": 23.9
+      "ictIndex": 23.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 243,
@@ -5081,7 +5805,10 @@
       "status": "a",
       "news": "",
       "minutes": 679,
-      "ictIndex": 41.8
+      "ictIndex": 41.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 244,
@@ -5102,7 +5829,10 @@
       "status": "a",
       "news": "",
       "minutes": 524,
-      "ictIndex": 21
+      "ictIndex": 21,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 245,
@@ -5123,7 +5853,10 @@
       "status": "a",
       "news": "",
       "minutes": 349,
-      "ictIndex": 13.6
+      "ictIndex": 13.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 246,
@@ -5144,7 +5877,10 @@
       "status": "a",
       "news": "",
       "minutes": 675,
-      "ictIndex": 26.3
+      "ictIndex": 26.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 247,
@@ -5165,7 +5901,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 248,
@@ -5180,13 +5919,16 @@
       "form": 0,
       "totalPoints": 104,
       "pointsPerGame": 2.8,
-      "selectedByPercent": 3.1,
+      "selectedByPercent": 3.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1551,
-      "ictIndex": 124.5
+      "ictIndex": 124.5,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 249,
@@ -5207,7 +5949,10 @@
       "status": "a",
       "news": "",
       "minutes": 1898,
-      "ictIndex": 102.5
+      "ictIndex": 102.5,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 250,
@@ -5222,13 +5967,16 @@
       "form": 0,
       "totalPoints": 122,
       "pointsPerGame": 3.2,
-      "selectedByPercent": 3.5,
+      "selectedByPercent": 3.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3420,
-      "ictIndex": 81.5
+      "ictIndex": 81.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 251,
@@ -5249,7 +5997,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 252,
@@ -5270,7 +6021,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 253,
@@ -5291,7 +6045,10 @@
       "status": "s",
       "news": "Suspended until 29 Aug",
       "minutes": 2882,
-      "ictIndex": 107
+      "ictIndex": 107,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 254,
@@ -5306,13 +6063,16 @@
       "form": 0,
       "totalPoints": 65,
       "pointsPerGame": 3,
-      "selectedByPercent": 3,
+      "selectedByPercent": 3.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1487,
-      "ictIndex": 79.3
+      "ictIndex": 79.3,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 255,
@@ -5333,7 +6093,10 @@
       "status": "a",
       "news": "",
       "minutes": 935,
-      "ictIndex": 31.2
+      "ictIndex": 31.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 256,
@@ -5354,7 +6117,10 @@
       "status": "a",
       "news": "",
       "minutes": 1791,
-      "ictIndex": 73.9
+      "ictIndex": 73.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 257,
@@ -5375,7 +6141,10 @@
       "status": "a",
       "news": "",
       "minutes": 2532,
-      "ictIndex": 84.5
+      "ictIndex": 84.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 258,
@@ -5396,7 +6165,10 @@
       "status": "a",
       "news": "",
       "minutes": 1838,
-      "ictIndex": 86.2
+      "ictIndex": 86.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 261,
@@ -5417,7 +6189,10 @@
       "status": "a",
       "news": "",
       "minutes": 2420,
-      "ictIndex": 159.4
+      "ictIndex": 159.4,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 262,
@@ -5438,7 +6213,10 @@
       "status": "a",
       "news": "",
       "minutes": 1909,
-      "ictIndex": 102.6
+      "ictIndex": 102.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 263,
@@ -5459,7 +6237,10 @@
       "status": "a",
       "news": "",
       "minutes": 1030,
-      "ictIndex": 70.4
+      "ictIndex": 70.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 264,
@@ -5480,7 +6261,10 @@
       "status": "a",
       "news": "",
       "minutes": 1030,
-      "ictIndex": 66.4
+      "ictIndex": 66.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 265,
@@ -5501,7 +6285,10 @@
       "status": "a",
       "news": "",
       "minutes": 2904,
-      "ictIndex": 91
+      "ictIndex": 91,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 266,
@@ -5522,7 +6309,10 @@
       "status": "a",
       "news": "",
       "minutes": 756,
-      "ictIndex": 41.4
+      "ictIndex": 41.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 267,
@@ -5543,7 +6333,10 @@
       "status": "a",
       "news": "",
       "minutes": 1730,
-      "ictIndex": 93.4
+      "ictIndex": 93.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 5
     },
     {
       "id": 268,
@@ -5564,7 +6357,10 @@
       "status": "a",
       "news": "",
       "minutes": 1290,
-      "ictIndex": 73.3
+      "ictIndex": 73.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 269,
@@ -5585,7 +6381,10 @@
       "status": "a",
       "news": "",
       "minutes": 1816,
-      "ictIndex": 86.7
+      "ictIndex": 86.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 270,
@@ -5606,7 +6405,10 @@
       "status": "a",
       "news": "",
       "minutes": 89,
-      "ictIndex": 9.7
+      "ictIndex": 9.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 271,
@@ -5627,7 +6429,10 @@
       "status": "a",
       "news": "",
       "minutes": 987,
-      "ictIndex": 47.3
+      "ictIndex": 47.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 272,
@@ -5642,13 +6447,16 @@
       "form": 0,
       "totalPoints": 6,
       "pointsPerGame": 0.9,
-      "selectedByPercent": 6.2,
+      "selectedByPercent": 6.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 49,
-      "ictIndex": 2.3
+      "ictIndex": 2.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 273,
@@ -5669,7 +6477,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 274,
@@ -5690,7 +6501,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 275,
@@ -5711,7 +6525,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 276,
@@ -5732,7 +6549,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 277,
@@ -5753,7 +6573,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 278,
@@ -5774,7 +6597,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 279,
@@ -5795,7 +6621,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 280,
@@ -5816,7 +6645,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 281,
@@ -5837,7 +6669,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 282,
@@ -5858,7 +6693,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 283,
@@ -5879,7 +6717,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 284,
@@ -5900,7 +6741,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 285,
@@ -5921,7 +6765,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 286,
@@ -5942,7 +6789,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 5
     },
     {
       "id": 287,
@@ -5963,7 +6813,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 288,
@@ -5984,7 +6837,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 289,
@@ -6005,7 +6861,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 290,
@@ -6026,7 +6885,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 291,
@@ -6047,7 +6909,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 292,
@@ -6068,7 +6933,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 293,
@@ -6089,7 +6957,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 294,
@@ -6110,7 +6981,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 295,
@@ -6131,7 +7005,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 296,
@@ -6152,7 +7029,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 297,
@@ -6173,7 +7053,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 298,
@@ -6194,7 +7077,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 299,
@@ -6215,7 +7101,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 259,
@@ -6230,13 +7119,16 @@
       "form": 0,
       "totalPoints": 31,
       "pointsPerGame": 2.4,
-      "selectedByPercent": 20.2,
+      "selectedByPercent": 20.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 812,
-      "ictIndex": 23
+      "ictIndex": 23,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 300,
@@ -6251,13 +7143,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 1.1,
+      "selectedByPercent": 1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 301,
@@ -6278,7 +7173,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 302,
@@ -6299,7 +7197,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 303,
@@ -6314,13 +7215,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0.5,
+      "selectedByPercent": 0.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 304,
@@ -6341,7 +7245,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 305,
@@ -6362,7 +7269,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 306,
@@ -6383,7 +7293,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 307,
@@ -6404,7 +7317,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 308,
@@ -6425,7 +7341,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 309,
@@ -6446,7 +7365,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 7
     },
     {
       "id": 310,
@@ -6467,7 +7389,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 311,
@@ -6488,7 +7413,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 312,
@@ -6509,7 +7437,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 313,
@@ -6530,7 +7461,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 8
     },
     {
       "id": 314,
@@ -6551,7 +7485,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 315,
@@ -6572,7 +7509,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 316,
@@ -6593,7 +7533,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 317,
@@ -6614,7 +7557,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 318,
@@ -6635,7 +7581,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 319,
@@ -6656,7 +7605,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 320,
@@ -6677,7 +7629,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 321,
@@ -6698,7 +7653,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 322,
@@ -6719,7 +7677,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 323,
@@ -6740,7 +7701,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 324,
@@ -6761,7 +7725,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 554,
@@ -6782,7 +7749,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 260,
@@ -6797,13 +7767,16 @@
       "form": 0,
       "totalPoints": 168,
       "pointsPerGame": 4.7,
-      "selectedByPercent": 10.7,
+      "selectedByPercent": 10.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2674,
-      "ictIndex": 196.9
+      "ictIndex": 196.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 326,
@@ -6824,7 +7797,10 @@
       "status": "a",
       "news": "",
       "minutes": 1440,
-      "ictIndex": 32.2
+      "ictIndex": 32.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 327,
@@ -6845,7 +7821,10 @@
       "status": "a",
       "news": "",
       "minutes": 1888,
-      "ictIndex": 86
+      "ictIndex": 86,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 329,
@@ -6860,13 +7839,16 @@
       "form": 0,
       "totalPoints": 109,
       "pointsPerGame": 3.1,
-      "selectedByPercent": 2.2,
+      "selectedByPercent": 2.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2952,
-      "ictIndex": 109.1
+      "ictIndex": 109.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 330,
@@ -6887,7 +7869,10 @@
       "status": "a",
       "news": "",
       "minutes": 2795,
-      "ictIndex": 100.3
+      "ictIndex": 100.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 331,
@@ -6908,7 +7893,10 @@
       "status": "a",
       "news": "",
       "minutes": 2637,
-      "ictIndex": 96.4
+      "ictIndex": 96.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 332,
@@ -6929,7 +7917,10 @@
       "status": "a",
       "news": "",
       "minutes": 1893,
-      "ictIndex": 88.3
+      "ictIndex": 88.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 333,
@@ -6950,7 +7941,10 @@
       "status": "a",
       "news": "",
       "minutes": 429,
-      "ictIndex": 12.2
+      "ictIndex": 12.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 334,
@@ -6971,7 +7965,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 335,
@@ -6992,7 +7989,10 @@
       "status": "a",
       "news": "",
       "minutes": 2369,
-      "ictIndex": 188.8
+      "ictIndex": 188.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 336,
@@ -7013,7 +8013,10 @@
       "status": "a",
       "news": "",
       "minutes": 1553,
-      "ictIndex": 115
+      "ictIndex": 115,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 337,
@@ -7034,7 +8037,10 @@
       "status": "a",
       "news": "",
       "minutes": 2449,
-      "ictIndex": 146.7
+      "ictIndex": 146.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 338,
@@ -7055,7 +8061,10 @@
       "status": "a",
       "news": "",
       "minutes": 3119,
-      "ictIndex": 114.7
+      "ictIndex": 114.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 339,
@@ -7076,7 +8085,10 @@
       "status": "a",
       "news": "",
       "minutes": 1003,
-      "ictIndex": 81.2
+      "ictIndex": 81.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 5
     },
     {
       "id": 340,
@@ -7097,7 +8109,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 341,
@@ -7118,7 +8133,10 @@
       "status": "a",
       "news": "",
       "minutes": 521,
-      "ictIndex": 27.5
+      "ictIndex": 27.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 342,
@@ -7139,7 +8157,10 @@
       "status": "a",
       "news": "",
       "minutes": 262,
-      "ictIndex": 11.5
+      "ictIndex": 11.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 343,
@@ -7160,7 +8181,10 @@
       "status": "a",
       "news": "",
       "minutes": 547,
-      "ictIndex": 33.9
+      "ictIndex": 33.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 344,
@@ -7181,7 +8205,10 @@
       "status": "a",
       "news": "",
       "minutes": 1318,
-      "ictIndex": 43.2
+      "ictIndex": 43.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 345,
@@ -7202,7 +8229,10 @@
       "status": "a",
       "news": "",
       "minutes": 1307,
-      "ictIndex": 63.6
+      "ictIndex": 63.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 346,
@@ -7217,13 +8247,16 @@
       "form": 0,
       "totalPoints": 142,
       "pointsPerGame": 4.1,
-      "selectedByPercent": 14.9,
+      "selectedByPercent": 15.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2721,
-      "ictIndex": 194.7
+      "ictIndex": 194.7,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 347,
@@ -7244,7 +8277,10 @@
       "status": "a",
       "news": "",
       "minutes": 1065,
-      "ictIndex": 87.8
+      "ictIndex": 87.8,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 348,
@@ -7265,7 +8301,10 @@
       "status": "a",
       "news": "",
       "minutes": 244,
-      "ictIndex": 16.5
+      "ictIndex": 16.5,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 349,
@@ -7286,7 +8325,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 350,
@@ -7301,13 +8343,16 @@
       "form": 0,
       "totalPoints": 91,
       "pointsPerGame": 3.5,
-      "selectedByPercent": 5.8,
+      "selectedByPercent": 5.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2340,
-      "ictIndex": 47.8
+      "ictIndex": 47.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 351,
@@ -7328,7 +8373,10 @@
       "status": "a",
       "news": "",
       "minutes": 867,
-      "ictIndex": 27.5
+      "ictIndex": 27.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 352,
@@ -7349,7 +8397,10 @@
       "status": "a",
       "news": "",
       "minutes": 212,
-      "ictIndex": 8.4
+      "ictIndex": 8.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 353,
@@ -7370,7 +8421,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 354,
@@ -7391,7 +8445,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 355,
@@ -7412,7 +8469,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 356,
@@ -7433,7 +8493,10 @@
       "status": "a",
       "news": "",
       "minutes": 3420,
-      "ictIndex": 187.6
+      "ictIndex": 187.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 357,
@@ -7448,13 +8511,16 @@
       "form": 0,
       "totalPoints": 63,
       "pointsPerGame": 3,
-      "selectedByPercent": 3.1,
+      "selectedByPercent": 3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1032,
-      "ictIndex": 56.5
+      "ictIndex": 56.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 358,
@@ -7475,7 +8541,10 @@
       "status": "a",
       "news": "",
       "minutes": 2251,
-      "ictIndex": 99.4
+      "ictIndex": 99.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 359,
@@ -7496,7 +8565,10 @@
       "status": "a",
       "news": "",
       "minutes": 594,
-      "ictIndex": 23.2
+      "ictIndex": 23.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 360,
@@ -7517,7 +8589,10 @@
       "status": "i",
       "news": "Knee injury - Expected back 31 Dec",
       "minutes": 928,
-      "ictIndex": 32.3
+      "ictIndex": 32.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 361,
@@ -7538,7 +8613,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 362,
@@ -7559,7 +8637,10 @@
       "status": "d",
       "news": "Shoulder injury - 75% chance of playing",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 363,
@@ -7580,7 +8661,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 364,
@@ -7601,7 +8685,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 365,
@@ -7622,7 +8709,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 366,
@@ -7637,13 +8727,16 @@
       "form": 0,
       "totalPoints": 125,
       "pointsPerGame": 3.8,
-      "selectedByPercent": 16.7,
+      "selectedByPercent": 16.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2374,
-      "ictIndex": 210
+      "ictIndex": 210,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 367,
@@ -7658,13 +8751,16 @@
       "form": 0,
       "totalPoints": 131,
       "pointsPerGame": 3.6,
-      "selectedByPercent": 5,
+      "selectedByPercent": 4.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2736,
-      "ictIndex": 208.4
+      "ictIndex": 208.4,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 368,
@@ -7679,13 +8775,16 @@
       "form": 0,
       "totalPoints": 160,
       "pointsPerGame": 4.4,
-      "selectedByPercent": 33.6,
+      "selectedByPercent": 33.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3232,
-      "ictIndex": 260.9
+      "ictIndex": 260.9,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 369,
@@ -7706,7 +8805,10 @@
       "status": "a",
       "news": "",
       "minutes": 547,
-      "ictIndex": 60.1
+      "ictIndex": 60.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 370,
@@ -7727,7 +8829,10 @@
       "status": "a",
       "news": "",
       "minutes": 317,
-      "ictIndex": 34.9
+      "ictIndex": 34.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 371,
@@ -7748,7 +8853,10 @@
       "status": "a",
       "news": "",
       "minutes": 2991,
-      "ictIndex": 140.1
+      "ictIndex": 140.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 372,
@@ -7769,7 +8877,10 @@
       "status": "a",
       "news": "",
       "minutes": 2654,
-      "ictIndex": 139.9
+      "ictIndex": 139.9,
+      "penaltiesOrder": 5,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 373,
@@ -7790,7 +8901,10 @@
       "status": "a",
       "news": "",
       "minutes": 1923,
-      "ictIndex": 104.6
+      "ictIndex": 104.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 374,
@@ -7811,7 +8925,10 @@
       "status": "d",
       "news": "Ankle injury - 75% chance of playing",
       "minutes": 170,
-      "ictIndex": 8
+      "ictIndex": 8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 375,
@@ -7832,7 +8949,10 @@
       "status": "a",
       "news": "",
       "minutes": 21,
-      "ictIndex": 2.1
+      "ictIndex": 2.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 376,
@@ -7853,7 +8973,10 @@
       "status": "i",
       "news": "Hamstring injury - Expected back 23 Aug",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 377,
@@ -7874,7 +8997,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 378,
@@ -7895,7 +9021,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 379,
@@ -7910,13 +9039,16 @@
       "form": 0,
       "totalPoints": 41,
       "pointsPerGame": 2.9,
-      "selectedByPercent": 14.1,
+      "selectedByPercent": 14,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 694,
-      "ictIndex": 36.9
+      "ictIndex": 36.9,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 380,
@@ -7937,7 +9069,10 @@
       "status": "i",
       "news": "Achilles injury - Expected back 31 Dec",
       "minutes": 1797,
-      "ictIndex": 156.2
+      "ictIndex": 156.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 381,
@@ -7958,7 +9093,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 382,
@@ -7979,7 +9117,10 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 383,
@@ -8000,7 +9141,10 @@
       "status": "a",
       "news": "",
       "minutes": 110,
-      "ictIndex": 7.4
+      "ictIndex": 7.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 238,
@@ -8021,7 +9165,10 @@
       "status": "a",
       "news": "",
       "minutes": 1627,
-      "ictIndex": 129.2
+      "ictIndex": 129.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 384,
@@ -8042,7 +9189,10 @@
       "status": "a",
       "news": "",
       "minutes": 3060,
-      "ictIndex": 68
+      "ictIndex": 68,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 385,
@@ -8063,7 +9213,10 @@
       "status": "a",
       "news": "",
       "minutes": 360,
-      "ictIndex": 11.9
+      "ictIndex": 11.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 386,
@@ -8084,7 +9237,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 387,
@@ -8099,13 +9255,16 @@
       "form": 0,
       "totalPoints": 160,
       "pointsPerGame": 4.7,
-      "selectedByPercent": 25,
+      "selectedByPercent": 25.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2643,
-      "ictIndex": 164.1
+      "ictIndex": 164.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 388,
@@ -8126,7 +9285,10 @@
       "status": "a",
       "news": "",
       "minutes": 3150,
-      "ictIndex": 160.9
+      "ictIndex": 160.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 389,
@@ -8141,13 +9303,16 @@
       "form": 0,
       "totalPoints": 154,
       "pointsPerGame": 4.5,
-      "selectedByPercent": 9,
+      "selectedByPercent": 8.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2861,
-      "ictIndex": 137.6
+      "ictIndex": 137.6,
+      "penaltiesOrder": 5,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 390,
@@ -8168,7 +9333,10 @@
       "status": "a",
       "news": "",
       "minutes": 2139,
-      "ictIndex": 81
+      "ictIndex": 81,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 391,
@@ -8189,7 +9357,10 @@
       "status": "a",
       "news": "",
       "minutes": 1370,
-      "ictIndex": 69.8
+      "ictIndex": 69.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 392,
@@ -8210,7 +9381,10 @@
       "status": "a",
       "news": "",
       "minutes": 971,
-      "ictIndex": 50.2
+      "ictIndex": 50.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 393,
@@ -8225,13 +9399,16 @@
       "form": 0,
       "totalPoints": 67,
       "pointsPerGame": 3.2,
-      "selectedByPercent": 2.6,
+      "selectedByPercent": 2.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1427,
-      "ictIndex": 43.9
+      "ictIndex": 43.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 394,
@@ -8252,7 +9429,10 @@
       "status": "a",
       "news": "",
       "minutes": 135,
-      "ictIndex": 7.5
+      "ictIndex": 7.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 395,
@@ -8273,7 +9453,10 @@
       "status": "a",
       "news": "",
       "minutes": 401,
-      "ictIndex": 23.8
+      "ictIndex": 23.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 396,
@@ -8294,7 +9477,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 397,
@@ -8315,7 +9501,10 @@
       "status": "a",
       "news": "",
       "minutes": 3200,
-      "ictIndex": 257.7
+      "ictIndex": 257.7,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 398,
@@ -8336,7 +9525,10 @@
       "status": "a",
       "news": "",
       "minutes": 2078,
-      "ictIndex": 201.9
+      "ictIndex": 201.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 4
     },
     {
       "id": 399,
@@ -8351,13 +9543,16 @@
       "form": 0,
       "totalPoints": 135,
       "pointsPerGame": 4.1,
-      "selectedByPercent": 11.9,
+      "selectedByPercent": 11.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1772,
-      "ictIndex": 218.1
+      "ictIndex": 218.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 5
     },
     {
       "id": 400,
@@ -8372,13 +9567,16 @@
       "form": 0,
       "totalPoints": 120,
       "pointsPerGame": 4,
-      "selectedByPercent": 8.6,
+      "selectedByPercent": 8.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1773,
-      "ictIndex": 202.5
+      "ictIndex": 202.5,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 401,
@@ -8399,7 +9597,10 @@
       "status": "a",
       "news": "",
       "minutes": 691,
-      "ictIndex": 64.4
+      "ictIndex": 64.4,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": null
     },
     {
       "id": 402,
@@ -8420,7 +9621,10 @@
       "status": "i",
       "news": "Back injury - Unknown return date",
       "minutes": 1510,
-      "ictIndex": 90.3
+      "ictIndex": 90.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 403,
@@ -8441,7 +9645,10 @@
       "status": "a",
       "news": "",
       "minutes": 817,
-      "ictIndex": 65.8
+      "ictIndex": 65.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 404,
@@ -8462,7 +9669,10 @@
       "status": "a",
       "news": "",
       "minutes": 1623,
-      "ictIndex": 111.2
+      "ictIndex": 111.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": 6
     },
     {
       "id": 405,
@@ -8483,7 +9693,10 @@
       "status": "a",
       "news": "",
       "minutes": 1561,
-      "ictIndex": 61.5
+      "ictIndex": 61.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 406,
@@ -8504,7 +9717,10 @@
       "status": "a",
       "news": "",
       "minutes": 125,
-      "ictIndex": 11.5
+      "ictIndex": 11.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 407,
@@ -8525,7 +9741,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 408,
@@ -8546,7 +9765,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 409,
@@ -8567,7 +9789,10 @@
       "status": "a",
       "news": "",
       "minutes": 25,
-      "ictIndex": 3.7
+      "ictIndex": 3.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 410,
@@ -8588,7 +9813,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 411,
@@ -8603,13 +9831,16 @@
       "form": 0,
       "totalPoints": 239,
       "pointsPerGame": 6.8,
-      "selectedByPercent": 67.1,
+      "selectedByPercent": 67.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2953,
-      "ictIndex": 302.3
+      "ictIndex": 302.3,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 481,
@@ -8624,13 +9855,16 @@
       "form": 0,
       "totalPoints": 180,
       "pointsPerGame": 4.7,
-      "selectedByPercent": 12.2,
+      "selectedByPercent": 12.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3332,
-      "ictIndex": 219
+      "ictIndex": 219,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 43,
@@ -8645,13 +9879,16 @@
       "form": 0,
       "totalPoints": 68,
       "pointsPerGame": 2.7,
-      "selectedByPercent": 1,
+      "selectedByPercent": 1.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "minutes": 1857,
-      "ictIndex": 113.1
+      "ictIndex": 113.1,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 162,
@@ -8672,7 +9909,10 @@
       "status": "a",
       "news": "",
       "minutes": 1247,
-      "ictIndex": 47.5
+      "ictIndex": 47.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 325,
@@ -8693,7 +9933,10 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "minutes": 1980,
-      "ictIndex": 53.4
+      "ictIndex": 53.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 412,
@@ -8714,7 +9957,10 @@
       "status": "a",
       "news": "",
       "minutes": 2880,
-      "ictIndex": 63.7
+      "ictIndex": 63.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 413,
@@ -8735,7 +9981,10 @@
       "status": "a",
       "news": "",
       "minutes": 540,
-      "ictIndex": 12.8
+      "ictIndex": 12.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 414,
@@ -8756,7 +10005,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 415,
@@ -8777,7 +10029,10 @@
       "status": "a",
       "news": "",
       "minutes": 1440,
-      "ictIndex": 120.3
+      "ictIndex": 120.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 416,
@@ -8798,7 +10053,10 @@
       "status": "i",
       "news": "Back injury - Unknown return date",
       "minutes": 1170,
-      "ictIndex": 45.7
+      "ictIndex": 45.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 417,
@@ -8819,7 +10077,10 @@
       "status": "a",
       "news": "",
       "minutes": 2609,
-      "ictIndex": 119.6
+      "ictIndex": 119.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 418,
@@ -8834,13 +10095,16 @@
       "form": 0,
       "totalPoints": 90,
       "pointsPerGame": 3.9,
-      "selectedByPercent": 5.9,
+      "selectedByPercent": 6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1649,
-      "ictIndex": 63
+      "ictIndex": 63,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 419,
@@ -8861,7 +10125,10 @@
       "status": "a",
       "news": "",
       "minutes": 1229,
-      "ictIndex": 42
+      "ictIndex": 42,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 420,
@@ -8882,7 +10149,10 @@
       "status": "a",
       "news": "",
       "minutes": 1730,
-      "ictIndex": 53.2
+      "ictIndex": 53.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 421,
@@ -8903,7 +10173,10 @@
       "status": "a",
       "news": "",
       "minutes": 920,
-      "ictIndex": 29.1
+      "ictIndex": 29.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 422,
@@ -8924,7 +10197,10 @@
       "status": "a",
       "news": "",
       "minutes": 977,
-      "ictIndex": 36.8
+      "ictIndex": 36.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 423,
@@ -8939,13 +10215,16 @@
       "form": 0,
       "totalPoints": 113,
       "pointsPerGame": 3,
-      "selectedByPercent": 12.5,
+      "selectedByPercent": 12.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3220,
-      "ictIndex": 97.4
+      "ictIndex": 97.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 424,
@@ -8966,7 +10245,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 425,
@@ -8987,7 +10269,10 @@
       "status": "a",
       "news": "",
       "minutes": 2,
-      "ictIndex": 0.4
+      "ictIndex": 0.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 426,
@@ -9002,13 +10287,16 @@
       "form": 0,
       "totalPoints": 235,
       "pointsPerGame": 6.7,
-      "selectedByPercent": 43,
+      "selectedByPercent": 43.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3065,
-      "ictIndex": 381.4
+      "ictIndex": 381.4,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 427,
@@ -9029,7 +10317,10 @@
       "status": "a",
       "news": "",
       "minutes": 2611,
-      "ictIndex": 231.4
+      "ictIndex": 231.4,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 5
     },
     {
       "id": 428,
@@ -9050,7 +10341,10 @@
       "status": "a",
       "news": "",
       "minutes": 2493,
-      "ictIndex": 202.5
+      "ictIndex": 202.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 429,
@@ -9071,7 +10365,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 430,
@@ -9092,7 +10389,10 @@
       "status": "a",
       "news": "",
       "minutes": 1010,
-      "ictIndex": 58
+      "ictIndex": 58,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 431,
@@ -9113,7 +10413,10 @@
       "status": "a",
       "news": "",
       "minutes": 2339,
-      "ictIndex": 163.5
+      "ictIndex": 163.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 432,
@@ -9134,7 +10437,10 @@
       "status": "a",
       "news": "",
       "minutes": 1653,
-      "ictIndex": 82.1
+      "ictIndex": 82.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 433,
@@ -9155,7 +10461,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 876,
-      "ictIndex": 29.8
+      "ictIndex": 29.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 434,
@@ -9176,7 +10485,10 @@
       "status": "a",
       "news": "",
       "minutes": 107,
-      "ictIndex": 4.8
+      "ictIndex": 4.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 435,
@@ -9197,7 +10509,10 @@
       "status": "a",
       "news": "",
       "minutes": 40,
-      "ictIndex": 1.7
+      "ictIndex": 1.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 436,
@@ -9218,7 +10533,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 437,
@@ -9239,7 +10557,10 @@
       "status": "a",
       "news": "",
       "minutes": 15,
-      "ictIndex": 1.4
+      "ictIndex": 1.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 438,
@@ -9260,7 +10581,10 @@
       "status": "a",
       "news": "",
       "minutes": 17,
-      "ictIndex": 0.3
+      "ictIndex": 0.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 439,
@@ -9275,13 +10599,16 @@
       "form": 0,
       "totalPoints": 111,
       "pointsPerGame": 3.7,
-      "selectedByPercent": 2.5,
+      "selectedByPercent": 2.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "d",
       "news": "Shin injury - 75% chance of playing",
       "minutes": 1630,
-      "ictIndex": 143.4
+      "ictIndex": 143.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 440,
@@ -9302,7 +10629,10 @@
       "status": "a",
       "news": "",
       "minutes": 607,
-      "ictIndex": 58.3
+      "ictIndex": 58.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 441,
@@ -9323,7 +10653,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 442,
@@ -9344,7 +10677,10 @@
       "status": "a",
       "news": "",
       "minutes": 2416,
-      "ictIndex": 70.7
+      "ictIndex": 70.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 443,
@@ -9365,7 +10701,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 444,
@@ -9386,7 +10725,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 445,
@@ -9407,7 +10749,10 @@
       "status": "a",
       "news": "",
       "minutes": 2963,
-      "ictIndex": 138.9
+      "ictIndex": 138.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 446,
@@ -9428,7 +10773,10 @@
       "status": "d",
       "news": "Ankle injury - 75% chance of playing",
       "minutes": 1089,
-      "ictIndex": 46.4
+      "ictIndex": 46.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": null
     },
     {
       "id": 447,
@@ -9449,7 +10797,10 @@
       "status": "a",
       "news": "",
       "minutes": 1834,
-      "ictIndex": 87.4
+      "ictIndex": 87.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 448,
@@ -9464,13 +10815,16 @@
       "form": 0,
       "totalPoints": 93,
       "pointsPerGame": 3.2,
-      "selectedByPercent": 2.1,
+      "selectedByPercent": 2.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2195,
-      "ictIndex": 82.1
+      "ictIndex": 82.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 449,
@@ -9485,13 +10839,16 @@
       "form": 0,
       "totalPoints": 79,
       "pointsPerGame": 2.6,
-      "selectedByPercent": 4.3,
+      "selectedByPercent": 4.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2176,
-      "ictIndex": 118
+      "ictIndex": 118,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 5
     },
     {
       "id": 450,
@@ -9512,7 +10869,10 @@
       "status": "d",
       "news": "Calf injury - 75% chance of playing",
       "minutes": 1326,
-      "ictIndex": 46.1
+      "ictIndex": 46.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 451,
@@ -9533,7 +10893,10 @@
       "status": "a",
       "news": "",
       "minutes": 7,
-      "ictIndex": 1.3
+      "ictIndex": 1.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 452,
@@ -9548,13 +10911,16 @@
       "form": 0,
       "totalPoints": 154,
       "pointsPerGame": 5.3,
-      "selectedByPercent": 10.3,
+      "selectedByPercent": 10.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2456,
-      "ictIndex": 202.9
+      "ictIndex": 202.9,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 453,
@@ -9575,7 +10941,10 @@
       "status": "a",
       "news": "",
       "minutes": 1951,
-      "ictIndex": 147
+      "ictIndex": 147,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 454,
@@ -9596,7 +10965,10 @@
       "status": "a",
       "news": "",
       "minutes": 1302,
-      "ictIndex": 57.8
+      "ictIndex": 57.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 8
     },
     {
       "id": 456,
@@ -9617,7 +10989,10 @@
       "status": "a",
       "news": "",
       "minutes": 1441,
-      "ictIndex": 79.9
+      "ictIndex": 79.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 457,
@@ -9638,7 +11013,10 @@
       "status": "a",
       "news": "",
       "minutes": 1606,
-      "ictIndex": 106
+      "ictIndex": 106,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 458,
@@ -9659,7 +11037,10 @@
       "status": "d",
       "news": "Thigh injury - 75% chance of playing",
       "minutes": 1950,
-      "ictIndex": 95
+      "ictIndex": 95,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 459,
@@ -9680,7 +11061,10 @@
       "status": "i",
       "news": "Calf injury - Expected back 30 Aug",
       "minutes": 1493,
-      "ictIndex": 73
+      "ictIndex": 73,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 7
     },
     {
       "id": 460,
@@ -9701,7 +11085,10 @@
       "status": "a",
       "news": "",
       "minutes": 972,
-      "ictIndex": 55.5
+      "ictIndex": 55.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 461,
@@ -9722,7 +11109,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 462,
@@ -9743,7 +11133,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 463,
@@ -9764,7 +11157,10 @@
       "status": "a",
       "news": "",
       "minutes": 1896,
-      "ictIndex": 117.5
+      "ictIndex": 117.5,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 464,
@@ -9785,7 +11181,10 @@
       "status": "a",
       "news": "",
       "minutes": 517,
-      "ictIndex": 25.5
+      "ictIndex": 25.5,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 465,
@@ -9806,7 +11205,10 @@
       "status": "a",
       "news": "",
       "minutes": 805,
-      "ictIndex": 62.2
+      "ictIndex": 62.2,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 466,
@@ -9827,7 +11229,10 @@
       "status": "a",
       "news": "",
       "minutes": 13,
-      "ictIndex": 0.5
+      "ictIndex": 0.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 467,
@@ -9848,7 +11253,10 @@
       "status": "a",
       "news": "",
       "minutes": 2667,
-      "ictIndex": 74
+      "ictIndex": 74,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 468,
@@ -9869,7 +11277,10 @@
       "status": "a",
       "news": "",
       "minutes": 437,
-      "ictIndex": 5.7
+      "ictIndex": 5.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 469,
@@ -9884,13 +11295,16 @@
       "form": 0,
       "totalPoints": 128,
       "pointsPerGame": 3.5,
-      "selectedByPercent": 8.2,
+      "selectedByPercent": 8.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3203,
-      "ictIndex": 175.6
+      "ictIndex": 175.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 5
     },
     {
       "id": 470,
@@ -9911,7 +11325,10 @@
       "status": "a",
       "news": "",
       "minutes": 1340,
-      "ictIndex": 50.5
+      "ictIndex": 50.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 471,
@@ -9932,7 +11349,10 @@
       "status": "a",
       "news": "",
       "minutes": 3375,
-      "ictIndex": 86.9
+      "ictIndex": 86.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 472,
@@ -9953,7 +11373,10 @@
       "status": "d",
       "news": "Muscle injury - 75% chance of playing",
       "minutes": 2130,
-      "ictIndex": 74
+      "ictIndex": 74,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 2,
+      "cornersOrder": null
     },
     {
       "id": 473,
@@ -9974,7 +11397,10 @@
       "status": "a",
       "news": "",
       "minutes": 1587,
-      "ictIndex": 50.5
+      "ictIndex": 50.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 474,
@@ -9995,7 +11421,10 @@
       "status": "a",
       "news": "",
       "minutes": 514,
-      "ictIndex": 14.2
+      "ictIndex": 14.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 475,
@@ -10016,7 +11445,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 1025,
-      "ictIndex": 43.5
+      "ictIndex": 43.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 476,
@@ -10037,7 +11469,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 477,
@@ -10052,13 +11487,16 @@
       "form": 0,
       "totalPoints": 3,
       "pointsPerGame": 1,
-      "selectedByPercent": 0.3,
+      "selectedByPercent": 0.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 165,
-      "ictIndex": 3.2
+      "ictIndex": 3.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 478,
@@ -10079,7 +11517,10 @@
       "status": "a",
       "news": "",
       "minutes": 353,
-      "ictIndex": 10.4
+      "ictIndex": 10.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 479,
@@ -10100,7 +11541,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 480,
@@ -10121,7 +11565,10 @@
       "status": "a",
       "news": "",
       "minutes": 3101,
-      "ictIndex": 242.5
+      "ictIndex": 242.5,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 1,
+      "cornersOrder": null
     },
     {
       "id": 482,
@@ -10142,7 +11589,10 @@
       "status": "d",
       "news": "Thigh injury - 75% chance of playing",
       "minutes": 1838,
-      "ictIndex": 130.6
+      "ictIndex": 130.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": null
     },
     {
       "id": 483,
@@ -10163,7 +11613,10 @@
       "status": "a",
       "news": "",
       "minutes": 1167,
-      "ictIndex": 56.6
+      "ictIndex": 56.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 484,
@@ -10184,7 +11637,10 @@
       "status": "a",
       "news": "",
       "minutes": 1676,
-      "ictIndex": 121.6
+      "ictIndex": 121.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 4
     },
     {
       "id": 485,
@@ -10205,7 +11661,10 @@
       "status": "a",
       "news": "",
       "minutes": 549,
-      "ictIndex": 35.6
+      "ictIndex": 35.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 6
     },
     {
       "id": 486,
@@ -10226,7 +11685,10 @@
       "status": "a",
       "news": "",
       "minutes": 288,
-      "ictIndex": 17.3
+      "ictIndex": 17.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 487,
@@ -10247,7 +11709,10 @@
       "status": "a",
       "news": "",
       "minutes": 1168,
-      "ictIndex": 59.7
+      "ictIndex": 59.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 488,
@@ -10268,7 +11733,10 @@
       "status": "a",
       "news": "",
       "minutes": 2073,
-      "ictIndex": 76.8
+      "ictIndex": 76.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 489,
@@ -10283,13 +11751,16 @@
       "form": 0,
       "totalPoints": 30,
       "pointsPerGame": 1.4,
-      "selectedByPercent": 5.4,
+      "selectedByPercent": 5.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 602,
-      "ictIndex": 27.2
+      "ictIndex": 27.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 490,
@@ -10310,7 +11781,10 @@
       "status": "a",
       "news": "",
       "minutes": 896,
-      "ictIndex": 48
+      "ictIndex": 48,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 491,
@@ -10331,7 +11805,10 @@
       "status": "a",
       "news": "",
       "minutes": 2293,
-      "ictIndex": 136.4
+      "ictIndex": 136.4,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 492,
@@ -10352,7 +11829,10 @@
       "status": "a",
       "news": "",
       "minutes": 480,
-      "ictIndex": 48.4
+      "ictIndex": 48.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 493,
@@ -10373,7 +11853,10 @@
       "status": "a",
       "news": "",
       "minutes": 89,
-      "ictIndex": 6.3
+      "ictIndex": 6.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 112,
@@ -10394,7 +11877,10 @@
       "status": "a",
       "news": "",
       "minutes": 3210,
-      "ictIndex": 152
+      "ictIndex": 152,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 455,
@@ -10415,7 +11901,10 @@
       "status": "a",
       "news": "",
       "minutes": 2534,
-      "ictIndex": 113.4
+      "ictIndex": 113.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 4,
+      "cornersOrder": 10
     },
     {
       "id": 494,
@@ -10436,7 +11925,10 @@
       "status": "a",
       "news": "",
       "minutes": 2790,
-      "ictIndex": 72.2
+      "ictIndex": 72.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 495,
@@ -10457,7 +11949,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 496,
@@ -10472,13 +11967,16 @@
       "form": 0,
       "totalPoints": 20,
       "pointsPerGame": 2.9,
-      "selectedByPercent": 12.1,
+      "selectedByPercent": 12.2,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 630,
-      "ictIndex": 10.3
+      "ictIndex": 10.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 497,
@@ -10493,13 +11991,16 @@
       "form": 0,
       "totalPoints": 96,
       "pointsPerGame": 2.7,
-      "selectedByPercent": 21.9,
+      "selectedByPercent": 22,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3150,
-      "ictIndex": 97.9
+      "ictIndex": 97.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 498,
@@ -10514,13 +12015,16 @@
       "form": 0,
       "totalPoints": 175,
       "pointsPerGame": 4.7,
-      "selectedByPercent": 18.1,
+      "selectedByPercent": 17.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 3288,
-      "ictIndex": 168.6
+      "ictIndex": 168.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 499,
@@ -10535,13 +12039,16 @@
       "form": 0,
       "totalPoints": 117,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 22,
+      "selectedByPercent": 22.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2793,
-      "ictIndex": 177.5
+      "ictIndex": 177.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 6
     },
     {
       "id": 500,
@@ -10562,7 +12069,10 @@
       "status": "a",
       "news": "",
       "minutes": 1869,
-      "ictIndex": 93.2
+      "ictIndex": 93.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 501,
@@ -10583,7 +12093,10 @@
       "status": "a",
       "news": "",
       "minutes": 1489,
-      "ictIndex": 55.5
+      "ictIndex": 55.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 502,
@@ -10598,13 +12111,16 @@
       "form": 0,
       "totalPoints": 55,
       "pointsPerGame": 2.3,
-      "selectedByPercent": 1.8,
+      "selectedByPercent": 1.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1165,
-      "ictIndex": 68.2
+      "ictIndex": 68.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 503,
@@ -10625,7 +12141,10 @@
       "status": "a",
       "news": "",
       "minutes": 3041,
-      "ictIndex": 99.6
+      "ictIndex": 99.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 505,
@@ -10640,13 +12159,16 @@
       "form": 0,
       "totalPoints": 78,
       "pointsPerGame": 2.6,
-      "selectedByPercent": 8.8,
+      "selectedByPercent": 8.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2049,
-      "ictIndex": 70.5
+      "ictIndex": 70.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 506,
@@ -10667,7 +12189,10 @@
       "status": "a",
       "news": "",
       "minutes": 1335,
-      "ictIndex": 49.8
+      "ictIndex": 49.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 507,
@@ -10688,7 +12213,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 508,
@@ -10709,7 +12237,10 @@
       "status": "a",
       "news": "",
       "minutes": 136,
-      "ictIndex": 14.2
+      "ictIndex": 14.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 509,
@@ -10730,7 +12261,10 @@
       "status": "a",
       "news": "",
       "minutes": 1,
-      "ictIndex": 0.1
+      "ictIndex": 0.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 510,
@@ -10751,7 +12285,10 @@
       "status": "a",
       "news": "",
       "minutes": 1,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 511,
@@ -10772,7 +12309,10 @@
       "status": "a",
       "news": "",
       "minutes": 142,
-      "ictIndex": 6.2
+      "ictIndex": 6.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 512,
@@ -10793,7 +12333,10 @@
       "status": "d",
       "news": "Thigh injury - 75% chance of playing",
       "minutes": 1535,
-      "ictIndex": 104.7
+      "ictIndex": 104.7,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 3,
+      "cornersOrder": 7
     },
     {
       "id": 513,
@@ -10814,7 +12357,10 @@
       "status": "i",
       "news": "Knee injury - Expected back 31 Dec",
       "minutes": 1747,
-      "ictIndex": 113.9
+      "ictIndex": 113.9,
+      "penaltiesOrder": 3,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 8
     },
     {
       "id": 514,
@@ -10835,7 +12381,10 @@
       "status": "a",
       "news": "",
       "minutes": 1334,
-      "ictIndex": 107.6
+      "ictIndex": 107.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 9
     },
     {
       "id": 515,
@@ -10856,7 +12405,10 @@
       "status": "a",
       "news": "",
       "minutes": 34,
-      "ictIndex": 2.8
+      "ictIndex": 2.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 516,
@@ -10877,7 +12429,10 @@
       "status": "a",
       "news": "",
       "minutes": 1880,
-      "ictIndex": 67.4
+      "ictIndex": 67.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 517,
@@ -10898,7 +12453,10 @@
       "status": "i",
       "news": "Knee injury - Expected back 21 Nov",
       "minutes": 972,
-      "ictIndex": 67.6
+      "ictIndex": 67.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 518,
@@ -10919,7 +12477,10 @@
       "status": "a",
       "news": "",
       "minutes": 1388,
-      "ictIndex": 68.2
+      "ictIndex": 68.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 519,
@@ -10940,7 +12501,10 @@
       "status": "a",
       "news": "",
       "minutes": 1183,
-      "ictIndex": 55.1
+      "ictIndex": 55.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 520,
@@ -10961,7 +12525,10 @@
       "status": "a",
       "news": "",
       "minutes": 955,
-      "ictIndex": 41.5
+      "ictIndex": 41.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 521,
@@ -10982,7 +12549,10 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 522,
@@ -11003,7 +12573,10 @@
       "status": "a",
       "news": "",
       "minutes": 1471,
-      "ictIndex": 55.5
+      "ictIndex": 55.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 523,
@@ -11024,7 +12597,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 524,
@@ -11045,7 +12621,10 @@
       "status": "a",
       "news": "",
       "minutes": 14,
-      "ictIndex": 0.2
+      "ictIndex": 0.2,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 525,
@@ -11066,7 +12645,10 @@
       "status": "a",
       "news": "",
       "minutes": 3017,
-      "ictIndex": 146.3
+      "ictIndex": 146.3,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 526,
@@ -11087,7 +12669,10 @@
       "status": "a",
       "news": "",
       "minutes": 997,
-      "ictIndex": 62.7
+      "ictIndex": 62.7,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 527,
@@ -11108,7 +12693,10 @@
       "status": "a",
       "news": "",
       "minutes": 1954,
-      "ictIndex": 165.2
+      "ictIndex": 165.2,
+      "penaltiesOrder": 4,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 528,
@@ -11129,7 +12717,10 @@
       "status": "a",
       "news": "",
       "minutes": 7,
-      "ictIndex": 0.7
+      "ictIndex": 0.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 529,
@@ -11150,7 +12741,10 @@
       "status": "a",
       "news": "",
       "minutes": 3150,
-      "ictIndex": 93.1
+      "ictIndex": 93.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 530,
@@ -11171,7 +12765,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 531,
@@ -11192,7 +12789,10 @@
       "status": "a",
       "news": "",
       "minutes": 270,
-      "ictIndex": 7.4
+      "ictIndex": 7.4,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 532,
@@ -11213,7 +12813,10 @@
       "status": "a",
       "news": "",
       "minutes": 2144,
-      "ictIndex": 121.5
+      "ictIndex": 121.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 533,
@@ -11228,13 +12831,16 @@
       "form": 0,
       "totalPoints": 151,
       "pointsPerGame": 4.7,
-      "selectedByPercent": 10,
+      "selectedByPercent": 9.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2784,
-      "ictIndex": 132.9
+      "ictIndex": 132.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 534,
@@ -11255,7 +12861,10 @@
       "status": "a",
       "news": "",
       "minutes": 3032,
-      "ictIndex": 120.9
+      "ictIndex": 120.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": 5
     },
     {
       "id": 535,
@@ -11270,13 +12879,16 @@
       "form": 0,
       "totalPoints": 125,
       "pointsPerGame": 3.8,
-      "selectedByPercent": 1.7,
+      "selectedByPercent": 1.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 2797,
-      "ictIndex": 117
+      "ictIndex": 117,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 536,
@@ -11297,7 +12909,10 @@
       "status": "a",
       "news": "",
       "minutes": 1966,
-      "ictIndex": 54.7
+      "ictIndex": 54.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 537,
@@ -11318,7 +12933,10 @@
       "status": "a",
       "news": "",
       "minutes": 133,
-      "ictIndex": 3.6
+      "ictIndex": 3.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 538,
@@ -11333,13 +12951,16 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0.4,
+      "selectedByPercent": 0.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 539,
@@ -11360,7 +12981,10 @@
       "status": "a",
       "news": "",
       "minutes": 565,
-      "ictIndex": 17.1
+      "ictIndex": 17.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 540,
@@ -11381,7 +13005,10 @@
       "status": "a",
       "news": "",
       "minutes": 125,
-      "ictIndex": 4.9
+      "ictIndex": 4.9,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 541,
@@ -11402,7 +13029,10 @@
       "status": "a",
       "news": "",
       "minutes": 0,
-      "ictIndex": 0
+      "ictIndex": 0,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 542,
@@ -11423,7 +13053,10 @@
       "status": "a",
       "news": "",
       "minutes": 2930,
-      "ictIndex": 186.9
+      "ictIndex": 186.9,
+      "penaltiesOrder": 2,
+      "directFreekicksOrder": 2,
+      "cornersOrder": 6
     },
     {
       "id": 543,
@@ -11444,7 +13077,10 @@
       "status": "a",
       "news": "",
       "minutes": 1403,
-      "ictIndex": 53.9
+      "ictIndex": 53.9,
+      "penaltiesOrder": 1,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 544,
@@ -11465,7 +13101,10 @@
       "status": "a",
       "news": "",
       "minutes": 2901,
-      "ictIndex": 138.1
+      "ictIndex": 138.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": 1,
+      "cornersOrder": 4
     },
     {
       "id": 545,
@@ -11486,7 +13125,10 @@
       "status": "a",
       "news": "",
       "minutes": 2891,
-      "ictIndex": 84.6
+      "ictIndex": 84.6,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 546,
@@ -11507,7 +13149,10 @@
       "status": "a",
       "news": "",
       "minutes": 649,
-      "ictIndex": 27
+      "ictIndex": 27,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 547,
@@ -11528,7 +13173,10 @@
       "status": "a",
       "news": "",
       "minutes": 399,
-      "ictIndex": 12.7
+      "ictIndex": 12.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 548,
@@ -11549,7 +13197,10 @@
       "status": "a",
       "news": "",
       "minutes": 758,
-      "ictIndex": 36
+      "ictIndex": 36,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 549,
@@ -11570,7 +13221,10 @@
       "status": "a",
       "news": "",
       "minutes": 1553,
-      "ictIndex": 69.1
+      "ictIndex": 69.1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 550,
@@ -11591,7 +13245,10 @@
       "status": "a",
       "news": "",
       "minutes": 38,
-      "ictIndex": 1
+      "ictIndex": 1,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 551,
@@ -11612,7 +13269,10 @@
       "status": "a",
       "news": "",
       "minutes": 401,
-      "ictIndex": 17.8
+      "ictIndex": 17.8,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 552,
@@ -11627,13 +13287,16 @@
       "form": 0,
       "totalPoints": 92,
       "pointsPerGame": 3,
-      "selectedByPercent": 17.7,
+      "selectedByPercent": 17.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
       "news": "",
       "minutes": 1920,
-      "ictIndex": 106.7
+      "ictIndex": 106.7,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     },
     {
       "id": 553,
@@ -11654,7 +13317,10 @@
       "status": "a",
       "news": "",
       "minutes": 1148,
-      "ictIndex": 71.5
+      "ictIndex": 71.5,
+      "penaltiesOrder": null,
+      "directFreekicksOrder": null,
+      "cornersOrder": null
     }
   ],
   "teams": [
