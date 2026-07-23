@@ -21,6 +21,9 @@ interface RawElement {
   news: string;
   minutes: number;
   ict_index: string;
+  penalties_order: number | null;
+  direct_freekicks_order: number | null;
+  corners_and_indirect_freekicks_order: number | null;
 }
 
 interface RawTeam {
@@ -45,6 +48,7 @@ interface RawBootstrap {
   elements: RawElement[];
   teams: RawTeam[];
   events: RawEvent[];
+  total_players: number;
 }
 
 export async function fetchBootstrap(): Promise<BootstrapData> {
@@ -70,6 +74,9 @@ export async function fetchBootstrap(): Promise<BootstrapData> {
     news: e.news,
     minutes: e.minutes,
     ictIndex: Number(e.ict_index) || 0,
+    penaltiesOrder: e.penalties_order,
+    directFreekicksOrder: e.direct_freekicks_order,
+    cornersOrder: e.corners_and_indirect_freekicks_order,
   }));
 
   const teams: Team[] = raw.teams.map((t) => ({
@@ -92,6 +99,7 @@ export async function fetchBootstrap(): Promise<BootstrapData> {
 
   return {
     generatedAt: new Date().toISOString(),
+    totalPlayers: raw.total_players,
     players,
     teams,
     events,

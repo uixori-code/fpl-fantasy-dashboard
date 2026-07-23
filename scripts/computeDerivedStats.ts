@@ -6,6 +6,8 @@ import type {
   FixtureRun,
   CaptaincySuggestion,
   DerivedStats,
+  SetPieceTeam,
+  GameweekAnomaly,
 } from '../src/lib/types.ts';
 
 const TOP_N = 15;
@@ -52,6 +54,10 @@ export function computeDerivedStats(bootstrap: BootstrapData, fixturesData: Fixt
 
   const fixtureRuns = computeFixtureRuns(bootstrap, fixturesData);
   const captaincySuggestions = computeCaptaincySuggestions(players, fixtureRuns);
+  const { predictedRisers, predictedFallers } = computePredictedPriceChanges(players);
+  const templateTeam = computeTemplateTeam(players);
+  const setPieceTakers = computeSetPieceTakers(bootstrap);
+  const gameweekAnomalies = computeGameweekAnomalies(fixturesData);
 
   return {
     generatedAt: new Date().toISOString(),
@@ -61,13 +67,120 @@ export function computeDerivedStats(bootstrap: BootstrapData, fixturesData: Fixt
     mostTransferredOut,
     priceRisers,
     priceFallers,
+    predictedRisers,
+    predictedFallers,
     ownershipLeaders,
     formLeaders,
     valuePicks,
     differentials,
+    templateTeam,
     fixtureRuns,
     captaincySuggestions,
+    setPieceTakers,
+    gameweekAnomalies,
   };
+}
+
+/**
+ * Heuristic only — FPL doesn't publish its price-change algorithm. Ranks players by net
+ * transfers this event as a proxy for who's closest to tonight's price change.
+ */
+function computePredictedPriceChanges(players: Player[]): {
+  predictedRisers: RankedPlayer[];
+  predictedFallers: RankedPlayer[];
+} {
+  const withNet = players.map((p) => ({ playerId: p.id, net: p.transfersInEvent - p.transfersOutEvent }));
+
+  const predictedRisers = [...withNet]
+    .filter((p) => p.net > 0)
+    .sort((a, b) => b.net - a.net)
+    .slice(0, 10)
+    .map((p) => ({ playerId: p.playerId, value: p.net }));
+
+  const predictedFallers = [...withNet]
+    .filter((p) => p.net < 0)
+    .sort((a, b) => a.net - b.net)
+    .slice(0, 10)
+    .map((p) => ({ playerId: p.playerId, value: p.net }));
+
+  return { predictedRisers, predictedFallers };
+}
+
+/** Most-owned valid XI: fills position minimums by ownership, then tops up by ownership within caps. */
+function computeTemplateTeam(players: Player[]): RankedPlayer[] {
+  const byOwnership = [...players].sort((a, b) => b.selectedByPercent - a.selectedByPercent);
+  const caps: Record<number, number> = { 1: 1, 2: 5, 3: 5, 4: 3 };
+  const mins: Record<number, number> = { 1: 1, 2: 3, 3: 2, 4: 1 };
+  const picked: Player[] = [];
+  const countByType: Record<number, number> = { 1: 0, 2: 0, 3: 0, 4: 0 };
+
+  for (const type of [1, 2, 3, 4] as const) {
+    for (const p of byOwnership) {
+      if (picked.includes(p)) continue;
+      if (p.elementType !== type) continue;
+      if (countByType[type] >= mins[type]) break;
+      picked.push(p);
+      countByType[type]++;
+    }
+  }
+
+  for (const p of byOwnership) {
+    if (picked.length >= 11) break;
+    if (picked.includes(p)) continue;
+    if (countByType[p.elementType] >= caps[p.elementType]) continue;
+    picked.push(p);
+    countByType[p.elementType]++;
+  }
+
+  return picked.map((p) => ({ playerId: p.id, value: p.selectedByPercent }));
+}
+
+function computeSetPieceTakers(bootstrap: BootstrapData): SetPieceTeam[] {
+  return bootstrap.teams.map((team) => {
+    const teamPlayers = bootstrap.players.filter((p) => p.teamId === team.id);
+    const byOrder = (selector: (p: Player) => number | null) =>
+      teamPlayers
+        .filter((p) => selector(p) != null)
+        .sort((a, b) => (selector(a) as number) - (selector(b) as number))
+        .slice(0, 3)
+        .map((p) => ({ playerId: p.id, order: selector(p) as number }));
+
+    return {
+      teamId: team.id,
+      penalties: byOrder((p) => p.penaltiesOrder),
+      directFreeKicks: byOrder((p) => p.directFreekicksOrder),
+      corners: byOrder((p) => p.cornersOrder),
+    };
+  });
+}
+
+function computeGameweekAnomalies(fixturesData: FixturesData): GameweekAnomaly[] {
+  const countByEventTeam = new Map<number, Map<number, number>>();
+
+  for (const f of fixturesData.fixtures) {
+    if (f.event == null) continue;
+    if (!countByEventTeam.has(f.event)) countByEventTeam.set(f.event, new Map());
+    const teamCounts = countByEventTeam.get(f.event)!;
+    teamCounts.set(f.teamH, (teamCounts.get(f.teamH) ?? 0) + 1);
+    teamCounts.set(f.teamA, (teamCounts.get(f.teamA) ?? 0) + 1);
+  }
+
+  const allTeamIds = new Set<number>();
+  for (const f of fixturesData.fixtures) {
+    allTeamIds.add(f.teamH);
+    allTeamIds.add(f.teamA);
+  }
+
+  const anomalies: GameweekAnomaly[] = [];
+  for (const [eventId, teamCounts] of [...countByEventTeam.entries()].sort((a, b) => a[0] - b[0])) {
+    const doubleTeams = [...teamCounts.entries()].filter(([, count]) => count >= 2).map(([teamId]) => teamId);
+    const blankTeams = [...allTeamIds].filter((teamId) => (teamCounts.get(teamId) ?? 0) === 0);
+    if (doubleTeams.length > 0 || blankTeams.length > 0) {
+      anomalies.push({ eventId, doubleTeams, blankTeams });
+    }
+  }
+
+  return anomalies;
 }
 
 function median(values: number[]): number {

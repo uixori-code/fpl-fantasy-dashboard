@@ -7,6 +7,9 @@ const links = [
   { to: '/statistics', label: 'Statistics' },
   { to: '/fixtures', label: 'Fixtures' },
   { to: '/top-managers', label: 'Top Managers' },
+  { to: '/transfers', label: 'Transfers' },
+  { to: '/watchlist', label: 'Watchlist' },
+  { to: '/mini-league', label: 'Mini-League' },
   { to: '/settings', label: 'Settings' },
 ];
 

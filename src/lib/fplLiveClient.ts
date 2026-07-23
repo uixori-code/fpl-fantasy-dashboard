@@ -67,3 +67,21 @@ export const fetchManagerHistory = (managerId: string) =>
 
 export const fetchManagerPicks = (managerId: string, eventId: number) =>
   fetchWithFallback<ManagerPicksResponse>(`/entry/${managerId}/event/${eventId}/picks/`);
+
+export interface LeagueStandingEntry {
+  entry: number;
+  entry_name: string;
+  player_name: string;
+  rank: number;
+  last_rank: number;
+  total: number;
+  event_total: number;
+}
+
+export interface LeagueStandingsResponse {
+  league: { id: number; name: string };
+  standings: { results: LeagueStandingEntry[]; has_next: boolean };
+}
+
+export const fetchLeagueStandings = (leagueId: string) =>
+  fetchWithFallback<LeagueStandingsResponse>(`/leagues-classic/${leagueId}/standings/?page_standings=1`);

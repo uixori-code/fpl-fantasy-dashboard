@@ -6,7 +6,7 @@ import { loadBootstrap } from '../lib/dataLoader';
 import { useAsyncData } from '../lib/useAsyncData';
 import EmptyState from '../components/EmptyState';
 import StatCard from '../components/StatCard';
-import { formatCost, positionName, teamShortName } from '../lib/format';
+import PitchView from '../components/PitchView';
 
 export default function MyTeam() {
   const managerId = getManagerId();
@@ -69,36 +69,9 @@ export default function MyTeam() {
       )}
 
       {picks && (
-        <div className="bg-white/5 border border-white/10 rounded-lg overflow-hidden">
-          <div className="px-4 py-3 border-b border-white/10 font-semibold">Current Squad</div>
-          <table className="w-full text-sm">
-            <thead>
-              <tr className="text-left text-slate-400 border-b border-white/10">
-                <th className="px-4 py-2 font-medium">Player</th>
-                <th className="px-4 py-2 font-medium">Team</th>
-                <th className="px-4 py-2 font-medium">Pos</th>
-                <th className="px-4 py-2 font-medium">Price</th>
-                <th className="px-4 py-2 font-medium text-right">Role</th>
-              </tr>
-            </thead>
-            <tbody>
-              {picks.picks.map((pick) => {
-                const player = bootstrap.players.find((p) => p.id === pick.element);
-                if (!player) return null;
-                return (
-                  <tr key={pick.element} className={`border-b border-white/5 last:border-0 ${pick.position > 11 ? 'opacity-50' : ''}`}>
-                    <td className="px-4 py-2 font-medium">{player.webName}</td>
-                    <td className="px-4 py-2 text-slate-400">{teamShortName(bootstrap.teams, player.teamId)}</td>
-                    <td className="px-4 py-2 text-slate-400">{positionName(player.elementType)}</td>
-                    <td className="px-4 py-2 text-slate-400">{formatCost(player.nowCost)}</td>
-                    <td className="px-4 py-2 text-right text-accent font-semibold">
-                      {pick.is_captain ? 'Captain' : pick.is_vice_captain ? 'Vice-Captain' : pick.position > 11 ? 'Bench' : ''}
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+        <div>
+          <div className="font-semibold mb-3">Current Squad</div>
+          <PitchView picks={picks.picks} players={bootstrap.players} teams={bootstrap.teams} />
         </div>
       )}
     </div>

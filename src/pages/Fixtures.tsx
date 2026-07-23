@@ -42,6 +42,35 @@ export default function Fixtures() {
           )}
         </ul>
       </div>
+
+      <div className="bg-white/5 border border-white/10 rounded-lg">
+        <div className="px-4 py-3 border-b border-white/10 font-semibold">Double &amp; Blank Gameweeks</div>
+        <ul className="divide-y divide-white/5">
+          {(derived.gameweekAnomalies ?? []).map((a) => {
+            const event = bootstrap.events.find((e) => e.id === a.eventId);
+            return (
+              <li key={a.eventId} className="px-4 py-3 text-sm space-y-1">
+                <div className="font-medium">{event?.name ?? `Gameweek ${a.eventId}`}</div>
+                {a.doubleTeams.length > 0 && (
+                  <div className="text-emerald-400">
+                    Double: {a.doubleTeams.map((id) => teamShortName(bootstrap.teams, id)).join(', ')}
+                  </div>
+                )}
+                {a.blankTeams.length > 0 && (
+                  <div className="text-rose-400">
+                    Blank: {a.blankTeams.map((id) => teamShortName(bootstrap.teams, id)).join(', ')}
+                  </div>
+                )}
+              </li>
+            );
+          })}
+          {(derived.gameweekAnomalies ?? []).length === 0 && (
+            <li className="px-4 py-6 text-center text-slate-500">
+              No double or blank gameweeks detected in the current fixture list yet.
+            </li>
+          )}
+        </ul>
+      </div>
     </div>
   );
 }

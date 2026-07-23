@@ -6,10 +6,15 @@
   "mostTransferredOut": [],
   "priceRisers": [],
   "priceFallers": [],
+  "predictedRisers": [],
+  "predictedFallers": [],
   "ownershipLeaders": [],
   "formLeaders": [],
   "valuePicks": [],
   "differentials": [],
+  "templateTeam": [],
   "fixtureRuns": [],
-  "captaincySuggestions": []
+  "captaincySuggestions": [],
+  "setPieceTakers": [],
+  "gameweekAnomalies": []
 }

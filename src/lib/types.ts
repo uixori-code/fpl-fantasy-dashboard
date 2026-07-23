@@ -22,6 +22,9 @@ export interface Player {
   news: string;
   minutes: number;
   ictIndex: number;
+  penaltiesOrder: number | null;
+  directFreekicksOrder: number | null;
+  cornersOrder: number | null;
 }
 
 export interface Team {
@@ -44,6 +47,7 @@ export interface GameweekEvent {
 
 export interface BootstrapData {
   generatedAt: string;
+  totalPlayers: number;
   players: Player[];
   teams: Team[];
   events: GameweekEvent[];
@@ -84,6 +88,24 @@ export interface CaptaincySuggestion {
   reason: string;
 }
 
+export interface SetPieceOrder {
+  playerId: number;
+  order: number;
+}
+
+export interface SetPieceTeam {
+  teamId: number;
+  penalties: SetPieceOrder[];
+  directFreeKicks: SetPieceOrder[];
+  corners: SetPieceOrder[];
+}
+
+export interface GameweekAnomaly {
+  eventId: number;
+  doubleTeams: number[];
+  blankTeams: number[];
+}
+
 export interface DerivedStats {
   generatedAt: string;
   currentEventId: number | null;
@@ -92,12 +114,17 @@ export interface DerivedStats {
   mostTransferredOut: RankedPlayer[];
   priceRisers: RankedPlayer[];
   priceFallers: RankedPlayer[];
+  predictedRisers: RankedPlayer[];
+  predictedFallers: RankedPlayer[];
   ownershipLeaders: RankedPlayer[];
   formLeaders: RankedPlayer[];
   valuePicks: RankedPlayer[];
   differentials: RankedPlayer[];
+  templateTeam: RankedPlayer[];
   fixtureRuns: FixtureRun[];
   captaincySuggestions: CaptaincySuggestion[];
+  setPieceTakers: SetPieceTeam[];
+  gameweekAnomalies: GameweekAnomaly[];
 }
 
 export interface OwnedCount {
