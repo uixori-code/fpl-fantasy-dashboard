@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T10:03:28.827Z",
+  "generatedAt": "2026-07-24T12:09:56.462Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -194,51 +194,51 @@
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 70.9
-    },
-    {
-      "playerId": 165,
-      "value": 46
+      "value": 71.5
     },
     {
       "playerId": 426,
-      "value": 45.6
+      "value": 46.2
     },
     {
-      "playerId": 40,
-      "value": 37.1
+      "playerId": 165,
+      "value": 45.9
     },
     {
       "playerId": 368,
-      "value": 37
+      "value": 37.6
+    },
+    {
+      "playerId": 40,
+      "value": 36.6
     },
     {
       "playerId": 1,
-      "value": 29
+      "value": 29.1
     },
     {
       "playerId": 388,
-      "value": 26.1
+      "value": 25.9
     },
     {
       "playerId": 387,
       "value": 25.1
     },
     {
-      "playerId": 13,
-      "value": 23.7
-    },
-    {
       "playerId": 4,
-      "value": 23.4
+      "value": 23.8
     },
     {
       "playerId": 497,
-      "value": 23.3
+      "value": 23.5
+    },
+    {
+      "playerId": 13,
+      "value": 23.4
     },
     {
       "playerId": 499,
-      "value": 23.3
+      "value": 23.4
     },
     {
       "playerId": 259,
@@ -249,8 +249,8 @@
       "value": 20.1
     },
     {
-      "playerId": 106,
-      "value": 19.8
+      "playerId": 552,
+      "value": 19.7
     }
   ],
   "formLeaders": [
@@ -442,11 +442,11 @@
   "templateTeam": [
     {
       "playerId": 1,
-      "value": 29
+      "value": 29.1
     },
     {
       "playerId": 388,
-      "value": 26.1
+      "value": 25.9
     },
     {
       "playerId": 387,
@@ -454,35 +454,35 @@
     },
     {
       "playerId": 4,
-      "value": 23.4
+      "value": 23.8
     },
     {
       "playerId": 426,
-      "value": 45.6
-    },
-    {
-      "playerId": 40,
-      "value": 37.1
-    },
-    {
-      "playerId": 411,
-      "value": 70.9
-    },
-    {
-      "playerId": 165,
-      "value": 46
+      "value": 46.2
     },
     {
       "playerId": 368,
-      "value": 37
+      "value": 37.6
+    },
+    {
+      "playerId": 411,
+      "value": 71.5
+    },
+    {
+      "playerId": 165,
+      "value": 45.9
+    },
+    {
+      "playerId": 40,
+      "value": 36.6
     },
     {
       "playerId": 13,
-      "value": 23.7
+      "value": 23.4
     },
     {
       "playerId": 499,
-      "value": 23.3
+      "value": 23.4
     }
   ],
   "fixtureRuns": [
