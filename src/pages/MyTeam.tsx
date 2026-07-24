@@ -61,6 +61,8 @@ export default function MyTeam() {
   const { entry, history, bootstrap, fixtures, picks, picksError, targetEvent } = data;
   const chartData = history.current.map((h) => ({ gw: h.event, points: h.points, rank: h.overall_rank }));
   const fmt = (v: number | null) => (v == null ? '—' : v.toLocaleString());
+  const targetDeadline = bootstrap.events.find((e) => e.id === targetEvent)?.deadlineTime;
+  const targetDeadlineLabel = targetDeadline ? new Date(targetDeadline).toLocaleString() : null;
 
   return (
     <div className="space-y-6">
@@ -71,7 +73,14 @@ export default function MyTeam() {
         <StatCard label="Last GW Points" value={fmt(entry.summary_event_points)} />
       </div>
 
-      {!picks && picksError && (
+      {!picks && picksError && picksError.includes('404') && (
+        <EmptyState title="Your squad isn't published yet">
+          FPL doesn't release a gameweek's picks over its API until that gameweek's deadline passes
+          {targetDeadlineLabel ? ` (${targetDeadlineLabel})` : ''}. This isn't something the dashboard can work around — it'll
+          appear here automatically once the deadline hits, no need to keep checking for errors.
+        </EmptyState>
+      )}
+      {!picks && picksError && !picksError.includes('404') && (
         <EmptyState title={`Couldn't load your squad for Gameweek ${targetEvent ?? '?'}`}>
           <span className="block">{picksError}</span>
           <span className="block mt-1 text-xs text-slate-500">
