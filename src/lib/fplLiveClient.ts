@@ -48,15 +48,23 @@ export interface ManagerPicksResponse {
 
 async function fetchWithFallback<T>(path: string): Promise<T> {
   const direct = `${DIRECT_BASE}${path}`;
+  let directReason: string;
 
   try {
     const res = await fetch(direct, { headers: { Accept: 'application/json' } });
-    if (!res.ok) throw new Error(`status ${res.status}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}${res.status === 404 ? ' Not Found' : ''}`);
     return (await res.json()) as T;
-  } catch {
+  } catch (err) {
+    directReason = err instanceof Error ? err.message : String(err);
+  }
+
+  try {
     const res = await fetch(`${RELAY_BASE}${encodeURIComponent(direct)}`);
-    if (!res.ok) throw new Error(`Manager data request failed (direct and relay): ${path}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}${res.status === 404 ? ' Not Found' : ''}`);
     return (await res.json()) as T;
+  } catch (err) {
+    const relayReason = err instanceof Error ? err.message : String(err);
+    throw new Error(`${path} — direct: ${directReason}; relay: ${relayReason}`);
   }
 }
 
