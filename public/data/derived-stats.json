@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:58:31.084Z",
+  "generatedAt": "2026-08-02T09:52:26.303Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -210,7 +210,7 @@
     },
     {
       "playerId": 40,
-      "value": 31.6
+      "value": 31.5
     },
     {
       "playerId": 1,
@@ -250,7 +250,7 @@
     },
     {
       "playerId": 397,
-      "value": 21.4
+      "value": 21.5
     }
   ],
   "formLeaders": [
@@ -474,7 +474,7 @@
     },
     {
       "playerId": 40,
-      "value": 31.6
+      "value": 31.5
     },
     {
       "playerId": 499,
@@ -932,7 +932,7 @@
       "teamId": 5,
       "penalties": [
         {
-          "playerId": 136,
+          "playerId": 124,
           "order": 1
         },
         {
@@ -942,15 +942,15 @@
       ],
       "directFreeKicks": [
         {
-          "playerId": 136,
+          "playerId": 129,
           "order": 1
         },
         {
-          "playerId": 129,
+          "playerId": 116,
           "order": 2
         },
         {
-          "playerId": 116,
+          "playerId": 115,
           "order": 3
         }
       ],
