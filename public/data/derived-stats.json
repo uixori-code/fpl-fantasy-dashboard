@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:08:20.622Z",
+  "generatedAt": "2026-08-05T20:52:48.966Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -198,7 +198,7 @@
     },
     {
       "playerId": 165,
-      "value": 54.5
+      "value": 54.4
     },
     {
       "playerId": 426,
@@ -237,12 +237,12 @@
       "value": 23.8
     },
     {
-      "playerId": 387,
+      "playerId": 346,
       "value": 22.7
     },
     {
-      "playerId": 346,
-      "value": 22.6
+      "playerId": 387,
+      "value": 22.7
     },
     {
       "playerId": 13,
@@ -470,7 +470,7 @@
     },
     {
       "playerId": 165,
-      "value": 54.5
+      "value": 54.4
     },
     {
       "playerId": 40,
@@ -481,7 +481,7 @@
       "value": 23.8
     },
     {
-      "playerId": 387,
+      "playerId": 346,
       "value": 22.7
     }
   ],
