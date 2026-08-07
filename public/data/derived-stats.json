@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:38:16.793Z",
+  "generatedAt": "2026-08-07T17:37:47.343Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -379,10 +379,6 @@
   ],
   "differentials": [
     {
-      "playerId": 229,
-      "value": 170
-    },
-    {
       "playerId": 260,
       "value": 168
     },
@@ -436,6 +432,10 @@
     },
     {
       "playerId": 68,
+      "value": 137
+    },
+    {
+      "playerId": 335,
       "value": 137
     }
   ],
