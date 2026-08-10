@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:37:35.913Z",
+  "generatedAt": "2026-08-10T14:09:38.439Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -194,7 +194,7 @@
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 74.1
+      "value": 74
     },
     {
       "playerId": 165,
@@ -222,7 +222,7 @@
     },
     {
       "playerId": 397,
-      "value": 25
+      "value": 25.1
     },
     {
       "playerId": 346,
@@ -242,7 +242,7 @@
     },
     {
       "playerId": 497,
-      "value": 23.1
+      "value": 23
     },
     {
       "playerId": 387,
@@ -466,7 +466,7 @@
     },
     {
       "playerId": 411,
-      "value": 74.1
+      "value": 74
     },
     {
       "playerId": 165,
@@ -478,7 +478,7 @@
     },
     {
       "playerId": 397,
-      "value": 25
+      "value": 25.1
     },
     {
       "playerId": 346,
@@ -786,8 +786,8 @@
           "order": 2
         },
         {
-          "playerId": 14,
-          "order": 3
+          "playerId": 452,
+          "order": 2
         }
       ],
       "corners": [
@@ -1157,10 +1157,6 @@
         {
           "playerId": 261,
           "order": 1
-        },
-        {
-          "playerId": 267,
-          "order": 2
         }
       ],
       "corners": [
@@ -1173,8 +1169,8 @@
           "order": 5
         },
         {
-          "playerId": 267,
-          "order": 6
+          "playerId": 263,
+          "order": 7
         }
       ]
     },
@@ -1237,12 +1233,12 @@
           "order": 1
         },
         {
-          "playerId": 305,
+          "playerId": 267,
           "order": 2
         },
         {
-          "playerId": 313,
-          "order": 3
+          "playerId": 305,
+          "order": 2
         }
       ],
       "corners": [
@@ -1251,12 +1247,12 @@
           "order": 5
         },
         {
-          "playerId": 305,
+          "playerId": 267,
           "order": 6
         },
         {
-          "playerId": 309,
-          "order": 7
+          "playerId": 305,
+          "order": 6
         }
       ]
     },
@@ -1448,18 +1444,14 @@
           "order": 2
         },
         {
-          "playerId": 452,
-          "order": 3
+          "playerId": 464,
+          "order": 4
         }
       ],
       "directFreeKicks": [
         {
           "playerId": 449,
           "order": 1
-        },
-        {
-          "playerId": 452,
-          "order": 2
         },
         {
           "playerId": 446,
@@ -1476,8 +1468,8 @@
           "order": 6
         },
         {
-          "playerId": 452,
-          "order": 7
+          "playerId": 459,
+          "order": 8
         }
       ]
     },
