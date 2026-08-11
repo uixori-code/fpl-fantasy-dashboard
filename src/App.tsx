@@ -8,6 +8,7 @@ import TopManagers from './pages/TopManagers';
 import Transfers from './pages/Transfers';
 import Watchlist from './pages/Watchlist';
 import MiniLeague from './pages/MiniLeague';
+import DraftBoard from './pages/DraftBoard';
 import Settings from './pages/Settings';
 
 export default function App() {
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/transfers" element={<Transfers />} />
           <Route path="/watchlist" element={<Watchlist />} />
           <Route path="/mini-league" element={<MiniLeague />} />
+          <Route path="/draft-board" element={<DraftBoard />} />
           <Route path="/settings" element={<Settings />} />
         </Routes>
       </Layout>

@@ -10,6 +10,7 @@ const links = [
   { to: '/transfers', label: 'Transfers' },
   { to: '/watchlist', label: 'Watchlist' },
   { to: '/mini-league', label: 'Mini-League' },
+  { to: '/draft-board', label: 'Draft Board' },
   { to: '/settings', label: 'Settings' },
 ];
 

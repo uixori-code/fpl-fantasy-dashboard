@@ -8,6 +8,7 @@ import type {
   DerivedStats,
   SetPieceTeam,
   GameweekAnomaly,
+  DraftTier,
 } from '../src/lib/types.ts';
 
 const TOP_N = 15;
@@ -58,6 +59,8 @@ export function computeDerivedStats(bootstrap: BootstrapData, fixturesData: Fixt
   const templateTeam = computeTemplateTeam(players);
   const setPieceTakers = computeSetPieceTakers(bootstrap);
   const gameweekAnomalies = computeGameweekAnomalies(fixturesData);
+  const draftRanks = computeDraftRanks(players, fixtureRuns);
+  const draftTiers = computeDraftTiers(players, draftRanks);
 
   return {
     generatedAt: new Date().toISOString(),
@@ -78,6 +81,8 @@ export function computeDerivedStats(bootstrap: BootstrapData, fixturesData: Fixt
     captaincySuggestions,
     setPieceTakers,
     gameweekAnomalies,
+    draftRanks,
+    draftTiers,
   };
 }
 
@@ -230,4 +235,91 @@ function computeCaptaincySuggestions(players: Player[], fixtureRuns: FixtureRun[
   });
 
   return scored.sort((a, b) => b.score - a.score).slice(0, 10);
+}
+
+/** How much a player's availability status discounts their draft value. */
+function statusMultiplier(status: Player['status']): number {
+  switch (status) {
+    case 'a':
+      return 1;
+    case 'd': // doubtful
+      return 0.75;
+    case 'i': // injured
+    case 's': // suspended
+      return 0.35;
+    default: // unavailable / not in squad
+      return 0.1;
+  }
+}
+
+/**
+ * Draft value is deliberately price-agnostic: FPL Draft has no budget, so points-per-million
+ * (the classic `valuePicks` metric) is meaningless here. Instead a player is worth their season
+ * points, nudged by per-game quality so someone excellent-but-injured isn't buried beneath a
+ * full-season journeyman, then discounted for thin minutes, hard upcoming fixtures, and injury.
+ *
+ * Limitation: this only knows what the FPL API publishes, so incoming transfers with no Premier
+ * League history score ~0 and will rank near the bottom regardless of real-world quality.
+ */
+function computeDraftRanks(players: Player[], fixtureRuns: FixtureRun[]): RankedPlayer[] {
+  const difficultyByTeam = new Map(fixtureRuns.map((r) => [r.teamId, r.avgDifficultyNext5]));
+
+  return players
+    .map((p) => {
+      const avgDifficulty = difficultyByTeam.get(p.teamId) ?? 3;
+      // FDR 2 -> 1.33x, FDR 3 -> 1.0x, FDR 4 -> 0.67x
+      const fixtureMultiplier = (6 - avgDifficulty) / 3;
+      // Full credit at ~1500 minutes; never drops below 0.7 so low-minute talent stays visible.
+      const availability = 0.7 + 0.3 * Math.min(p.minutes / 1500, 1);
+      const base = p.totalPoints + p.pointsPerGame * 10;
+      const score = base * availability * fixtureMultiplier * statusMultiplier(p.status);
+
+      return { playerId: p.id, value: Math.round(score * 10) / 10 };
+    })
+    .sort((a, b) => b.value - a.value);
+}
+
+const DRAFT_TIER_POOL = 40; // players per position worth tiering; the rest is undrafted noise
+const MAX_TIER_SIZE = 8;
+
+/**
+ * Groups each position's top players into tiers by cutting where consecutive draft scores drop
+ * unusually far. Tiers are the point of a big board: they say "these are interchangeable, and
+ * there's a cliff after them", which is what actually drives a draft-day decision.
+ */
+function computeDraftTiers(players: Player[], draftRanks: RankedPlayer[]): DraftTier[] {
+  const scoreById = new Map(draftRanks.map((r) => [r.playerId, r.value]));
+  const tiers: DraftTier[] = [];
+
+  for (const elementType of [1, 2, 3, 4] as const) {
+    const pool = players
+      .filter((p) => p.elementType === elementType)
+      .map((p) => ({ playerId: p.id, value: scoreById.get(p.id) ?? 0 }))
+      .sort((a, b) => b.value - a.value)
+      .slice(0, DRAFT_TIER_POOL);
+
+    if (pool.length === 0) continue;
+
+    const gaps = pool.slice(1).map((entry, i) => pool[i].value - entry.value);
+    const meanGap = gaps.length ? gaps.reduce((sum, g) => sum + g, 0) / gaps.length : 0;
+    const gapThreshold = meanGap * 1.5;
+
+    let tierNumber = 1;
+    let current: number[] = [];
+
+    for (let i = 0; i < pool.length; i++) {
+      const isBigDrop = i > 0 && pool[i - 1].value - pool[i].value > gapThreshold;
+      if (current.length > 0 && (isBigDrop || current.length >= MAX_TIER_SIZE)) {
+        tiers.push({ elementType, tier: tierNumber++, playerIds: current });
+        current = [];
+      }
+      current.push(pool[i].playerId);
+    }
+
+    if (current.length > 0) {
+      tiers.push({ elementType, tier: tierNumber, playerIds: current });
+    }
+  }
+
+  return tiers;
 }

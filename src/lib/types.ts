@@ -106,6 +106,13 @@ export interface GameweekAnomaly {
   blankTeams: number[];
 }
 
+/** A tier of interchangeable players within one position, ordered best-first. */
+export interface DraftTier {
+  elementType: 1 | 2 | 3 | 4;
+  tier: number;
+  playerIds: number[];
+}
+
 export interface DerivedStats {
   generatedAt: string;
   currentEventId: number | null;
@@ -125,6 +132,9 @@ export interface DerivedStats {
   captaincySuggestions: CaptaincySuggestion[];
   setPieceTakers: SetPieceTeam[];
   gameweekAnomalies: GameweekAnomaly[];
+  /** Whole-pool draft ranking (price-agnostic), best first. */
+  draftRanks: RankedPlayer[];
+  draftTiers: DraftTier[];
 }
 
 export interface OwnedCount {

@@ -4,6 +4,8 @@
 // bulk top-50 scrape which runs server-side in GitHub Actions instead.
 
 const DIRECT_BASE = 'https://fantasy.premierleague.com/api';
+// FPL Draft is a separate game on its own host, with its own player-ownership model.
+const DRAFT_BASE = 'https://draft.premierleague.com/api';
 // Fallback if the browser blocks the direct cross-origin request (CORS).
 const RELAY_BASE = 'https://corsproxy.io/?url=';
 
@@ -46,8 +48,8 @@ export interface ManagerPicksResponse {
   picks: ManagerPick[];
 }
 
-async function fetchWithFallback<T>(path: string): Promise<T> {
-  const direct = `${DIRECT_BASE}${path}`;
+async function fetchWithFallback<T>(path: string, base: string = DIRECT_BASE): Promise<T> {
+  const direct = `${base}${path}`;
   let directReason: string;
 
   try {
@@ -93,3 +95,23 @@ export interface LeagueStandingsResponse {
 
 export const fetchLeagueStandings = (leagueId: string) =>
   fetchWithFallback<LeagueStandingsResponse>(`/leagues-classic/${leagueId}/standings/?page_standings=1`);
+
+/**
+ * Per-player ownership within an FPL Draft league: who's owned, who's a free agent.
+ * `owner` is the league entry id that holds the player, or null if unowned.
+ *
+ * This endpoint is undocumented and unverified from this environment, so every caller must
+ * treat failure as normal and fall back to manual board marking rather than surfacing an error.
+ */
+export interface DraftElementStatus {
+  element: number;
+  owner: number | null;
+  status: string;
+}
+
+export interface DraftElementStatusResponse {
+  element_status: DraftElementStatus[];
+}
+
+export const fetchDraftElementStatus = (draftLeagueId: string) =>
+  fetchWithFallback<DraftElementStatusResponse>(`/league/${draftLeagueId}/element-status`, DRAFT_BASE);
