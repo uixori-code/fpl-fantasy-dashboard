@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:01:45.089Z",
+  "generatedAt": "2026-08-12T08:57:00.423Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -222,7 +222,7 @@
     },
     {
       "playerId": 397,
-      "value": 26.1
+      "value": 26.2
     },
     {
       "playerId": 346,
@@ -234,7 +234,7 @@
     },
     {
       "playerId": 427,
-      "value": 23.6
+      "value": 23.7
     },
     {
       "playerId": 499,
@@ -478,7 +478,7 @@
     },
     {
       "playerId": 397,
-      "value": 26.1
+      "value": 26.2
     },
     {
       "playerId": 346,
@@ -792,16 +792,16 @@
       ],
       "corners": [
         {
-          "playerId": 557,
-          "order": 4
-        },
-        {
           "playerId": 13,
-          "order": 6
+          "order": 1
         },
         {
           "playerId": 12,
-          "order": 7
+          "order": 2
+        },
+        {
+          "playerId": 15,
+          "order": 3
         }
       ]
     },
@@ -826,11 +826,11 @@
       "corners": [
         {
           "playerId": 32,
-          "order": 3
+          "order": 1
         },
         {
           "playerId": 45,
-          "order": 4
+          "order": 2
         }
       ]
     },
@@ -867,15 +867,15 @@
       "corners": [
         {
           "playerId": 68,
-          "order": 7
+          "order": 1
         },
         {
           "playerId": 69,
-          "order": 8
+          "order": 2
         },
         {
           "playerId": 70,
-          "order": 9
+          "order": 3
         }
       ]
     },
@@ -912,15 +912,15 @@
       "corners": [
         {
           "playerId": 97,
-          "order": 5
+          "order": 1
         },
         {
           "playerId": 96,
-          "order": 6
+          "order": 2
         },
         {
           "playerId": 98,
-          "order": 7
+          "order": 3
         }
       ]
     },
@@ -952,16 +952,16 @@
       ],
       "corners": [
         {
-          "playerId": 115,
-          "order": 4
+          "playerId": 124,
+          "order": 1
         },
         {
-          "playerId": 124,
-          "order": 6
+          "playerId": 113,
+          "order": 2
         },
         {
           "playerId": 122,
-          "order": 7
+          "order": 3
         }
       ]
     },
@@ -998,15 +998,15 @@
       "corners": [
         {
           "playerId": 142,
-          "order": 5
-        },
-        {
-          "playerId": 156,
-          "order": 6
+          "order": 1
         },
         {
           "playerId": 155,
-          "order": 7
+          "order": 2
+        },
+        {
+          "playerId": 156,
+          "order": 3
         }
       ]
     },
@@ -1039,15 +1039,15 @@
       "corners": [
         {
           "playerId": 184,
-          "order": 4
-        },
-        {
-          "playerId": 183,
-          "order": 5
+          "order": 1
         },
         {
           "playerId": 188,
-          "order": 6
+          "order": 2
+        },
+        {
+          "playerId": 183,
+          "order": 3
         }
       ]
     },
@@ -1080,15 +1080,15 @@
       "corners": [
         {
           "playerId": 210,
-          "order": 5
+          "order": 1
         },
         {
           "playerId": 211,
-          "order": 6
+          "order": 2
         },
         {
           "playerId": 212,
-          "order": 7
+          "order": 3
         }
       ]
     },
@@ -1117,11 +1117,11 @@
       "corners": [
         {
           "playerId": 239,
-          "order": 3
+          "order": 1
         },
         {
           "playerId": 236,
-          "order": 4
+          "order": 2
         }
       ]
     },
@@ -1145,16 +1145,16 @@
       ],
       "corners": [
         {
+          "playerId": 261,
+          "order": 2
+        },
+        {
           "playerId": 264,
           "order": 3
         },
         {
-          "playerId": 261,
-          "order": 5
-        },
-        {
           "playerId": 263,
-          "order": 7
+          "order": 4
         }
       ]
     },
@@ -1183,15 +1183,15 @@
       "corners": [
         {
           "playerId": 282,
-          "order": 4
-        },
-        {
-          "playerId": 286,
-          "order": 5
+          "order": 1
         },
         {
           "playerId": 290,
-          "order": 6
+          "order": 2
+        },
+        {
+          "playerId": 286,
+          "order": 3
         }
       ]
     },
@@ -1227,16 +1227,16 @@
       ],
       "corners": [
         {
-          "playerId": 318,
-          "order": 5
+          "playerId": 309,
+          "order": 1
         },
         {
           "playerId": 305,
-          "order": 6
+          "order": 2
         },
         {
-          "playerId": 309,
-          "order": 7
+          "playerId": 313,
+          "order": 3
         }
       ]
     },
@@ -1272,16 +1272,16 @@
       ],
       "corners": [
         {
+          "playerId": 335,
+          "order": 1
+        },
+        {
           "playerId": 260,
           "order": 2
         },
         {
-          "playerId": 335,
-          "order": 5
-        },
-        {
           "playerId": 339,
-          "order": 6
+          "order": 3
         }
       ]
     },
@@ -1314,15 +1314,15 @@
       "corners": [
         {
           "playerId": 368,
-          "order": 4
+          "order": 1
         },
         {
           "playerId": 367,
-          "order": 5
+          "order": 2
         },
         {
           "playerId": 366,
-          "order": 6
+          "order": 3
         }
       ]
     },
@@ -1358,16 +1358,16 @@
       ],
       "corners": [
         {
-          "playerId": 481,
-          "order": 3
+          "playerId": 399,
+          "order": 1
         },
         {
           "playerId": 398,
-          "order": 5
+          "order": 2
         },
         {
-          "playerId": 399,
-          "order": 6
+          "playerId": 481,
+          "order": 3
         }
       ]
     },
@@ -1403,16 +1403,16 @@
       ],
       "corners": [
         {
-          "playerId": 423,
-          "order": 3
-        },
-        {
           "playerId": 426,
-          "order": 5
+          "order": 1
         },
         {
           "playerId": 427,
-          "order": 6
+          "order": 2
+        },
+        {
+          "playerId": 423,
+          "order": 3
         }
       ]
     },
@@ -1444,16 +1444,16 @@
       ],
       "corners": [
         {
+          "playerId": 449,
+          "order": 2
+        },
+        {
           "playerId": 457,
           "order": 3
         },
         {
-          "playerId": 449,
-          "order": 6
-        },
-        {
           "playerId": 459,
-          "order": 8
+          "order": 4
         }
       ]
     },
@@ -1489,16 +1489,16 @@
       ],
       "corners": [
         {
-          "playerId": 483,
-          "order": 3
+          "playerId": 469,
+          "order": 1
         },
         {
           "playerId": 484,
-          "order": 5
+          "order": 2
         },
         {
-          "playerId": 469,
-          "order": 6
+          "playerId": 483,
+          "order": 3
         }
       ]
     },
@@ -1535,15 +1535,15 @@
       "corners": [
         {
           "playerId": 499,
-          "order": 6
+          "order": 1
         },
         {
           "playerId": 512,
-          "order": 7
+          "order": 2
         },
         {
-          "playerId": 513,
-          "order": 8
+          "playerId": 514,
+          "order": 3
         }
       ]
     },
@@ -1571,16 +1571,16 @@
       ],
       "corners": [
         {
+          "playerId": 542,
+          "order": 1
+        },
+        {
           "playerId": 544,
-          "order": 4
+          "order": 2
         },
         {
           "playerId": 534,
-          "order": 5
-        },
-        {
-          "playerId": 542,
-          "order": 6
+          "order": 3
         }
       ]
     }
