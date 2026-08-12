@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T20:28:40.439Z",
-  "totalPlayers": 4081734,
+  "generatedAt": "2026-08-12T21:32:06.164Z",
+  "totalPlayers": 4092557,
   "players": [
     {
       "id": 1,
@@ -279,7 +279,7 @@
       "form": 0,
       "totalPoints": 157,
       "pointsPerGame": 5.1,
-      "selectedByPercent": 10.7,
+      "selectedByPercent": 10.6,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -375,7 +375,7 @@
       "form": 0,
       "totalPoints": 72,
       "pointsPerGame": 2.8,
-      "selectedByPercent": 0.4,
+      "selectedByPercent": 0.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -759,7 +759,7 @@
       "form": 0,
       "totalPoints": 100,
       "pointsPerGame": 2.9,
-      "selectedByPercent": 16.2,
+      "selectedByPercent": 16.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -879,7 +879,7 @@
       "form": 0,
       "totalPoints": 54,
       "pointsPerGame": 1.8,
-      "selectedByPercent": 0.6,
+      "selectedByPercent": 0.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -975,7 +975,7 @@
       "form": 0,
       "totalPoints": 102,
       "pointsPerGame": 2.8,
-      "selectedByPercent": 1,
+      "selectedByPercent": 1.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -1047,7 +1047,7 @@
       "form": 0,
       "totalPoints": 103,
       "pointsPerGame": 3.4,
-      "selectedByPercent": 2.7,
+      "selectedByPercent": 2.8,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -3495,7 +3495,7 @@
       "form": 0,
       "totalPoints": 136,
       "pointsPerGame": 4,
-      "selectedByPercent": 1.5,
+      "selectedByPercent": 1.4,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "u",
@@ -7287,7 +7287,7 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0.4,
+      "selectedByPercent": 0.3,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "i",
@@ -8535,7 +8535,7 @@
       "form": 0,
       "totalPoints": 109,
       "pointsPerGame": 3.9,
-      "selectedByPercent": 0.6,
+      "selectedByPercent": 0.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -10095,7 +10095,7 @@
       "form": 0,
       "totalPoints": 135,
       "pointsPerGame": 4.1,
-      "selectedByPercent": 9,
+      "selectedByPercent": 8.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -11879,7 +11879,7 @@
       "minutes": 3203,
       "ictIndex": 175.6,
       "penaltiesOrder": null,
-      "directFreekicksOrder": 3,
+      "directFreekicksOrder": 2,
       "cornersOrder": 1
     },
     {
@@ -11951,7 +11951,7 @@
       "minutes": 2130,
       "ictIndex": 74,
       "penaltiesOrder": null,
-      "directFreekicksOrder": 2,
+      "directFreekicksOrder": 3,
       "cornersOrder": null
     },
     {
@@ -12192,7 +12192,7 @@
       "ictIndex": 56.6,
       "penaltiesOrder": null,
       "directFreekicksOrder": null,
-      "cornersOrder": 3
+      "cornersOrder": null
     },
     {
       "id": 484,
@@ -12240,7 +12240,7 @@
       "ictIndex": 35.6,
       "penaltiesOrder": null,
       "directFreekicksOrder": null,
-      "cornersOrder": 5
+      "cornersOrder": null
     },
     {
       "id": 486,
@@ -12264,7 +12264,7 @@
       "ictIndex": 17.3,
       "penaltiesOrder": null,
       "directFreekicksOrder": null,
-      "cornersOrder": null
+      "cornersOrder": 3
     },
     {
       "id": 487,
@@ -12471,7 +12471,7 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 0,
+      "selectedByPercent": 0.1,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -12783,7 +12783,7 @@
       "form": 0,
       "totalPoints": 78,
       "pointsPerGame": 2.6,
-      "selectedByPercent": 7.8,
+      "selectedByPercent": 7.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -13383,7 +13383,7 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 1,
+      "selectedByPercent": 0.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "u",
