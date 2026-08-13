@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:38:10.158Z",
+  "generatedAt": "2026-08-13T14:12:17.478Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -194,7 +194,7 @@
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 73.6
+      "value": 73.5
     },
     {
       "playerId": 165,
@@ -202,7 +202,7 @@
     },
     {
       "playerId": 426,
-      "value": 48.2
+      "value": 48.1
     },
     {
       "playerId": 368,
@@ -225,16 +225,16 @@
       "value": 26.6
     },
     {
+      "playerId": 427,
+      "value": 25.3
+    },
+    {
       "playerId": 346,
       "value": 25.2
     },
     {
-      "playerId": 427,
-      "value": 25.2
-    },
-    {
       "playerId": 423,
-      "value": 24.3
+      "value": 24.2
     },
     {
       "playerId": 499,
@@ -450,7 +450,7 @@
     },
     {
       "playerId": 423,
-      "value": 24.3
+      "value": 24.2
     },
     {
       "playerId": 499,
@@ -458,7 +458,7 @@
     },
     {
       "playerId": 426,
-      "value": 48.2
+      "value": 48.1
     },
     {
       "playerId": 368,
@@ -466,7 +466,7 @@
     },
     {
       "playerId": 411,
-      "value": 73.6
+      "value": 73.5
     },
     {
       "playerId": 165,
@@ -481,8 +481,8 @@
       "value": 26.6
     },
     {
-      "playerId": 346,
-      "value": 25.2
+      "playerId": 427,
+      "value": 25.3
     }
   ],
   "fixtureRuns": [
@@ -3212,6 +3212,10 @@
       "value": 0
     },
     {
+      "playerId": 582,
+      "value": 0
+    },
+    {
       "playerId": 58,
       "value": 0
     },
@@ -3313,6 +3317,10 @@
     },
     {
       "playerId": 578,
+      "value": 0
+    },
+    {
+      "playerId": 583,
       "value": 0
     },
     {
@@ -3429,6 +3437,10 @@
     },
     {
       "playerId": 575,
+      "value": 0
+    },
+    {
+      "playerId": 584,
       "value": 0
     },
     {
