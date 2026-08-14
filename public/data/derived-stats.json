@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T17:42:06.097Z",
+  "generatedAt": "2026-08-14T18:37:13.594Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -218,7 +218,7 @@
     },
     {
       "playerId": 4,
-      "value": 27.1
+      "value": 27.2
     },
     {
       "playerId": 427,
@@ -446,7 +446,7 @@
     },
     {
       "playerId": 4,
-      "value": 27.1
+      "value": 27.2
     },
     {
       "playerId": 423,
@@ -1199,11 +1199,11 @@
       "teamId": 12,
       "penalties": [
         {
-          "playerId": 316,
+          "playerId": 313,
           "order": 1
         },
         {
-          "playerId": 313,
+          "playerId": 316,
           "order": 2
         },
         {
@@ -1882,10 +1882,6 @@
     {
       "playerId": 423,
       "value": 152.5
-    },
-    {
-      "playerId": 122,
-      "value": 151
     },
     {
       "playerId": 32,
@@ -2600,6 +2596,10 @@
       "value": 53.5
     },
     {
+      "playerId": 122,
+      "value": 52.9
+    },
+    {
       "playerId": 440,
       "value": 52.6
     },
@@ -2710,10 +2710,6 @@
     {
       "playerId": 234,
       "value": 39.6
-    },
-    {
-      "playerId": 266,
-      "value": 39.5
     },
     {
       "playerId": 341,
@@ -2978,6 +2974,10 @@
     {
       "playerId": 72,
       "value": 14.4
+    },
+    {
+      "playerId": 266,
+      "value": 13.8
     },
     {
       "playerId": 493,
@@ -4211,18 +4211,18 @@
         336,
         19,
         372,
-        122,
         544,
         86,
-        96
+        96,
+        210
       ]
     },
     {
       "elementType": 3,
       "tier": 9,
       "playerIds": [
-        210,
-        159
+        159,
+        68
       ]
     },
     {
