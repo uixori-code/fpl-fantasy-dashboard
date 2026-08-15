@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T03:27:33.472Z",
-  "totalPlayers": 4523651,
+  "generatedAt": "2026-08-15T04:16:54.553Z",
+  "totalPlayers": 4526512,
   "players": [
     {
       "id": 1,
@@ -3327,7 +3327,7 @@
       "form": 0,
       "totalPoints": 0,
       "pointsPerGame": 0,
-      "selectedByPercent": 2.6,
+      "selectedByPercent": 2.5,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -3351,7 +3351,7 @@
       "form": 0,
       "totalPoints": 169,
       "pointsPerGame": 4.6,
-      "selectedByPercent": 26,
+      "selectedByPercent": 25.9,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
@@ -6735,7 +6735,7 @@
       "form": 0,
       "totalPoints": 36,
       "pointsPerGame": 1.7,
-      "selectedByPercent": 0.6,
+      "selectedByPercent": 0.7,
       "transfersInEvent": 0,
       "transfersOutEvent": 0,
       "status": "a",
