@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T14:09:43.793Z",
+  "generatedAt": "2026-08-15T15:08:02.129Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -194,27 +194,27 @@
   "ownershipLeaders": [
     {
       "playerId": 411,
-      "value": 73.4
+      "value": 73.3
     },
     {
       "playerId": 165,
-      "value": 56
+      "value": 56.1
     },
     {
       "playerId": 426,
-      "value": 48
+      "value": 48.1
     },
     {
       "playerId": 368,
-      "value": 42.4
+      "value": 42.3
     },
     {
       "playerId": 1,
-      "value": 31.2
+      "value": 31.3
     },
     {
       "playerId": 397,
-      "value": 27.8
+      "value": 27.9
     },
     {
       "playerId": 427,
@@ -226,7 +226,7 @@
     },
     {
       "playerId": 40,
-      "value": 25.9
+      "value": 26
     },
     {
       "playerId": 346,
@@ -234,7 +234,7 @@
     },
     {
       "playerId": 423,
-      "value": 24.3
+      "value": 24.2
     },
     {
       "playerId": 499,
@@ -442,7 +442,7 @@
   "templateTeam": [
     {
       "playerId": 1,
-      "value": 31.2
+      "value": 31.3
     },
     {
       "playerId": 4,
@@ -450,7 +450,7 @@
     },
     {
       "playerId": 423,
-      "value": 24.3
+      "value": 24.2
     },
     {
       "playerId": 499,
@@ -458,23 +458,23 @@
     },
     {
       "playerId": 426,
-      "value": 48
+      "value": 48.1
     },
     {
       "playerId": 368,
-      "value": 42.4
+      "value": 42.3
     },
     {
       "playerId": 411,
-      "value": 73.4
+      "value": 73.3
     },
     {
       "playerId": 165,
-      "value": 56
+      "value": 56.1
     },
     {
       "playerId": 397,
-      "value": 27.8
+      "value": 27.9
     },
     {
       "playerId": 427,
@@ -482,7 +482,7 @@
     },
     {
       "playerId": 40,
-      "value": 25.9
+      "value": 26
     }
   ],
   "fixtureRuns": [
