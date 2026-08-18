@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T16:15:52.815Z",
+  "generatedAt": "2026-08-18T17:15:39.317Z",
   "currentEventId": 1,
   "topScorers": [
     {
@@ -198,7 +198,7 @@
     },
     {
       "playerId": 165,
-      "value": 60.1
+      "value": 60.2
     },
     {
       "playerId": 426,
@@ -210,11 +210,11 @@
     },
     {
       "playerId": 1,
-      "value": 34.3
+      "value": 34.4
     },
     {
       "playerId": 427,
-      "value": 31.1
+      "value": 31.2
     },
     {
       "playerId": 4,
@@ -226,11 +226,11 @@
     },
     {
       "playerId": 8,
-      "value": 27.3
+      "value": 27.4
     },
     {
       "playerId": 40,
-      "value": 26.6
+      "value": 26.5
     },
     {
       "playerId": 397,
@@ -238,7 +238,7 @@
     },
     {
       "playerId": 499,
-      "value": 23
+      "value": 22.9
     },
     {
       "playerId": 423,
@@ -442,7 +442,7 @@
   "templateTeam": [
     {
       "playerId": 1,
-      "value": 34.3
+      "value": 34.4
     },
     {
       "playerId": 4,
@@ -450,11 +450,11 @@
     },
     {
       "playerId": 8,
-      "value": 27.3
+      "value": 27.4
     },
     {
       "playerId": 499,
-      "value": 23
+      "value": 22.9
     },
     {
       "playerId": 426,
@@ -470,11 +470,11 @@
     },
     {
       "playerId": 165,
-      "value": 60.1
+      "value": 60.2
     },
     {
       "playerId": 427,
-      "value": 31.1
+      "value": 31.2
     },
     {
       "playerId": 346,
@@ -482,7 +482,7 @@
     },
     {
       "playerId": 40,
-      "value": 26.6
+      "value": 26.5
     }
   ],
   "fixtureRuns": [
@@ -1768,10 +1768,6 @@
       "value": 170.7
     },
     {
-      "playerId": 400,
-      "value": 170.7
-    },
-    {
       "playerId": 237,
       "value": 168
     },
@@ -2046,6 +2042,10 @@
     {
       "playerId": 31,
       "value": 129
+    },
+    {
+      "playerId": 400,
+      "value": 128
     },
     {
       "playerId": 391,
@@ -4216,33 +4216,33 @@
         95,
         542,
         337,
-        400,
         237,
         156,
         94,
-        208
+        208,
+        154
       ]
     },
     {
       "elementType": 3,
       "tier": 8,
       "playerIds": [
-        154,
         336,
         19,
         372,
         544,
         86,
         96,
-        210
+        210,
+        159
       ]
     },
     {
       "elementType": 3,
       "tier": 9,
       "playerIds": [
-        159,
-        68
+        68,
+        415
       ]
     },
     {
