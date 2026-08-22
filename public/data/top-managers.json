@@ -1,10 +1,127 @@
 {
-  "generatedAt": "2026-08-21T13:35:20.848Z",
+  "generatedAt": "2026-08-22T10:10:28.867Z",
   "leagueId": 314,
   "eventId": 1,
-  "sampleSize": 0,
-  "mostOwnedAmongTop": [],
-  "mostCaptained": [],
-  "formationCounts": [],
-  "chipUsage": []
+  "sampleSize": 50,
+  "mostOwnedAmongTop": [
+    {
+      "playerId": 15,
+      "count": 46,
+      "percent": 92
+    },
+    {
+      "playerId": 8,
+      "count": 38,
+      "percent": 76
+    },
+    {
+      "playerId": 411,
+      "count": 33,
+      "percent": 66
+    },
+    {
+      "playerId": 10,
+      "count": 27,
+      "percent": 54
+    },
+    {
+      "playerId": 12,
+      "count": 21,
+      "percent": 42
+    },
+    {
+      "playerId": 426,
+      "count": 20,
+      "percent": 40
+    },
+    {
+      "playerId": 165,
+      "count": 20,
+      "percent": 40
+    },
+    {
+      "playerId": 427,
+      "count": 17,
+      "percent": 34
+    },
+    {
+      "playerId": 397,
+      "count": 12,
+      "percent": 24
+    },
+    {
+      "playerId": 379,
+      "count": 12,
+      "percent": 24
+    },
+    {
+      "playerId": 423,
+      "count": 10,
+      "percent": 20
+    },
+    {
+      "playerId": 412,
+      "count": 9,
+      "percent": 18
+    },
+    {
+      "playerId": 368,
+      "count": 9,
+      "percent": 18
+    },
+    {
+      "playerId": 104,
+      "count": 8,
+      "percent": 16
+    },
+    {
+      "playerId": 418,
+      "count": 8,
+      "percent": 16
+    }
+  ],
+  "mostCaptained": [
+    {
+      "playerId": 15,
+      "count": 44,
+      "percent": 88
+    },
+    {
+      "playerId": 10,
+      "count": 6,
+      "percent": 12
+    }
+  ],
+  "formationCounts": [
+    {
+      "formation": "3-4-3",
+      "count": 16
+    },
+    {
+      "formation": "4-4-2",
+      "count": 14
+    },
+    {
+      "formation": "3-5-2",
+      "count": 14
+    },
+    {
+      "formation": "4-5-1",
+      "count": 3
+    },
+    {
+      "formation": "5-3-2",
+      "count": 2
+    },
+    {
+      "formation": "4-3-3",
+      "count": 1
+    }
+  ],
+  "chipUsage": [
+    {
+      "chip": "3xc",
+      "count": 50
+    }
+  ]
 }
