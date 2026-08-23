@@ -1,113 +1,157 @@
 {
-  "generatedAt": "2026-08-22T10:10:28.867Z",
+  "generatedAt": "2026-08-23T06:18:49.860Z",
   "leagueId": 314,
   "eventId": 1,
   "sampleSize": 50,
   "mostOwnedAmongTop": [
     {
-      "playerId": 15,
-      "count": 46,
-      "percent": 92
+      "playerId": 237,
+      "count": 25,
+      "percent": 50
     },
     {
-      "playerId": 8,
-      "count": 38,
-      "percent": 76
+      "playerId": 236,
+      "count": 24,
+      "percent": 48
     },
     {
       "playerId": 411,
-      "count": 33,
-      "percent": 66
+      "count": 22,
+      "percent": 44
     },
     {
-      "playerId": 10,
-      "count": 27,
-      "percent": 54
-    },
-    {
-      "playerId": 12,
+      "playerId": 426,
       "count": 21,
       "percent": 42
     },
     {
-      "playerId": 426,
-      "count": 20,
-      "percent": 40
+      "playerId": 8,
+      "count": 19,
+      "percent": 38
+    },
+    {
+      "playerId": 15,
+      "count": 19,
+      "percent": 38
     },
     {
       "playerId": 165,
-      "count": 20,
-      "percent": 40
+      "count": 18,
+      "percent": 36
+    },
+    {
+      "playerId": 557,
+      "count": 15,
+      "percent": 30
+    },
+    {
+      "playerId": 552,
+      "count": 14,
+      "percent": 28
+    },
+    {
+      "playerId": 229,
+      "count": 14,
+      "percent": 28
     },
     {
       "playerId": 427,
-      "count": 17,
-      "percent": 34
+      "count": 14,
+      "percent": 28
     },
     {
-      "playerId": 397,
-      "count": 12,
-      "percent": 24
+      "playerId": 10,
+      "count": 13,
+      "percent": 26
     },
     {
-      "playerId": 379,
-      "count": 12,
-      "percent": 24
+      "playerId": 1,
+      "count": 13,
+      "percent": 26
     },
     {
-      "playerId": 423,
+      "playerId": 346,
+      "count": 11,
+      "percent": 22
+    },
+    {
+      "playerId": 329,
       "count": 10,
       "percent": 20
-    },
-    {
-      "playerId": 412,
-      "count": 9,
-      "percent": 18
-    },
-    {
-      "playerId": 368,
-      "count": 9,
-      "percent": 18
-    },
-    {
-      "playerId": 104,
-      "count": 8,
-      "percent": 16
-    },
-    {
-      "playerId": 418,
-      "count": 8,
-      "percent": 16
     }
   ],
   "mostCaptained": [
     {
       "playerId": 15,
-      "count": 44,
-      "percent": 88
+      "count": 12,
+      "percent": 24
     },
     {
-      "playerId": 10,
-      "count": 6,
-      "percent": 12
+      "playerId": 236,
+      "count": 4,
+      "percent": 8
+    },
+    {
+      "playerId": 26,
+      "count": 4,
+      "percent": 8
+    },
+    {
+      "playerId": 411,
+      "count": 4,
+      "percent": 8
+    },
+    {
+      "playerId": 426,
+      "count": 4,
+      "percent": 8
+    },
+    {
+      "playerId": 12,
+      "count": 3,
+      "percent": 6
+    },
+    {
+      "playerId": 335,
+      "count": 2,
+      "percent": 4
+    },
+    {
+      "playerId": 332,
+      "count": 2,
+      "percent": 4
+    },
+    {
+      "playerId": 279,
+      "count": 2,
+      "percent": 4
+    },
+    {
+      "playerId": 88,
+      "count": 2,
+      "percent": 4
     }
   ],
   "formationCounts": [
     {
-      "formation": "3-4-3",
+      "formation": "4-4-2",
       "count": 16
     },
     {
-      "formation": "4-4-2",
-      "count": 14
+      "formation": "3-4-3",
+      "count": 15
     },
     {
       "formation": "3-5-2",
-      "count": 14
+      "count": 8
+    },
+    {
+      "formation": "5-4-1",
+      "count": 4
     },
     {
       "formation": "4-5-1",
-      "count": 3
+      "count": 2
     },
     {
       "formation": "5-3-2",
@@ -115,13 +159,21 @@
     },
     {
       "formation": "4-3-3",
+      "count": 2
+    },
+    {
+      "formation": "5-2-3",
       "count": 1
     }
   ],
   "chipUsage": [
     {
+      "chip": "bboost",
+      "count": 31
+    },
+    {
       "chip": "3xc",
-      "count": 50
+      "count": 5
     }
   ]
 }
