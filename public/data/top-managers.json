@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-25T00:28:25.114Z",
+  "generatedAt": "2026-08-25T21:15:09.775Z",
   "leagueId": 314,
   "eventId": 1,
   "sampleSize": 50,
   "mostOwnedAmongTop": [
     {
       "playerId": 165,
-      "count": 45,
-      "percent": 90
+      "count": 46,
+      "percent": 92
     },
     {
       "playerId": 8,
-      "count": 34,
-      "percent": 68
+      "count": 33,
+      "percent": 66
     },
     {
       "playerId": 411,
-      "count": 29,
-      "percent": 58
+      "count": 28,
+      "percent": 56
     },
     {
       "playerId": 154,
@@ -31,33 +31,38 @@
     },
     {
       "playerId": 40,
-      "count": 21,
-      "percent": 42
+      "count": 22,
+      "percent": 44
     },
     {
-      "playerId": 15,
+      "playerId": 368,
       "count": 18,
       "percent": 36
     },
     {
-      "playerId": 368,
+      "playerId": 15,
       "count": 17,
       "percent": 34
     },
     {
       "playerId": 237,
-      "count": 16,
-      "percent": 32
+      "count": 15,
+      "percent": 30
     },
     {
       "playerId": 426,
-      "count": 16,
-      "percent": 32
+      "count": 15,
+      "percent": 30
     },
     {
       "playerId": 427,
       "count": 14,
       "percent": 28
+    },
+    {
+      "playerId": 391,
+      "count": 13,
+      "percent": 26
     },
     {
       "playerId": 1,
@@ -66,11 +71,6 @@
     },
     {
       "playerId": 109,
-      "count": 12,
-      "percent": 24
-    },
-    {
-      "playerId": 391,
       "count": 12,
       "percent": 24
     },
@@ -88,13 +88,13 @@
     },
     {
       "playerId": 411,
-      "count": 9,
-      "percent": 18
+      "count": 8,
+      "percent": 16
     },
     {
       "playerId": 154,
-      "count": 6,
-      "percent": 12
+      "count": 7,
+      "percent": 14
     },
     {
       "playerId": 15,
@@ -122,12 +122,12 @@
       "percent": 2
     },
     {
-      "playerId": 557,
+      "playerId": 426,
       "count": 1,
       "percent": 2
     },
     {
-      "playerId": 4,
+      "playerId": 557,
       "count": 1,
       "percent": 2
     }
@@ -138,12 +138,16 @@
       "count": 16
     },
     {
-      "formation": "4-4-2",
-      "count": 15
-    },
-    {
       "formation": "3-5-2",
       "count": 12
+    },
+    {
+      "formation": "4-4-2",
+      "count": 12
+    },
+    {
+      "formation": "5-4-1",
+      "count": 3
     },
     {
       "formation": "5-3-2",
@@ -154,7 +158,7 @@
       "count": 2
     },
     {
-      "formation": "5-4-1",
+      "formation": "5-2-3",
       "count": 1
     },
     {
@@ -165,11 +169,11 @@
   "chipUsage": [
     {
       "chip": "bboost",
-      "count": 48
+      "count": 47
     },
     {
       "chip": "3xc",
-      "count": 2
+      "count": 3
     }
   ]
 }
