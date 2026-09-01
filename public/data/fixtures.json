@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T12:08:55.650Z",
+  "generatedAt": "2026-09-01T17:00:28.966Z",
   "fixtures": [
     {
       "id": 1,
@@ -530,18 +530,6 @@
       "teamAScore": null
     },
     {
-      "id": 44,
-      "event": 5,
-      "teamH": 13,
-      "teamA": 8,
-      "teamHDifficulty": 3,
-      "teamADifficulty": 3,
-      "kickoffTime": "2026-09-19T14:00:00Z",
-      "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
-    },
-    {
       "id": 46,
       "event": 5,
       "teamH": 17,
@@ -571,6 +559,18 @@
       "teamH": 3,
       "teamA": 14,
       "teamHDifficulty": 4,
+      "teamADifficulty": 3,
+      "kickoffTime": "2026-09-20T13:00:00Z",
+      "finished": false,
+      "teamHScore": null,
+      "teamAScore": null
+    },
+    {
+      "id": 44,
+      "event": 5,
+      "teamH": 13,
+      "teamA": 8,
+      "teamHDifficulty": 3,
       "teamADifficulty": 3,
       "kickoffTime": "2026-09-20T13:00:00Z",
       "finished": false,
@@ -890,18 +890,6 @@
       "teamAScore": null
     },
     {
-      "id": 78,
-      "event": 8,
-      "teamH": 14,
-      "teamA": 5,
-      "teamHDifficulty": 2,
-      "teamADifficulty": 4,
-      "kickoffTime": "2026-10-24T14:00:00Z",
-      "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
-    },
-    {
       "id": 73,
       "event": 8,
       "teamH": 6,
@@ -932,6 +920,18 @@
       "teamA": 4,
       "teamHDifficulty": 3,
       "teamADifficulty": 2,
+      "kickoffTime": "2026-10-25T14:00:00Z",
+      "finished": false,
+      "teamHScore": null,
+      "teamAScore": null
+    },
+    {
+      "id": 78,
+      "event": 8,
+      "teamH": 14,
+      "teamA": 5,
+      "teamHDifficulty": 2,
+      "teamADifficulty": 4,
       "kickoffTime": "2026-10-25T14:00:00Z",
       "finished": false,
       "teamHScore": null,
@@ -1052,7 +1052,7 @@
       "teamA": 10,
       "teamHDifficulty": 2,
       "teamADifficulty": 4,
-      "kickoffTime": "2026-11-01T14:00:00Z",
+      "kickoffTime": "2026-10-31T20:00:00Z",
       "finished": false,
       "teamHScore": null,
       "teamAScore": null

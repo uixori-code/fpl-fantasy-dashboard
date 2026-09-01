@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:15:53.401Z",
+  "generatedAt": "2026-09-01T17:00:36.126Z",
   "leagueId": 314,
   "eventId": 2,
   "sampleSize": 50,
@@ -16,68 +16,68 @@
     },
     {
       "playerId": 8,
-      "count": 35,
-      "percent": 70
+      "count": 45,
+      "percent": 90
     },
     {
       "playerId": 427,
-      "count": 30,
-      "percent": 60
+      "count": 34,
+      "percent": 68
     },
     {
       "playerId": 154,
-      "count": 26,
-      "percent": 52
+      "count": 31,
+      "percent": 62
     },
     {
       "playerId": 346,
-      "count": 26,
-      "percent": 52
+      "count": 28,
+      "percent": 56
     },
     {
-      "playerId": 379,
-      "count": 21,
-      "percent": 42
+      "playerId": 1,
+      "count": 28,
+      "percent": 56
     },
     {
       "playerId": 368,
+      "count": 24,
+      "percent": 48
+    },
+    {
+      "playerId": 10,
       "count": 20,
       "percent": 40
     },
     {
-      "playerId": 229,
+      "playerId": 4,
       "count": 17,
       "percent": 34
     },
     {
-      "playerId": 391,
+      "playerId": 418,
       "count": 15,
       "percent": 30
     },
     {
-      "playerId": 10,
+      "playerId": 237,
       "count": 14,
       "percent": 28
     },
     {
-      "playerId": 1,
-      "count": 14,
-      "percent": 28
-    },
-    {
-      "playerId": 418,
+      "playerId": 379,
       "count": 13,
       "percent": 26
     },
     {
-      "playerId": 411,
-      "count": 12,
-      "percent": 24
+      "playerId": 412,
+      "count": 10,
+      "percent": 20
     },
     {
-      "playerId": 496,
-      "count": 11,
-      "percent": 22
+      "playerId": 391,
+      "count": 10,
+      "percent": 20
     }
   ],
   "mostCaptained": [
@@ -90,22 +90,22 @@
   "formationCounts": [
     {
       "formation": "3-4-3",
-      "count": 28
+      "count": 23
     },
     {
       "formation": "3-5-2",
-      "count": 14
+      "count": 20
     },
     {
       "formation": "4-4-2",
       "count": 5
     },
     {
-      "formation": "4-3-3",
-      "count": 2
+      "formation": "4-5-1",
+      "count": 1
     },
     {
-      "formation": "4-5-1",
+      "formation": "4-3-3",
       "count": 1
     }
   ],
