@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:46:49.640Z",
+  "generatedAt": "2026-09-04T11:48:16.312Z",
   "leagueId": 314,
   "eventId": 2,
   "sampleSize": 50,
@@ -36,8 +36,8 @@
     },
     {
       "playerId": 1,
-      "count": 28,
-      "percent": 56
+      "count": 27,
+      "percent": 54
     },
     {
       "playerId": 368,
@@ -56,8 +56,8 @@
     },
     {
       "playerId": 418,
-      "count": 15,
-      "percent": 30
+      "count": 16,
+      "percent": 32
     },
     {
       "playerId": 237,
@@ -66,13 +66,13 @@
     },
     {
       "playerId": 379,
-      "count": 13,
-      "percent": 26
+      "count": 12,
+      "percent": 24
     },
     {
       "playerId": 412,
-      "count": 10,
-      "percent": 20
+      "count": 11,
+      "percent": 22
     },
     {
       "playerId": 391,
@@ -90,7 +90,7 @@
   "formationCounts": [
     {
       "formation": "3-4-3",
-      "count": 23
+      "count": 24
     },
     {
       "formation": "3-5-2",
@@ -103,16 +103,12 @@
     {
       "formation": "4-5-1",
       "count": 1
-    },
-    {
-      "formation": "4-3-3",
-      "count": 1
     }
   ],
   "chipUsage": [
     {
       "chip": "3xc",
-      "count": 43
+      "count": 44
     }
   ]
 }
