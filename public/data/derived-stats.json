@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:17:56.234Z",
+  "generatedAt": "2026-09-06T05:12:15.276Z",
   "currentEventId": 3,
   "topScorers": [
     {
@@ -66,125 +66,125 @@
   "mostTransferredIn": [
     {
       "playerId": 367,
-      "value": 161947
+      "value": 170741
     },
     {
       "playerId": 464,
-      "value": 119344
+      "value": 124036
     },
     {
       "playerId": 379,
-      "value": 105750
+      "value": 111577
     },
     {
       "playerId": 154,
-      "value": 98556
+      "value": 102736
     },
     {
       "playerId": 40,
-      "value": 81331
+      "value": 84257
     },
     {
       "playerId": 115,
-      "value": 77630
+      "value": 81484
     },
     {
       "playerId": 449,
-      "value": 73761
+      "value": 77486
     },
     {
       "playerId": 399,
-      "value": 73124
+      "value": 75686
     },
     {
       "playerId": 454,
-      "value": 72308
+      "value": 75012
     },
     {
       "playerId": 8,
-      "value": 66483
+      "value": 69654
     },
     {
       "playerId": 165,
-      "value": 64593
-    },
-    {
-      "playerId": 31,
-      "value": 50174
+      "value": 68027
     },
     {
       "playerId": 391,
-      "value": 49099
+      "value": 53264
     },
     {
       "playerId": 277,
-      "value": 48649
+      "value": 52131
+    },
+    {
+      "playerId": 31,
+      "value": 51972
     },
     {
       "playerId": 279,
-      "value": 48454
+      "value": 51918
     }
   ],
   "mostTransferredOut": [
     {
       "playerId": 368,
-      "value": 96065
+      "value": 100408
     },
     {
       "playerId": 427,
-      "value": 87294
+      "value": 90303
     },
     {
       "playerId": 387,
-      "value": 78794
+      "value": 85595
     },
     {
       "playerId": 346,
-      "value": 68246
+      "value": 71312
     },
     {
       "playerId": 557,
-      "value": 64956
+      "value": 67478
     },
     {
       "playerId": 237,
-      "value": 61038
+      "value": 63570
     },
     {
       "playerId": 366,
-      "value": 58458
-    },
-    {
-      "playerId": 397,
-      "value": 53459
+      "value": 60290
     },
     {
       "playerId": 106,
-      "value": 52864
+      "value": 55919
+    },
+    {
+      "playerId": 397,
+      "value": 55689
     },
     {
       "playerId": 423,
-      "value": 48827
+      "value": 51645
     },
     {
       "playerId": 426,
-      "value": 48175
+      "value": 50124
     },
     {
       "playerId": 552,
-      "value": 40872
+      "value": 42672
     },
     {
       "playerId": 418,
-      "value": 39160
+      "value": 40702
+    },
+    {
+      "playerId": 565,
+      "value": 39147
     },
     {
       "playerId": 55,
-      "value": 37463
-    },
-    {
-      "playerId": 399,
-      "value": 36438
+      "value": 39052
     }
   ],
   "priceRisers": [
@@ -266,85 +266,85 @@
   "predictedRisers": [
     {
       "playerId": 367,
-      "value": 154447
+      "value": 162750
     },
     {
       "playerId": 464,
-      "value": 94959
+      "value": 98031
     },
     {
       "playerId": 379,
-      "value": 92661
+      "value": 98001
     },
     {
       "playerId": 154,
-      "value": 89049
+      "value": 92722
     },
     {
       "playerId": 115,
-      "value": 64594
+      "value": 67523
     },
     {
       "playerId": 449,
-      "value": 64383
+      "value": 67422
     },
     {
       "playerId": 40,
-      "value": 61040
+      "value": 62770
     },
     {
       "playerId": 8,
-      "value": 59059
+      "value": 61727
     },
     {
       "playerId": 165,
-      "value": 52595
+      "value": 55491
     },
     {
       "playerId": 454,
-      "value": 47973
+      "value": 49150
     }
   ],
   "predictedFallers": [
     {
-      "playerId": 427,
-      "value": -79297
+      "playerId": 387,
+      "value": -82349
     },
     {
       "playerId": 368,
-      "value": -78247
+      "value": -81780
     },
     {
-      "playerId": 387,
-      "value": -75567
+      "playerId": 427,
+      "value": -81737
     },
     {
       "playerId": 557,
-      "value": -58824
+      "value": -60993
     },
     {
       "playerId": 366,
-      "value": -56566
+      "value": -58312
     },
     {
       "playerId": 346,
-      "value": -51616
+      "value": -53854
     },
     {
       "playerId": 237,
-      "value": -51404
+      "value": -53441
     },
     {
       "playerId": 106,
-      "value": -49085
+      "value": -51944
     },
     {
       "playerId": 397,
-      "value": -48142
+      "value": -50047
     },
     {
       "playerId": 423,
-      "value": -46515
+      "value": -49243
     }
   ],
   "ownershipLeaders": [
@@ -366,7 +366,7 @@
     },
     {
       "playerId": 368,
-      "value": 40.5
+      "value": 40.4
     },
     {
       "playerId": 1,
@@ -378,15 +378,15 @@
     },
     {
       "playerId": 427,
-      "value": 26.5
+      "value": 26.4
     },
     {
       "playerId": 4,
-      "value": 25.6
+      "value": 25.5
     },
     {
       "playerId": 346,
-      "value": 25.6
+      "value": 25.5
     },
     {
       "playerId": 40,
@@ -398,7 +398,7 @@
     },
     {
       "playerId": 154,
-      "value": 19.9
+      "value": 20
     },
     {
       "playerId": 496,
@@ -406,7 +406,7 @@
     },
     {
       "playerId": 397,
-      "value": 19.1
+      "value": 19
     }
   ],
   "formLeaders": [
@@ -545,7 +545,7 @@
     },
     {
       "playerId": 4,
-      "value": 25.6
+      "value": 25.5
     },
     {
       "playerId": 391,
@@ -557,7 +557,7 @@
     },
     {
       "playerId": 368,
-      "value": 40.5
+      "value": 40.4
     },
     {
       "playerId": 165,
@@ -573,11 +573,11 @@
     },
     {
       "playerId": 427,
-      "value": 26.5
+      "value": 26.4
     },
     {
       "playerId": 346,
-      "value": 25.6
+      "value": 25.5
     }
   ],
   "fixtureRuns": [
