@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:12:01.210Z",
+  "generatedAt": "2026-09-10T06:42:20.291Z",
   "leagueId": 314,
   "eventId": 3,
   "sampleSize": 50,
@@ -30,19 +30,19 @@
       "percent": 42
     },
     {
-      "playerId": 368,
-      "count": 21,
-      "percent": 42
-    },
-    {
-      "playerId": 82,
-      "count": 21,
-      "percent": 42
-    },
-    {
       "playerId": 106,
       "count": 21,
       "percent": 42
+    },
+    {
+      "playerId": 368,
+      "count": 20,
+      "percent": 40
+    },
+    {
+      "playerId": 82,
+      "count": 20,
+      "percent": 40
     },
     {
       "playerId": 397,
