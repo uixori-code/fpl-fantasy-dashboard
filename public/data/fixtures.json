@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:19:17.489Z",
+  "generatedAt": "2026-09-12T14:27:20.969Z",
   "fixtures": [
     {
       "id": 1,
@@ -370,8 +370,8 @@
       "teamADifficulty": 4,
       "kickoffTime": "2026-09-12T14:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 0,
+      "teamAScore": 0
     },
     {
       "id": 32,
@@ -382,8 +382,8 @@
       "teamADifficulty": 3,
       "kickoffTime": "2026-09-12T14:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 0,
+      "teamAScore": 0
     },
     {
       "id": 33,
@@ -394,8 +394,8 @@
       "teamADifficulty": 4,
       "kickoffTime": "2026-09-12T14:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 1,
+      "teamAScore": 0
     },
     {
       "id": 34,
@@ -406,8 +406,8 @@
       "teamADifficulty": 3,
       "kickoffTime": "2026-09-12T14:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 1,
+      "teamAScore": 1
     },
     {
       "id": 35,
@@ -418,8 +418,8 @@
       "teamADifficulty": 4,
       "kickoffTime": "2026-09-12T14:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 0,
+      "teamAScore": 0
     },
     {
       "id": 37,
