@@ -1,113 +1,123 @@
 {
-  "generatedAt": "2026-09-18T06:45:10.943Z",
+  "generatedAt": "2026-09-19T06:45:06.035Z",
   "leagueId": 314,
-  "eventId": 4,
+  "eventId": 5,
   "sampleSize": 50,
   "mostOwnedAmongTop": [
     {
-      "playerId": 165,
-      "count": 50,
-      "percent": 100
-    },
-    {
       "playerId": 8,
-      "count": 45,
-      "percent": 90
-    },
-    {
-      "playerId": 115,
       "count": 37,
       "percent": 74
     },
     {
-      "playerId": 1,
-      "count": 36,
-      "percent": 72
-    },
-    {
-      "playerId": 124,
-      "count": 34,
-      "percent": 68
+      "playerId": 411,
+      "count": 37,
+      "percent": 74
     },
     {
       "playerId": 154,
-      "count": 32,
-      "percent": 64
+      "count": 30,
+      "percent": 60
     },
+    {
+      "playerId": 346,
+      "count": 30,
+      "percent": 60
+    },
+    {
+      "playerId": 1,
+      "count": 28,
+      "percent": 56
+    },
+    {
+      "playerId": 40,
+      "count": 27,
+      "percent": 54
+    },
+    {
+      "playerId": 480,
+      "count": 21,
+      "percent": 42
+    },
+    {
+      "playerId": 426,
+      "count": 20,
+      "percent": 40
+    },
+    {
+      "playerId": 94,
+      "count": 19,
+      "percent": 38
+    },
+    {
+      "playerId": 165,
+      "count": 19,
+      "percent": 38
+    },
+    {
+      "playerId": 368,
+      "count": 16,
+      "percent": 32
+    },
+    {
+      "playerId": 391,
+      "count": 15,
+      "percent": 30
+    },
+    {
+      "playerId": 469,
+      "count": 13,
+      "percent": 26
+    },
+    {
+      "playerId": 229,
+      "count": 13,
+      "percent": 26
+    },
+    {
+      "playerId": 4,
+      "count": 13,
+      "percent": 26
+    }
+  ],
+  "mostCaptained": [
     {
       "playerId": 411,
       "count": 30,
       "percent": 60
     },
     {
-      "playerId": 40,
-      "count": 27,
-      "percent": 54
-    },
-    {
-      "playerId": 368,
-      "count": 25,
-      "percent": 50
-    },
-    {
       "playerId": 426,
-      "count": 24,
-      "percent": 48
+      "count": 8,
+      "percent": 16
     },
     {
-      "playerId": 346,
-      "count": 24,
-      "percent": 48
+      "playerId": 480,
+      "count": 4,
+      "percent": 8
     },
-    {
-      "playerId": 4,
-      "count": 18,
-      "percent": 36
-    },
-    {
-      "playerId": 31,
-      "count": 18,
-      "percent": 36
-    },
-    {
-      "playerId": 379,
-      "count": 18,
-      "percent": 36
-    },
-    {
-      "playerId": 94,
-      "count": 11,
-      "percent": 22
-    }
-  ],
-  "mostCaptained": [
     {
       "playerId": 154,
-      "count": 27,
-      "percent": 54
+      "count": 3,
+      "percent": 6
     },
     {
-      "playerId": 165,
-      "count": 13,
-      "percent": 26
-    },
-    {
-      "playerId": 411,
-      "count": 6,
-      "percent": 12
-    },
-    {
-      "playerId": 40,
+      "playerId": 236,
       "count": 2,
       "percent": 4
     },
     {
-      "playerId": 115,
+      "playerId": 249,
       "count": 1,
       "percent": 2
     },
     {
-      "playerId": 379,
+      "playerId": 346,
+      "count": 1,
+      "percent": 2
+    },
+    {
+      "playerId": 330,
       "count": 1,
       "percent": 2
     }
@@ -115,41 +125,41 @@
   "formationCounts": [
     {
       "formation": "3-4-3",
-      "count": 25
+      "count": 23
     },
     {
       "formation": "3-5-2",
-      "count": 10
+      "count": 12
     },
     {
       "formation": "4-4-2",
-      "count": 9
+      "count": 7
     },
     {
       "formation": "4-3-3",
-      "count": 5
+      "count": 3
     },
     {
-      "formation": "5-2-3",
+      "formation": "5-3-2",
+      "count": 2
+    },
+    {
+      "formation": "4-5-1",
+      "count": 2
+    },
+    {
+      "formation": "5-4-1",
       "count": 1
     }
   ],
   "chipUsage": [
     {
-      "chip": "wildcard",
-      "count": 13
-    },
-    {
-      "chip": "3xc",
-      "count": 9
-    },
-    {
-      "chip": "bboost",
-      "count": 3
-    },
-    {
       "chip": "freehit",
-      "count": 2
+      "count": 6
+    },
+    {
+      "chip": "wildcard",
+      "count": 4
     }
   ]
 }
