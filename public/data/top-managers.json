@@ -1,110 +1,110 @@
 {
-  "generatedAt": "2026-09-25T05:38:52.458Z",
+  "generatedAt": "2026-09-26T05:49:50.505Z",
   "leagueId": 314,
   "eventId": 5,
-  "sampleSize": 49,
+  "sampleSize": 50,
   "mostOwnedAmongTop": [
     {
       "playerId": 411,
-      "count": 41,
-      "percent": 83.7
+      "count": 42,
+      "percent": 84
     },
     {
       "playerId": 8,
-      "count": 31,
-      "percent": 63.3
+      "count": 32,
+      "percent": 64
     },
     {
       "playerId": 124,
-      "count": 30,
-      "percent": 61.2
+      "count": 31,
+      "percent": 62
     },
     {
       "playerId": 229,
       "count": 25,
-      "percent": 51
+      "percent": 50
     },
     {
       "playerId": 449,
       "count": 24,
-      "percent": 49
+      "percent": 48
     },
     {
       "playerId": 1,
-      "count": 22,
-      "percent": 44.9
+      "count": 23,
+      "percent": 46
     },
     {
       "playerId": 346,
-      "count": 22,
-      "percent": 44.9
+      "count": 23,
+      "percent": 46
     },
     {
       "playerId": 40,
-      "count": 21,
-      "percent": 42.9
+      "count": 22,
+      "percent": 44
     },
     {
       "playerId": 480,
       "count": 20,
-      "percent": 40.8
+      "percent": 40
     },
     {
       "playerId": 154,
       "count": 20,
-      "percent": 40.8
+      "percent": 40
     },
     {
       "playerId": 391,
       "count": 20,
-      "percent": 40.8
+      "percent": 40
+    },
+    {
+      "playerId": 397,
+      "count": 18,
+      "percent": 36
     },
     {
       "playerId": 379,
       "count": 17,
-      "percent": 34.7
+      "percent": 34
     },
     {
-      "playerId": 397,
-      "count": 17,
-      "percent": 34.7
+      "playerId": 368,
+      "count": 13,
+      "percent": 26
     },
     {
       "playerId": 453,
       "count": 12,
-      "percent": 24.5
-    },
-    {
-      "playerId": 368,
-      "count": 12,
-      "percent": 24.5
+      "percent": 24
     }
   ],
   "mostCaptained": [
     {
       "playerId": 411,
-      "count": 36,
-      "percent": 73.5
+      "count": 37,
+      "percent": 74
     },
     {
       "playerId": 480,
       "count": 4,
-      "percent": 8.2
+      "percent": 8
     },
     {
       "playerId": 154,
       "count": 2,
-      "percent": 4.1
+      "percent": 4
     },
     {
       "playerId": 426,
       "count": 2,
-      "percent": 4.1
+      "percent": 4
     },
     {
       "playerId": 379,
       "count": 2,
-      "percent": 4.1
+      "percent": 4
     },
     {
       "playerId": 236,
@@ -125,7 +125,7 @@
   "formationCounts": [
     {
       "formation": "3-5-2",
-      "count": 19
+      "count": 20
     },
     {
       "formation": "4-4-2",
