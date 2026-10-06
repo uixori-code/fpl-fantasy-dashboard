@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:29:00.406Z",
+  "generatedAt": "2026-10-06T16:19:04.300Z",
   "currentEventId": 5,
   "topScorers": [
     {
@@ -66,125 +66,125 @@
   "mostTransferredIn": [
     {
       "playerId": 124,
-      "value": 849737
+      "value": 859188
     },
     {
       "playerId": 94,
-      "value": 432043
+      "value": 438944
     },
     {
       "playerId": 138,
-      "value": 347003
+      "value": 352740
     },
     {
       "playerId": 115,
-      "value": 326169
+      "value": 331049
     },
     {
       "playerId": 449,
-      "value": 269792
+      "value": 274318
     },
     {
       "playerId": 229,
-      "value": 252768
+      "value": 256283
     },
     {
       "playerId": 552,
-      "value": 198512
+      "value": 199060
     },
     {
       "playerId": 453,
-      "value": 179131
+      "value": 182187
     },
     {
       "playerId": 40,
-      "value": 176032
+      "value": 180863
     },
     {
       "playerId": 391,
-      "value": 160722
+      "value": 162876
     },
     {
       "playerId": 12,
-      "value": 153270
+      "value": 157652
     },
     {
       "playerId": 1,
-      "value": 139414
+      "value": 141800
     },
     {
       "playerId": 330,
-      "value": 139132
+      "value": 141383
     },
     {
       "playerId": 399,
-      "value": 137972
+      "value": 140571
     },
     {
       "playerId": 572,
-      "value": 134837
+      "value": 136389
     }
   ],
   "mostTransferredOut": [
     {
       "playerId": 165,
-      "value": 423846
+      "value": 429205
     },
     {
       "playerId": 368,
-      "value": 235105
+      "value": 238416
     },
     {
       "playerId": 426,
-      "value": 210773
+      "value": 213119
     },
     {
       "playerId": 154,
-      "value": 195109
+      "value": 199210
     },
     {
       "playerId": 346,
-      "value": 184379
+      "value": 187361
     },
     {
       "playerId": 454,
-      "value": 175938
+      "value": 177613
     },
     {
       "playerId": 557,
-      "value": 165509
+      "value": 169806
     },
     {
       "playerId": 464,
-      "value": 150936
+      "value": 152696
     },
     {
       "playerId": 565,
-      "value": 147886
+      "value": 149447
     },
     {
       "playerId": 427,
-      "value": 141472
+      "value": 143397
     },
     {
       "playerId": 496,
-      "value": 121124
+      "value": 123116
     },
     {
       "playerId": 367,
-      "value": 110874
+      "value": 113776
     },
     {
       "playerId": 379,
-      "value": 106680
+      "value": 110248
     },
     {
       "playerId": 399,
-      "value": 100728
+      "value": 102419
     },
     {
       "playerId": 15,
-      "value": 97795
+      "value": 99097
     }
   ],
   "priceRisers": [
@@ -314,85 +314,85 @@
   "predictedRisers": [
     {
       "playerId": 124,
-      "value": 834977
+      "value": 844081
     },
     {
       "playerId": 94,
-      "value": 400643
+      "value": 406642
     },
     {
       "playerId": 138,
-      "value": 323846
+      "value": 329028
     },
     {
       "playerId": 115,
-      "value": 300219
+      "value": 304530
     },
     {
       "playerId": 449,
-      "value": 245134
+      "value": 249080
     },
     {
       "playerId": 229,
-      "value": 227217
+      "value": 230031
     },
     {
       "playerId": 453,
-      "value": 153103
+      "value": 155183
     },
     {
       "playerId": 552,
-      "value": 143831
+      "value": 143017
     },
     {
       "playerId": 330,
-      "value": 109502
+      "value": 111144
     },
     {
       "playerId": 572,
-      "value": 109105
+      "value": 110058
     }
   ],
   "predictedFallers": [
     {
       "playerId": 165,
-      "value": -350515
+      "value": -354312
     },
     {
       "playerId": 368,
-      "value": -194728
+      "value": -197424
     },
     {
       "playerId": 454,
-      "value": -175586
+      "value": -177257
     },
     {
       "playerId": 426,
-      "value": -158789
+      "value": -159881
     },
     {
       "playerId": 557,
-      "value": -152979
+      "value": -157252
     },
     {
       "playerId": 154,
-      "value": -142237
+      "value": -145714
     },
     {
       "playerId": 565,
-      "value": -138732
+      "value": -140177
     },
     {
       "playerId": 496,
-      "value": -99948
+      "value": -101572
     },
     {
       "playerId": 427,
-      "value": -97705
+      "value": -98534
     },
     {
       "playerId": 13,
-      "value": -86234
+      "value": -87857
     }
   ],
   "ownershipLeaders": [
@@ -422,11 +422,11 @@
     },
     {
       "playerId": 368,
-      "value": 32.6
+      "value": 32.5
     },
     {
       "playerId": 124,
-      "value": 29.5
+      "value": 29.6
     },
     {
       "playerId": 399,
@@ -442,11 +442,11 @@
     },
     {
       "playerId": 154,
-      "value": 25.4
+      "value": 25.3
     },
     {
       "playerId": 346,
-      "value": 24.8
+      "value": 24.7
     },
     {
       "playerId": 4,
@@ -465,6 +465,10 @@
     {
       "playerId": 94,
       "value": 12
+    },
+    {
+      "playerId": 229,
+      "value": 11
     },
     {
       "playerId": 138,
@@ -499,8 +503,8 @@
       "value": 8.5
     },
     {
-      "playerId": 229,
-      "value": 8.3
+      "playerId": 233,
+      "value": 8
     },
     {
       "playerId": 305,
@@ -511,11 +515,7 @@
       "value": 8
     },
     {
-      "playerId": 176,
-      "value": 7.5
-    },
-    {
-      "playerId": 362,
+      "playerId": 1,
       "value": 7.5
     }
   ],
@@ -678,11 +678,11 @@
     },
     {
       "playerId": 368,
-      "value": 32.6
+      "value": 32.5
     },
     {
       "playerId": 124,
-      "value": 29.5
+      "value": 29.6
     },
     {
       "playerId": 399,
@@ -938,6 +938,11 @@
       "reason": "Form 8.5, next fixture difficulty 3"
     },
     {
+      "playerId": 428,
+      "score": 24,
+      "reason": "Form 6.0, next fixture difficulty 2"
+    },
+    {
       "playerId": 453,
       "score": 22,
       "reason": "Form 5.5, next fixture difficulty 2"
@@ -956,11 +961,6 @@
       "playerId": 53,
       "score": 21,
       "reason": "Form 7.0, next fixture difficulty 3"
-    },
-    {
-      "playerId": 428,
-      "score": 20,
-      "reason": "Form 5.0, next fixture difficulty 2"
     }
   ],
   "setPieceTakers": [
