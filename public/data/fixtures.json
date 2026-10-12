@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T09:51:42.381Z",
+  "generatedAt": "2026-10-12T19:26:21.364Z",
   "fixtures": [
     {
       "id": 1,
@@ -718,8 +718,8 @@
       "teamADifficulty": 2,
       "kickoffTime": "2026-10-12T19:00:00Z",
       "finished": false,
-      "teamHScore": null,
-      "teamAScore": null
+      "teamHScore": 1,
+      "teamAScore": 0
     },
     {
       "id": 64,
