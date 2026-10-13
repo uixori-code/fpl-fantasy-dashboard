@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T19:26:28.824Z",
+  "generatedAt": "2026-10-13T16:31:07.217Z",
   "leagueId": 314,
   "eventId": 6,
   "sampleSize": 50,
@@ -26,18 +26,18 @@
     },
     {
       "playerId": 124,
-      "count": 45,
-      "percent": 90
+      "count": 44,
+      "percent": 88
     },
     {
       "playerId": 40,
-      "count": 39,
-      "percent": 78
+      "count": 38,
+      "percent": 76
     },
     {
       "playerId": 154,
-      "count": 27,
-      "percent": 54
+      "count": 29,
+      "percent": 58
     },
     {
       "playerId": 1,
@@ -46,18 +46,18 @@
     },
     {
       "playerId": 109,
-      "count": 22,
-      "percent": 44
+      "count": 20,
+      "percent": 40
     },
     {
       "playerId": 449,
-      "count": 19,
-      "percent": 38
+      "count": 18,
+      "percent": 36
     },
     {
       "playerId": 229,
-      "count": 14,
-      "percent": 28
+      "count": 15,
+      "percent": 30
     },
     {
       "playerId": 94,
@@ -65,19 +65,19 @@
       "percent": 26
     },
     {
-      "playerId": 427,
-      "count": 12,
-      "percent": 24
-    },
-    {
-      "playerId": 391,
+      "playerId": 31,
       "count": 11,
       "percent": 22
     },
     {
-      "playerId": 31,
-      "count": 9,
-      "percent": 18
+      "playerId": 427,
+      "count": 11,
+      "percent": 22
+    },
+    {
+      "playerId": 391,
+      "count": 10,
+      "percent": 20
     }
   ],
   "mostCaptained": [
@@ -88,8 +88,8 @@
     },
     {
       "playerId": 154,
-      "count": 11,
-      "percent": 22
+      "count": 13,
+      "percent": 26
     },
     {
       "playerId": 165,
@@ -107,11 +107,6 @@
       "percent": 6
     },
     {
-      "playerId": 249,
-      "count": 2,
-      "percent": 4
-    },
-    {
       "playerId": 426,
       "count": 2,
       "percent": 4
@@ -127,7 +122,12 @@
       "percent": 2
     },
     {
-      "playerId": 15,
+      "playerId": 249,
+      "count": 1,
+      "percent": 2
+    },
+    {
+      "playerId": 4,
       "count": 1,
       "percent": 2
     }
@@ -135,19 +135,19 @@
   "formationCounts": [
     {
       "formation": "3-4-3",
-      "count": 16
-    },
-    {
-      "formation": "3-5-2",
       "count": 15
     },
     {
+      "formation": "3-5-2",
+      "count": 13
+    },
+    {
       "formation": "4-4-2",
-      "count": 12
+      "count": 10
     },
     {
       "formation": "4-3-3",
-      "count": 5
+      "count": 9
     },
     {
       "formation": "5-4-1",
@@ -155,6 +155,10 @@
     },
     {
       "formation": "4-5-1",
+      "count": 1
+    },
+    {
+      "formation": "5-3-2",
       "count": 1
     }
   ],
