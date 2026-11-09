@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:07:54.196Z",
+  "generatedAt": "2026-11-09T10:28:47.079Z",
   "fixtures": [
     {
       "id": 1,
@@ -1089,7 +1089,7 @@
       "teamHDifficulty": 2,
       "teamADifficulty": 3,
       "kickoffTime": "2026-11-06T20:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 3,
       "teamAScore": 1
     },
@@ -1101,7 +1101,7 @@
       "teamHDifficulty": 3,
       "teamADifficulty": 3,
       "kickoffTime": "2026-11-07T12:30:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 0
     },
@@ -1113,7 +1113,7 @@
       "teamHDifficulty": 2,
       "teamADifficulty": 5,
       "kickoffTime": "2026-11-07T15:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 0
     },
@@ -1125,7 +1125,7 @@
       "teamHDifficulty": 3,
       "teamADifficulty": 3,
       "kickoffTime": "2026-11-07T15:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 1
     },
@@ -1137,7 +1137,7 @@
       "teamHDifficulty": 4,
       "teamADifficulty": 2,
       "kickoffTime": "2026-11-07T17:30:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 3,
       "teamAScore": 1
     },
@@ -1149,7 +1149,7 @@
       "teamHDifficulty": 3,
       "teamADifficulty": 4,
       "kickoffTime": "2026-11-08T14:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 2,
       "teamAScore": 0
     },
@@ -1161,7 +1161,7 @@
       "teamHDifficulty": 4,
       "teamADifficulty": 2,
       "kickoffTime": "2026-11-08T14:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 3
     },
@@ -1173,7 +1173,7 @@
       "teamHDifficulty": 3,
       "teamADifficulty": 2,
       "kickoffTime": "2026-11-08T14:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 2
     },
@@ -1185,7 +1185,7 @@
       "teamHDifficulty": 4,
       "teamADifficulty": 3,
       "kickoffTime": "2026-11-08T14:00:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 1,
       "teamAScore": 0
     },
@@ -1197,7 +1197,7 @@
       "teamHDifficulty": 3,
       "teamADifficulty": 3,
       "kickoffTime": "2026-11-08T16:30:00Z",
-      "finished": false,
+      "finished": true,
       "teamHScore": 4,
       "teamAScore": 4
     },
