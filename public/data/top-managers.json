@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:55:09.966Z",
+  "generatedAt": "2026-11-24T02:38:08.718Z",
   "leagueId": 314,
   "eventId": 11,
   "sampleSize": 50,
@@ -36,13 +36,13 @@
     },
     {
       "playerId": 112,
-      "count": 31,
-      "percent": 62
+      "count": 32,
+      "percent": 64
     },
     {
       "playerId": 1,
-      "count": 26,
-      "percent": 52
+      "count": 27,
+      "percent": 54
     },
     {
       "playerId": 154,
@@ -76,15 +76,15 @@
     },
     {
       "playerId": 31,
-      "count": 15,
-      "percent": 30
+      "count": 14,
+      "percent": 28
     }
   ],
   "mostCaptained": [
     {
       "playerId": 411,
-      "count": 41,
-      "percent": 82
+      "count": 42,
+      "percent": 84
     },
     {
       "playerId": 166,
@@ -105,17 +105,12 @@
       "playerId": 115,
       "count": 1,
       "percent": 2
-    },
-    {
-      "playerId": 124,
-      "count": 1,
-      "percent": 2
     }
   ],
   "formationCounts": [
     {
       "formation": "3-4-3",
-      "count": 16
+      "count": 17
     },
     {
       "formation": "4-4-2",
@@ -123,7 +118,7 @@
     },
     {
       "formation": "4-3-3",
-      "count": 12
+      "count": 11
     },
     {
       "formation": "3-5-2",
